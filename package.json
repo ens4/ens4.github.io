@@ -1,37 +1,47 @@
 {
-    "title": "Clean Blog Jekyll",
-    "name": "startbootstrap-clean-blog-jekyll",
-    "version": "4.0.12",
-    "description": "Clean Blog is a Medium inspired blog theme for Bootstrap.",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
+  "name": "opensource",
+  "version": "0.1.0",
+  "description": "Kakao Opensource",
+  "repository": "kakao/kakao.github.io",
+  "license": "MIT",
+  "bugs": "https://github.com/kakao/kakao.github.io/issues",
+  "devDependencies": {
+    "npm-run-all": "^4.1.5",
+    "prettier": "^2.8.8",
+    "stylelint": "^15.9.0",
+    "stylelint-config-standard-scss": "^10.0.0"
+  },
+  "scripts": {
+    "lint": "npm-run-all --parallel --continue-on-error lint:*",
+    "lint:css": "stylelint '**/*.scss'",
+    "lint:formatting": "prettier --check '**/*.{scss,js,json}'",
+    "format": "prettier --write '**/*.{scss,js,json}'",
+    "test": "npm run lint"
+  },
+  "stylelint": {
+    "ignoreFiles": [
+      "assets/css/just-the-docs-default.scss",
+      "assets/css/just-the-docs-light.scss",
+      "assets/css/just-the-docs-dark.scss",
+      "_sass/vendor/**/*.scss"
     ],
-    "homepage": "https://startbootstrap.com/themes/clean-blog-jekyll",
-    "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
+    "extends": [
+      "stylelint-config-standard-scss"
     ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll.git"
-    },
-    "dependencies": {
-        "bootstrap": "4.6.0",
-        "font-awesome": "4.7.0",
-        "jquery": "3.6.0",
-        "startbootstrap-clean-blog": "5.1.0"
-    },
-    "devDependencies": {
-        "browser-sync": "2.26.14"
+    "rules": {
+      "alpha-value-notation": null,
+      "at-rule-empty-line-before": null,
+      "color-function-notation": null,
+      "media-feature-range-notation": "prefix",
+      "no-descending-specificity": null,
+      "scss/no-global-function-names": null
     }
+  },
+  "prettier": {
+    "endOfLine": "lf",
+    "semi": false,
+    "singleQuote": false,
+    "tabWidth": 2,
+    "trailingComma": "es5"
+  }
 }

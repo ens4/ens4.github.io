@@ -1,154 +1,81 @@
-# [Start Bootstrap - Clean Blog Jekyll](https://startbootstrap.com/themes/clean-blog-jekyll/) - Official Jekyll Version
+# 오픈소스 가이드
 
-[Clean Blog Jekyll](https://startbootstrap.com/themes/clean-blog-jekyll/) is a stylish, responsive blog theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working contact form powered by [Formspree](https://formspree.io/).
+카카오는 <strong>'개발자들이 오픈소스를 잘 사용하고 오픈소스에 기여할 수 있도록 돕는다'</strong>를 목표로 오픈소스를 가이던스 하고 있습니다.<br>  
+이 오픈소스 가이드가 오픈소스의 가치를 이해하고, 오픈소스를 올바르게 사용하고 기여하는데 도움이 되기를 바랍니다.
 
-This repository holds the official Jekyll version of the Clean Blog theme on Start Bootstrap!
 
-## Preview
+# 설치
+## 사전 준비
+[GitHub Pages](https://pages.github.com/)와 [Jekyll](https://jekyllrb.com/)에 대하여 충분히 알고
+[Collaborating with pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests)의 내용에 대하여 충분히 이해합니다.
 
-[![Clean Blog (Jekyll) Preview](https://startbootstrap.com/assets/img/screenshots/themes/clean-blog-jekyll.png)](http://StartBootstrap.github.io/startbootstrap-clean-blog-jekyll/)
+## 설치
+### [kakao.github.io](https://github.com/kakao/kakao.github.io) 에 push 권한이 있다면
+1. git fetch or pull or clone
+2. [Jekyll](https://jekyllrb.com/) 설치 
+```console
+$ git clone git@github.com:kakao/kakao.github.io.git
+$ cd kakao.github.io
+$ bundle install
+```
 
-**[View Live Preview](http://StartBootstrap.github.io/startbootstrap-clean-blog-jekyll/)**
+### [kakao.github.io](https://github.com/kakao/kakao.github.io) 에 push 권한이 없다면:
+1. <https://github.com/kakao/kakao.github.io> 에서 `Fork` 버튼 클릭
+2. Fork 저장소 계정 선택
+3. git fetch or pull or clone
+4. Fork 설정 [Configuring a remote for a fork](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/working-with-forks/configuring-a-remote-repository-for-a-fork)
+5. Fork 동기화 [Syncing a fork](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
+6. [Jekyll](https://jekyllrb.com/) 설치
+```console
+$ git clone git@github.com:YOUR_GITHUB_ACCOUNT/kakao.github.io.git
+$ cd kakao.github.io
+$ git remote add upstream git@github.com:kakao/kakao.github.io.git
+$ git fetch upstream
+$ git checkout main
+$ git merge upstream/main
+$ bundle install
+```
 
-## Installation & Setup
+### 로컬 실행
+```
+$ bundle exec jekyll serve
+$ open http://localhost:4000
+```
 
-### Using RubyGems
+### 배포(발행)
 
-When installing the theme using RubyGems, demo images, posts, and pages are not included. Follow the instructions below for complete setup.
+#### [kakao.github.io](https://github.com/kakao/kakao.github.io) 에 push 권한이 있다면:
+```
+$ git commit -m '...'
+$ git push origin main
+````
 
-1. (Optional) Create a new Jekyll site: `jekyll new my-site`
-2. Replace the current theme in your `Gemfile` with `gem "jekyll-theme-clean-blog"`.
-3. Install the theme (run the command inside your site directory): `bundle install`
-4. Replace the current theme in your `_config.yml` file with `theme: jekyll-theme-clean-blog`.
-5. Build your site: `bundle exec jekyll serve`
+#### [kakao.github.io](https://github.com/kakao/kakao.github.io) 에 push 권한이 없다면:
+1. Fork 동기화 [Syncing a fork](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
+2. Pull Request 보내기 [Creating a pull request](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
-Assuming there are no errors and the site is building properly, follow these steps next:
 
-1. Create the following pages if they do not exist already (or change the extension of existing markdown files from `.md` to `.html`):
+## 기여 ✨
+카카오 오픈소스 가이드는 모든 기여를 환영합니다.<br/>
+이 프로젝트에 대한 자유로운 의견이나 버그 리포팅, 기능 등을 추가하고자 한다면 [Pull Requests](https://github.com/kakao/kakao.github.io/pulls)로 제출해주세요.
 
-   * `index.html` - set to `layout: home`
-   * `about.html` - set to `layout: page`
-   * `contact.html` - set to `layout: page`
-   * `posts/index.html` - set to `layout: page` (you will also need to create a `posts` directory)
+## 기여 지침
+다음은 카카오 오픈소스 가이드 프로젝트에 기여하기 위한 일련의 지침입니다.<br>
+카카오 오픈소스 가이드 프로젝트 개선에 참여할 방법을 알아보려면 [CONTRIBUTING.md](./CONTRIBUTING.md) 를 참고해 주세요.<br>
+기여나 개선은 [Pull Requests](https://github.com/kakao/kakao.github.io/pulls) 와 [GitHub Issues](https://github.com/kakao/kakao.github.io/issues)로 만들어 제출할 수 있습니다.<br/>
+카카오 오픈소스 가이드 프로젝트에 참여하는 모든 사람은 [Code of Conduct](./CODE_OF_CONDUCT.md)의 적용을 받습니다.<br>
 
-2. Configure the `index.html` front matter. Example:
+카카오 오픈소스 가이드에 [기여를 해주신 분](https://github.com/kakao/kakao.github.io/graphs/contributors)들께 미리 감사드립니다.❤️
 
-    ```markdown
-    ---
-    layout: home
-    background: '/PATH_TO_IMAGE'
-    ---
-    ```
+## License
+This software is licensed under the [MIT license](./LICENSE), quoted below.
 
-3. Configure the `about.html`, `contact.html`, and `posts/index.html` front matter. Example:
+Copyright 2023 Kakao Corp. [http://www.kakaocorp.com](http://www.kakaocorp.com/)
 
-    ```markdown
-    ---
-    layout: page
-    title: Page Title
-    description: This is the page description.
-    background: '/PATH_TO_IMAGE'
-    ---
-    ```
+### ❕caution
+>This Kakao Open Source Guide document and other content is licensed under the [Creative Commons BY 4.0 license](./CC-BY-4.0).
+>카카오 오픈소스 가이드의 문서 및 기타 콘텐츠에 대하여 [Creative Commons BY 4.0](./CC-BY-4.0) 라이선스를 적용합니다.
 
-4. For each post in the `_posts` directory, update the front matter. Example:
 
-    ```markdown
-    ---
-    layout: post
-    title: "Post Title"
-    subtitle: "This is the post subtitle."
-    date: YYYY-MM-DD HH:MM:SS
-    background: '/PATH_TO_IMAGE'
-    ---
-    ```
-
-    For reference, look at the [demo repository](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll) to see how the files are set up.
-
-5. Add the form to the `contact.html` page. Add the following code to your `contact.html` page:
-
-    ```html
-    <form name="sentMessage" id="contactForm" novalidate>
-      <div class="control-group">
-        <div class="form-group floating-label-form-group controls">
-          <label>Name</label>
-          <input type="text" class="form-control" placeholder="Name" id="name" required data-validation-required-message="Please enter your name.">
-          <p class="help-block text-danger"></p>
-        </div>
-      </div>
-      <div class="control-group">
-        <div class="form-group floating-label-form-group controls">
-          <label>Email Address</label>
-          <input type="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
-          <p class="help-block text-danger"></p>
-        </div>
-      </div>
-      <div class="control-group">
-        <div class="form-group col-xs-12 floating-label-form-group controls">
-          <label>Phone Number</label>
-          <input type="tel" class="form-control" placeholder="Phone Number" id="phone" required data-validation-required-message="Please enter your phone number.">
-          <p class="help-block text-danger"></p>
-        </div>
-      </div>
-      <div class="control-group">
-        <div class="form-group floating-label-form-group controls">
-          <label>Message</label>
-          <textarea rows="5" class="form-control" placeholder="Message" id="message" required data-validation-required-message="Please enter a message."></textarea>
-          <p class="help-block text-danger"></p>
-        </div>
-      </div>
-      <br>
-      <div id="success"></div>
-      <div class="form-group">
-        <button type="submit" class="btn btn-primary" id="sendMessageButton">Send</button>
-      </div>
-    </form>
-    ```
-
-    Make sure you have the `email` setting in your `_config.yml` file set to a working email address! Once this is set, fill out the form and then check your email, verify the email address using the link sent to you by Formspree, and then the form will be working!
-
-6. Build your site: `bundle exec jekyll serve`
-
-### Using Core Files
-
-When using the core files, the demo images, posts, and pages are all included with the download. After following the instructions below, you can then go and change the content of the pages and posts.
-
-1. [Download](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll/archive/master.zip) or Clone the repository.
-2. Update the following configuration settings in your `_config.yml` file:
-
-    * `baseurl`
-    * `url`
-    * `title`
-    * `email` (after setting this setting to a working email address, fill out the form on the contact page and send it - then check your email and verify the address and the form will send you messages when used)
-    * `description`
-    * `author`
-    * `twitter_username` (Optional)
-    * `facebook_username` (Optional)
-    * `github_username` (Optional)
-    * `linkedin_username` (Optional)
-    * `instagram_username` (Optional)
-
-3. Build your site: `bundle exec jekyll serve`
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll/issues) here on GitHub!
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**.
-
-* <http://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
-
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll/blob/master/LICENSE) license.
+## 테마
+- Just the Docs : https://github.com/just-the-docs/just-the-docs

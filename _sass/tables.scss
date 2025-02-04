@@ -1,0 +1,57 @@
+// Tables
+// stylelint-disable max-nesting-depth, selector-no-type, selector-max-type
+
+.table-wrapper {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: $sp-5;
+  overflow-x: auto;
+  border: #dddddd solid 1px;
+}
+
+table {
+  display: table;
+  min-width: 100%;
+  border-collapse: separate;
+  border-spacing :0px;
+}
+
+th,
+td {
+  @include fs-3;
+
+  min-width: 105px;
+  padding: $sp-2 $sp-3;
+  background-color: $table-background-color;
+  border-bottom: $border #dddddd;
+  border-left: $border #dddddd;
+
+  &:first-of-type {
+    border-left: 0;
+    background-color: #f4f4f4;
+  }
+}
+
+tbody {
+  tr {
+    &:last-of-type {
+      th,
+      td {
+        border-bottom: 0;
+      }
+
+      td {
+        padding-bottom: $sp-3;
+      }
+    }
+  }
+}
+
+thead {
+  th {
+    border-bottom: $border #dddddd;
+    background-color: #f4f4f4;
+  }
+}
+
