@@ -17,7 +17,7 @@
 title: ens4
 description: OpenSource for documentation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ens4.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tech.ens4.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 
