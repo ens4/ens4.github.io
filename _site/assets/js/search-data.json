@@ -1,0 +1,1262 @@
+{"0": {
+    "doc": "AGPL-3.0",
+    "title": "AGPL-3.0",
+    "content": " ",
+    "url": "/docs/license/licenselst/AGPL-3.0/",
+    
+    "relUrl": "/docs/license/licenselst/AGPL-3.0/"
+  },"1": {
+    "doc": "AGPL-3.0",
+    "title": "라이선스 개요",
+    "content": "라이선스 요약 . GPLv3와 동일한 의무사항(배포 시 전체 코드 공개)을 가지며, 추가로 네트워크로 상호 작용하는 소프트웨어의 소스 코드를 공개해야 합니다. 소스 형태로 재배포 . | 고지 의무 . | 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | . | 수정 시 의무사항 . | 추가 및 수정한 부분에 AGPL-3.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 수정일, 수정 내용을 주석 형태로 포함). | . | . 바이너리 형태로 재배포 . | 고지 의무 . | 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | . | 수정 시 의무사항 . | 추가 및 수정한 부분에 AGPL-3.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 오픈소스 고지문에 수정일, 수정내용을 포함). | . | 소스 코드 제공 의무 . | 바이너리에 해당하는 전체 소스 코드를 제공합니다. | AGPL-3.0은 파생 저작물에 대해서도 AGPL-3.0을 적용하여 소스 코드를 공개할 것을 요구합니다. | 바이너리 배포를 사용하는 사용자가 공개된 소스 코드로 동일한 바이너리를 만들 수 있는 빌드 환경이 제공되어야 합니다. | . | 설치 정보 제공 의무 . | 바이너리를 사용자 제품(User Product)와 함께 배포한다면, 설치 정보(Installation Information)를 함께 제공합니다. | . | . 원격 네트워크 상호 작용 . | 원격 사용자가 수정된 버전의 소스 코드를 다운 받을 수 있도록 네트워크 서버를 제공해야 합니다. | . 라이선스 설명 . 자유 소프트웨어 재단(FSF, Free Software Foundation)은 2007년 AGPL-3.0 라이선스를 공개하였습니다. AGPL-3.0은 GPL-3.0에 네트워크로 상호 작용하는 소프트웨어의 소스 코드 또한 공개해야 한다는 조항을 추가한 라이선스입니다. 참고하기 . AGPL-3.0 라이선스에 관한 보다 자세한 내용은 라이선스 전문을 참고합니다. 소스 코드 내 라이선스 문구 . AGPL-3.0 라이선스 하에 오픈소스는 일반적으로 소스 코드 상단에 아래와 같은 문구가 존재합니다. Copyright (C) &lt;year&gt; &lt;name of author&gt; This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details. You should have received a copy of the GNU Affero General Public License along with this program. If not, see &lt;http://www.gnu.org/licenses/&gt;. ",
+    "url": "/docs/license/licenselst/AGPL-3.0/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B0%9C%EC%9A%94",
+    
+    "relUrl": "/docs/license/licenselst/AGPL-3.0/#라이선스-개요"
+  },"2": {
+    "doc": "AGPL-3.0",
+    "title": "배포 형태별 의무사항",
+    "content": "Case 1: 소스 형태로 재배포 . AGPL-3.0 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아래의 사항들을 준수합니다. 1-1 고지 의무 . 소스 코드 내 명시된 저작권 및 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | 저작권 고지 제공 | 보증 부인 제공 | 라이선스 사본 제공 | . 수정 시 의무 사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래의 사항들을 준수합니다. | 추가 및 수정한 부분에 AGPL-3.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 수정일, 수정 내용을 주석 형태로 포함). | . Case 2: 바이너리 형태로 재배포 . AGPL-3.0 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 아래 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | 저작권 고지 제공 | 보증 부인 제공 | 라이선스 사본 제공 | . 수정 시 의무 사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래 사항을 준수합니다. | 추가 및 수정한 부분에 대해, AGPL-3.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 오픈소스 고지문에 수정일, 수정 내용을 포함). | . 소스 코드 제공 의무 . 바이너리에 해당하는 소스 코드를 제공합니다. 이때, 아래 사항들을 준수합니다. AGPL-3.0 라이선스는 파생 저작물에 대해서도 AGPL-3.0을 적용하여 소스 코드를 공개할 것을 요구합니다. 아래 내용을 참고하여, AGPL-3.0 라이선스 하에 오픈소스와 파생 저작물의 소스 코드를 공개합니다. APGL-3.0 라이선스 파생 저작물의 범위 일반적인 AGPL-3.0 라이선스의 파생 저작물의 범위는 아래와 같습니다. | 수정 코드 | AGPL 프로그램과 동일한 프로세스에서 동작하는 모듈(Module) | AGPL 프로그램과 링크로 연결한 라이브러리(Library) | AGPL 프로그램을 상속한 클래스(Class) | . 아래의 경우 AGPL의 파생 저작물로 간주하지 않습니다. | CD와 같은 매체에 함께 존재하지만 AGPL 프로그램과 전혀 연동하지 않는 독립 프로그램 (#MereAggregation) | AGPL 프로그램과는 별도의 프로그램으로써 파이프(Pipe), 소켓(Socket), IPC, 명령행 인자(Command Line Arguments)로 AGPL 프로그램과 통신하는 경우 | . 바이너리 사용자가 공개된 소스 코드로 동일한 바이너리를 만들 수 있는 빌드 환경을 제공합니다. 여기에는 아래 사항이 포함됩니다. | 툴 체인(Tool chain) 정보 | 빌드 스크립트 | 빌드 방법(README 파일) | . 소스 코드 대신 서면 약정서(Written Offer)를 제공할 수 있습니다. 여기에는 아래의 내용이 포함되어야 합니다. | 서면 약정서는 제품 판매 후 3년간 유효합니다. | 누구에게나 제공합니다. | 비용 청구를 하지 않습니다(소스 전달을 위해 발생하는 비용 제외). | . 이후, 외부로부터 서면 약정서를 근거로 소스 코드 제공을 요청받을 경우, 위에서 언급한 바이너리에 해당하는 소스 코드를 제공해야 합니다. 따라서, 제품을 판매한 회사는 판매 후 최소 3년간 소스 코드를 보관해야 합니다. 이때, 바이너리를 User Product와 함께 배포한다면, 설치 정보(Installation Information)를 제공해야 합니다. 설치 정보 제공 의무 . 바이너리를 사용자 제품(User Product)와 함께 배포한다면, 설치 정보(Installation Information)를 제공해야 합니다. | User Product: 전자 기기와 같은 Embedded Device | 설치 정보(Installation Information): 사용자가 소스 코드를 빌드하여 다시 제품에 설치하기 위해 필요한 모든 정보 및 방법 | . 사용 제한 . 대부분의 사용자 제품(User Product)은 보안상의 이유로 설치 정보 제공이 불가능합니다. 따라서, 사용자 제품(User Product)으로 배포하는 소프트웨어에는 AGPL-3.0 라이선스의 오픈소스를 사용하지 않습니다. Case 3. 원격 네트워크 상호 작용 . AGPL-3.0 라이선스 하에 오픈소스를 ① 수정하고, ② 수정한 버전이 네트워크를 통해 원격의 사용자와 상호 작용하는 경우 아래 사항을 준수합니다. | 원격 사용자가 수정된 버전의 소스 코드를 다운로드할 수 있도록, 네트워크 서버를 제공합니다. | 여기서의 소스 코드는 위의 소스 코드 제공 의무에서 요구하는 범위와 동일합니다. | . ",
+    "url": "/docs/license/licenselst/AGPL-3.0/#%EB%B0%B0%ED%8F%AC-%ED%98%95%ED%83%9C%EB%B3%84-%EC%9D%98%EB%AC%B4%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/license/licenselst/AGPL-3.0/#배포-형태별-의무사항"
+  },"3": {
+    "doc": "AGPL-3.0",
+    "title": "라이선스 호환성",
+    "content": "하나의 프로그램에서 요구하는 의무사항이 상충되는 오픈소스 라이선스들은 양립할 수 없습니다. 아래는 AGPL-3.0 라이선스와 충돌하는 라이선스 목록입니다. AGPL-3.0 라이선스를 사용하는 프로그램 내에, 아래의 라이선스의 오픈소스들을 포함하지 않도록 합니다. | Apache-1.1 | BSD-4-Clause | FTL | IJG | OpenSSL | Python-2.0 | zlib-acknowledgement | XFree86-1.1 | . 참고하기 . 보다 자세한 AGPL-3.0 라이선스와 충돌하는 라이선스 목록은 GPL-Incompatible Free Software Licenses 문서를 참고합니다. ✔︎ OSADL 체크리스트: https://www.osadl.org/fileadmin/checklists/unreflicenses/AGPL-3.0-only.txt . ",
+    "url": "/docs/license/licenselst/AGPL-3.0/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%ED%98%B8%ED%99%98%EC%84%B1",
+    
+    "relUrl": "/docs/license/licenselst/AGPL-3.0/#라이선스-호환성"
+  },"4": {
+    "doc": "Apache-2.0",
+    "title": "Apache-2.0",
+    "content": " ",
+    "url": "/docs/license/licenselst/Apache-2.0/",
+    
+    "relUrl": "/docs/license/licenselst/Apache-2.0/"
+  },"5": {
+    "doc": "Apache-2.0",
+    "title": "라이선스 개요",
+    "content": "라이선스 요약 . Apache-2.0 라이선스는 기본적으로 고지에 대한 의무가 주를 이루고 있습니다. 소스 형태로 재배포 . | 고지 의무 . | 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | . | 수정 시 의무사항 . | 추가 및 수정한 부분에 AGPL-3.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 수정일, 수정 내용을 주석 형태로 포함). | . | . 바이너리 형태로 재배포 . | 고지 의무 . | 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | . | . 라이선스 설명 . Apache-2.0은 Apache Software Foundation에서 만든 오픈소스 라이선스이며, 소스 코드 공개를 요구하지 않는 퍼미시브(Permissive) 형태의 라이선스입니다. 참고하기 . Apache-2.0 라이선스에 관한 보다 자세한 내용은 라이선스 전문을 참고합니다. 소스 코드 내 라이선스 문구 . Apache-2.0 라이선스 하에 오픈소스는 일반적으로 소스 코드 상단에 아래와 같은 문구가 존재합니다. Copyright [yyyy] [name of copyright owner] Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. ",
+    "url": "/docs/license/licenselst/Apache-2.0/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B0%9C%EC%9A%94",
+    
+    "relUrl": "/docs/license/licenselst/Apache-2.0/#라이선스-개요"
+  },"6": {
+    "doc": "Apache-2.0",
+    "title": "배포 형태별 의무사항",
+    "content": "Case 1: 소스 형태로 재배포 . Apache-2.0 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 소스 코드 내 명시된 저작권 및 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | 라이선스 사본 제공 | 저작권, 특허, 상표권 등 정보를 유지 | 고지문(NOTICE) 파일이 포함되어 있을 경우 이를 유지 | . 수정 시 의무 사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래의 사항을 준수합니다. | 수정 사항에 대한 고지를 포함합니다(예: 수정일, 수정 내용을 주석 형태로 포함). | . Case 2: 바이너리 형태로 재배포 . Apache-2.0 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 아래의 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | 라이선스 사본 제공 | 저작권, 특허, 상표권 등 정보를 유지 | NOTICE 파일이 포함되어 있을 경우 이를 유지 | . 참고하기 . ✔︎ OSADL 체크리스트: https://www.osadl.org/fileadmin/checklists/unreflicenses/Apache-2.0.txt . ",
+    "url": "/docs/license/licenselst/Apache-2.0/#%EB%B0%B0%ED%8F%AC-%ED%98%95%ED%83%9C%EB%B3%84-%EC%9D%98%EB%AC%B4%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/license/licenselst/Apache-2.0/#배포-형태별-의무사항"
+  },"7": {
+    "doc": "BSD-2-Clause",
+    "title": "BSD-2-Clause",
+    "content": " ",
+    "url": "/docs/license/licenselst/BSD-2-Clause/",
+    
+    "relUrl": "/docs/license/licenselst/BSD-2-Clause/"
+  },"8": {
+    "doc": "BSD-2-Clause",
+    "title": "라이선스 개요",
+    "content": "라이선스 요약 . BSD-2-Clause 라이선스는 기본적으로 고지에 대한 의무가 주를 이루고 있습니다. 소스 형태로 재배포 . | 고지 의무 . | 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | . | . 바이너리 형태로 재배포 . | 고지 의무 . | 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | . | . 라이선스 설명 . BSD-2-Clause는 “Simplified BSD License” 또는 “FreeBSD License” 라고도 불리며 소스 코드 공개를 요구하지는 않는 퍼미시브(Permissive) 형태의 라이선스입니다. 특징으로는 BSD-3-Clause 라이선스보다 간략해졌다는 점이 있습니다. 참고하기 . BSD-2-Clause 라이선스에 관한 보다 자세한 내용은 라이선스 전문을 참고합니다. 소스 코드 내 라이선스 문구 . BSD-2-Clause 라이선스 하에 오픈소스는 일반적으로 소스 코드 상단에 아래와 같은 문구가 존재합니다. Copyright (c) &lt;YEAR&gt;, &lt;OWNER&gt; All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. ",
+    "url": "/docs/license/licenselst/BSD-2-Clause/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B0%9C%EC%9A%94",
+    
+    "relUrl": "/docs/license/licenselst/BSD-2-Clause/#라이선스-개요"
+  },"9": {
+    "doc": "BSD-2-Clause",
+    "title": "배포 형태별 의무사항",
+    "content": "Case 1: 소스 형태로 재배포 . BSD-2-Clause 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아래 사항들을 준수합니다. 고지 의무 . | 저작권 고지 | 라이선스 사본 제공 | 보증 부인 고지 | . Case 2: 바이너리 형태로 재배포 . BSD-2-Clause 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래 사항들을 준수합니다. 고지 의무 . 아래의 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | 저작권 고지 | 라이선스 사본 제공 | 보증 부인 고지 | . 참고하기 . ✔︎ OSADL 체크리스트: https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-2-Clause.txt . ",
+    "url": "/docs/license/licenselst/BSD-2-Clause/#%EB%B0%B0%ED%8F%AC-%ED%98%95%ED%83%9C%EB%B3%84-%EC%9D%98%EB%AC%B4%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/license/licenselst/BSD-2-Clause/#배포-형태별-의무사항"
+  },"10": {
+    "doc": "BSD-3-Clause",
+    "title": "BSD-3-Clause",
+    "content": " ",
+    "url": "/docs/license/licenselst/BSD-3-Clause/",
+    
+    "relUrl": "/docs/license/licenselst/BSD-3-Clause/"
+  },"11": {
+    "doc": "BSD-3-Clause",
+    "title": "라이선스 개요",
+    "content": "라이선스 요약 . BSD-3-Clause 라이선스는 기본적으로 고지에 대한 의무가 주를 이루고 있습니다. 소스 형태로 재배포 . | 고지 의무 . | 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | . | . 바이너리 형태로 재배포 . | 고지 의무 . | 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | . | . 라이선스 설명 . BSD-3-Clause는 “New BSD License” 또는 “Modified BSD License” 라고도 불리며 소스 코드 공개를 요구하지는 않는 퍼미시브(Permissive) 형태의 라이선스입니다. 특징으로는 BSD-4-Clause 라이선스에서 문제가 된 광고 조항(Advertising clause) 부분이 삭제되었다는 점이 있습니다. 참고하기 . BSD-3-Clause 라이선스에 관한 보다 자세한 내용은 라이선스 전문을 참고합니다. 소스 코드 내 라이선스 문구 . BSD-3-Clause 라이선스 하에 오픈소스는 일반적으로 소스 코드 상단에 아래와 같은 문구가 존재합니다. Copyright (c) &lt;year&gt;, &lt;copyright holder&gt; All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. * Neither the name of the &lt;organization&gt; nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission. THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL &lt;COPYRIGHT HOLDER&gt; BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. ",
+    "url": "/docs/license/licenselst/BSD-3-Clause/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B0%9C%EC%9A%94",
+    
+    "relUrl": "/docs/license/licenselst/BSD-3-Clause/#라이선스-개요"
+  },"12": {
+    "doc": "BSD-3-Clause",
+    "title": "배포 형태별 의무사항",
+    "content": "Case 1: 소스 형태로 재배포 . BSD-3-Clause 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 소스 코드 내 명시된 저작권 및 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | 저작권 고지 | 라이선스 사본 제공 | 보증 부인 고지 | . Case 2: 바이너리 형태로 재배포 . BSD-3-Clause 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래 사항들을 준수합니다. 고지 의무 . 아래의 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | 저작권 고지 | 라이선스 사본 제공 | 보증 부인 고지 | . 참고하기 . ✔︎ OSADL 체크리스트: https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-3-Clause.txt . ",
+    "url": "/docs/license/licenselst/BSD-3-Clause/#%EB%B0%B0%ED%8F%AC-%ED%98%95%ED%83%9C%EB%B3%84-%EC%9D%98%EB%AC%B4%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/license/licenselst/BSD-3-Clause/#배포-형태별-의무사항"
+  },"13": {
+    "doc": "BSD-4-Clause",
+    "title": "BSD-4-Clause",
+    "content": " ",
+    "url": "/docs/license/licenselst/BSD-4-Clause/",
+    
+    "relUrl": "/docs/license/licenselst/BSD-4-Clause/"
+  },"14": {
+    "doc": "BSD-4-Clause",
+    "title": "라이선스 개요",
+    "content": "라이선스 요약 . BSD-4-Clause 라이선스는 기본적으로 고지에 대한 의무가 주를 이루고 있으며, 광고에 대한 조항(Advertising clause)이 존재합니다. 소스 형태로 재배포 . | 고지 의무 + 광고 조항(Advertising clause) . | 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | BSD-4-Clause 라이선스 하에 오픈소스의 기능과 활용을 언급하는 모든 광고에 아래 문구를 포함시킵니다. | “This product includes software developed by the &lt;organization&gt;.” | . | . 바이너리 형태로 재배포 . | 고지 의무 . | 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | BSD-4-Clause 라이선스 하에 오픈소스의 기능과 활용을 언급하는 모든 광고에 아래 문구를 포함시킵니다. | “This product includes software developed by the &lt;organization&gt;.” | . | . 참고하기 . 광고에 대한 조항이 자유로운 사용을 막을 수 있는 보다 자세한 이유는 The BSD License Problem 페이지에서 확인할 수 있습니다. 라이선스 설명 . BSD-4-Clause는 BSD 4-Clause “Original BSD License” 또는 “Old BSD License” 라고도 불리며 소스 코드 공개를 요구하지는 않는 퍼미시브(Permissive) 형태의 라이선스입니다. 다만, 라이선스가 광고 조항(Advertising clause)을 포함하고 있어, 자유롭게 사용하는데 문제가 될 수 있습니다. 참고하기 . BSD-4-Clause 라이선스에 관한 보다 자세한 내용은 라이선스 전문 설명을 참고합니다. 소스 코드 내 라이선스 문구 . BSD-4-Clause 라이선스 하에 오픈소스는 일반적으로 소스 코드 상단에 아래와 같은 문구가 존재합니다. Copyright (c) &lt;year&gt;, &lt;copyright holder&gt; All rights reserved. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 3. All advertising materials mentioning features or use of this software must display the following acknowledgement: This product includes software developed by the &lt;organization&gt;. 4. Neither the name of the &lt;organization&gt; nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission. THIS SOFTWARE IS PROVIDED BY &lt;COPYRIGHT HOLDER&gt; ''AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL &lt;COPYRIGHT HOLDER&gt; BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. ",
+    "url": "/docs/license/licenselst/BSD-4-Clause/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B0%9C%EC%9A%94",
+    
+    "relUrl": "/docs/license/licenselst/BSD-4-Clause/#라이선스-개요"
+  },"15": {
+    "doc": "BSD-4-Clause",
+    "title": "배포 형태별 의무사항",
+    "content": "Case 1: 소스 형태로 재배포 . BSD-4-Clause 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아래 사항들을 준수합니다. 고지 의무 . 소스 코드 내 명시된 저작권 및 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | 저작권 고지 | 라이선스 사본 제공 | 보증 부인 고지 | BSD-4-Clause 라이선스 하에 오픈소스의 기능과 활용을 언급하는 모든 광고에 아래 문구를 포함시킵니다. “This product includes software developed by the &lt;organization&gt;.” | . Case 2: 바이너리 형태로 재배포 . BSD-4-Clause 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래 사항들을 준수합니다. 고지 의무 . 아래의 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | 저작권 고지 | 라이선스 사본 제공 | 보증 부인 고지 | BSD-4-Clause 라이선스 하에 오픈소스의 기능과 활용을 언급하는 모든 광고에 아래 문구를 포함시킵니다. “This product includes software developed by the &lt;organization&gt;.” | . 광고 조항 문제 . FreeBSD, NetBSD, BSD 등의 오픈소스는 원래 BSD-4-Clause를 적용하였으나, 광고 조항(Advertising clause)의 문제를 인식하여 BSD-3-Clause, BSD-2-Clauese 등으로 라이선스를 변경하였습니다. | FreeBSD: BSD-2-Clause로 변경 | NetBSD: BSD-2-Clause로 변경 | BSD: BSD-3-Clause로 변경 | . 참고하기 . ✔︎ OSADL 체크리스트: https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-4-Clause.txt . ",
+    "url": "/docs/license/licenselst/BSD-4-Clause/#%EB%B0%B0%ED%8F%AC-%ED%98%95%ED%83%9C%EB%B3%84-%EC%9D%98%EB%AC%B4%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/license/licenselst/BSD-4-Clause/#배포-형태별-의무사항"
+  },"16": {
+    "doc": "CDDL-1.0",
+    "title": "CDDL-1.0",
+    "content": " ",
+    "url": "/docs/license/licenselst/CDDL-1.0/",
+    
+    "relUrl": "/docs/license/licenselst/CDDL-1.0/"
+  },"17": {
+    "doc": "CDDL-1.0",
+    "title": "라이선스 개요",
+    "content": "라이선스 요약 . CDDL-1.0 라이선스는 고지 의무와 함께 수정한 파일의 소스 코드 공개 의무가 존재합니다. 소스 형태로 재배포 . | 고지 의무 . | 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | . | 수정 시 의무사항 . | 수정한 파일에 CDDL-1.0 라이선스를 적용합니다. 단, 별도로 추가한 파일에는 CDDL-1.0 적용 의무가 없습니다. | . | . 바이너리 형태로 재배포 . | 고지 의무 . | 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | . | 수정 시 의무사항 . | 수정한 파일에 CDDL-1.0 라이선스를 적용합니다. 단, 별도로 추가한 파일에는 CDDL-1.0 적용 의무가 없습니다. | . | 소스 코드 제공 의무 . | 바이너리 내 CDDL-1.0 라이선스에 해당하는 파일의 소스 코드를 제공합니다. | . | . 라이선스 설명 . CDDL-1.0(Common Development and Distribution License 1.0)은 파일 단위의 소스 코드 공개를 요구하는 약한 카피레프트(Weak Copyleft) 성격의 라이선스입니다. 참고하기 . CDDL-1.0 라이선스에 관한 보다 자세한 내용은 라이선스 전문을 참고합니다. ",
+    "url": "/docs/license/licenselst/CDDL-1.0/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B0%9C%EC%9A%94",
+    
+    "relUrl": "/docs/license/licenselst/CDDL-1.0/#라이선스-개요"
+  },"18": {
+    "doc": "CDDL-1.0",
+    "title": "배포 형태별 의무사항",
+    "content": "Case 1: 소스 형태로 재배포 . CDDL-1.0 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아래 사항들을 준수합니다. 고지 의무 . 소스 코드 내 명시된 저작권 및 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | 라이선스 사본 제공 | 저작권, 특허, 상표권 등 법적 고지 유지 | . 수정 시 의무사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래의 사항들을 준수합니다. | 수정한 파일에 CDDL-1.0 라이선스를 적용합니다. 단, 별도로 추가한 파일에는 CDDL-1.0 적용 의무가 없습니다. | . Case 2: 바이너리 형태로 재배포 . CDDL-1.0 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래 사항들을 준수합니다. 고지 의무 . 아래 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | 라이선스 사본 제공 | 저작권, 특허, 상표권 등 법적 고지 유지 | . 수정 시 의무사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래 사항을 준수합니다. | 수정한 파일에 CDDL-1.0 라이선스를 적용합니다. 단, 별도로 추가한 파일에는 CDDL-1.0 적용 의무가 없습니다. | . 2-2 소스 코드 제공 의무 . 바이너리 내 CDDL-1.0 라이선스에 해당하는 소스 코드 파일을 제공합니다. 이때, 아래 사항을 준수합니다. | CDDL-1.0 라이선스는 기존 파일 내 추가한 내용에 대해서도 CDDL-1.0을 적용하여 소스 코드를 공개할 것을 요구합니다. 따라서, 원본 파일과 더불어 수정한 파일도 CDDL-1.0을 적용하여 공개합니다. | 오픈소스 고지문에 사용자가 소스 코드를 수령할 수 있는 방법을 안내함으로써 소스 코드 제공 의무를 준수합니다. | . 참고하기 . ✔︎ OSADL 체크리스트: https://www.osadl.org/fileadmin/checklists/unreflicenses/CDDL-1.0.txt . ",
+    "url": "/docs/license/licenselst/CDDL-1.0/#%EB%B0%B0%ED%8F%AC-%ED%98%95%ED%83%9C%EB%B3%84-%EC%9D%98%EB%AC%B4%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/license/licenselst/CDDL-1.0/#배포-형태별-의무사항"
+  },"19": {
+    "doc": "EPL-2.0",
+    "title": "EPL-2.0",
+    "content": " ",
+    "url": "/docs/license/licenselst/EPL-2.0/",
+    
+    "relUrl": "/docs/license/licenselst/EPL-2.0/"
+  },"20": {
+    "doc": "EPL-2.0",
+    "title": "라이선스 개요",
+    "content": "라이선스 요약 . EPL-2.0 라이선스는 고지 의무와 함께 수정한 모듈의 코드 공개 의무가 존재합니다. 소스 형태로 재배포 . | 고지 의무 . | 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | . | 수정 시 의무사항 . | 수정한 모듈에 EPL-2.0 라이선스를 적용합니다. | . | . 바이너리 형태로 재배포 . | 고지 의무 . | 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | . | 수정 시 의무사항 . | 수정한 모듈에 EPL-2.0 라이선스를 적용합니다. | . | 소스 코드 제공 의무 . | 바이너리 내 EPL-2.0 라이선스에 해당하는 모듈의 소스 코드를 제공합니다. | . | . 라이선스 설명 . EPL-2.0(Eclipse Public License 2.0)은 모듈 단위의 소스 코드 공개를 요구하는 약한 카피레프트(Weak Copyleft) 성격의 라이선스입니다. 참고하기 . EPL-2.0 라이선스에 관한 보다 자세한 내용은 라이선스 전문을 참고합니다. 소스 코드 내 라이선스 문구 . EPL-2.0 라이선스 하에 오픈소스는 일반적으로 소스 코드 상단에 아래와 같은 문구가 존재합니다. This program and the accompanying materials are made available under the terms of the Eclipse Public License v. 2.0 which is available at http://www.eclipse.org/legal/epl-2.0, or the Eclipse Distribution License v. 1.0 which is available at http://www.eclipse.org/org/documents/edl-v10.php. ",
+    "url": "/docs/license/licenselst/EPL-2.0/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B0%9C%EC%9A%94",
+    
+    "relUrl": "/docs/license/licenselst/EPL-2.0/#라이선스-개요"
+  },"21": {
+    "doc": "EPL-2.0",
+    "title": "배포 형태별 의무사항",
+    "content": "Case 1: 소스 형태로 재배포 . EPL-2.0 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아래 사항들을 준수합니다. 고지 의무 . 소스 코드 내 명시된 저작권 및 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | 라이선스 사본 제공 | 저작권, 특허, 상표권, 보증부인, 면책 등 법적 고지 수정 금지 | . 수정 시 의무사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래 사항을 준수합니다. | 수정한 모듈에 EPL-2.0 라이선스를 적용합니다. | . Case 2: 바이너리 형태로 재배포 . EPL-2.0 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래 사항들을 준수합니다. 고지 의무 . 아래 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | 라이선스 사본 제공 | 저작권, 특허, 상표권, 보증부인, 면책 등 법적 고지 수정 금지 | . 수정 시 의무사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래 사항을 준수합니다. | 수정한 모듈에 EPL-2.0 라이선스를 적용합니다. | . 소스 코드 제공 의무 . 바이너리 내 EPL-2.0 라이선스에 해당하는 모듈의 소스 코드 파일을 제공합니다. 이때, 아래 사항을 준수합니다. | EPL-2.0은 모듈 내 추가한 내용에 대해서도 EPL-2.0을 적용하여 소스 코드를 공개할 것을 요구합니다. 따라서, 원본 모듈과 더불어 모듈 내 추가 및 수정한 내용도 EPL-2.0을 적용하여 공개합니다. | 오픈소스 고지문에 사용자가 소스 코드를 수령할 수 있는 방법을 안내함으로써 소스 코드 제공 의무를 준수합니다. | . 참고하기 . ✔︎ OSADL 체크리스트: https://www.osadl.org/fileadmin/checklists/unreflicenses/EPL-2.0.txt . ",
+    "url": "/docs/license/licenselst/EPL-2.0/#%EB%B0%B0%ED%8F%AC-%ED%98%95%ED%83%9C%EB%B3%84-%EC%9D%98%EB%AC%B4%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/license/licenselst/EPL-2.0/#배포-형태별-의무사항"
+  },"22": {
+    "doc": "GPL-2.0",
+    "title": "GPL-2.0",
+    "content": " ",
+    "url": "/docs/license/licenselst/GPL-2.0/",
+    
+    "relUrl": "/docs/license/licenselst/GPL-2.0/"
+  },"23": {
+    "doc": "GPL-2.0",
+    "title": "라이선스 개요",
+    "content": "라이선스 요약 . GPL-2.0 라이선스는 고지 의무와 함께 전체 코드 공개 의무가 존재합니다. 소스 형태로 재배포 . | 고지 의무 . | 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | . | 수정 시 의무사항 . | 수정한 모듈에 GPL-2.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 수정일, 수정 내용을 주석 형태로 포함). | . | . 바이너리 형태로 재배포 . | 고지 의무 . | 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | . | 수정 시 의무사항 . | 추가 및 수정한 부분에 GPL-2.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 오픈소스 고지문에 수정일, 수정 내용을 포함). | . | 소스 코드 제공 의무 . | 바이너리에 해당하는 전체 소스 코드를 제공합니다. | 바이너리 배포를 사용하는 사용자가 공개된 소스 코드로 동일한 바이너리를 만들 수 있는 빌드 환경이 제공되어야 합니다. | . | . 라이선스 설명 . GPL-2.0은 1991년 자유 소프트웨어 재단(FSF, Free Software Foundation)에서 만든 대표적인 카피레프트(Copyleft) 라이선스입니다. 이 라이선스는 재배포 시 소스 코드를 공개해야 하기 때문에, 사용에 주의가 필요한 라이선스입니다. 참고하기 . GPL-2.0 라이선스에 관한 보다 자세한 내용은 라이선스 전문을 참고합니다. 소스 코드 내 라이선스 문구 . GPL-2.0 라이선스 하에 오픈소스는 일반적으로 소스 코드 상단에 아래와 같은 문구가 존재합니다. Copyright (C) yyyy name of author This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA. ",
+    "url": "/docs/license/licenselst/GPL-2.0/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B0%9C%EC%9A%94",
+    
+    "relUrl": "/docs/license/licenselst/GPL-2.0/#라이선스-개요"
+  },"24": {
+    "doc": "GPL-2.0",
+    "title": "배포 형태별 의무사항",
+    "content": "Case 1: 소스 형태로 재배포 . GPL-2.0 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 소스 코드 내 명시된 저작권 및 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | 저작권 고지 제공 | 보증 부인 제공 | 라이선스 사본 제공 | . 수정 시 의무사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래의 사항들을 준수합니다. | 추가 및 수정한 부분에 GPL-2.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 수정일, 수정 내용을 주석 형태로 포함). | . Case 2: 바이너리 형태로 재배포 . GPL-2.0 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 아래 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | 저작권 고지 제공 | 보증 부인 제공 | 라이선스 사본 제공 | . 소스 코드 제공 의무 . 바이너리에 해당하는 소스 코드를 제공합니다. 이때, 아래 사항들을 준수합니다. | GPL-2.0 라이선스는 파생 저작물에 대해서도 GPL-2.0을 적용하여 소스 코드를 공개할 것을 요구합니다. 아래 내용을 참고하여, GPL-2.0 라이선스 하에 오픈소스와 파생 저작물의 소스 코드를 공개합니다. GPL-2.0 라이선스 파생 저작물의 범위 . 일반적인 GPL-2.0 라이선스의 파생 저작물의 범위는 아래와 같습니다. | 수정 코드 | GPL 프로그램과 동일한 프로세스에서 동작하는 모듈(Module) | GPL 프로그램과 링크로 연결한 라이브러리(Library) | GPL 프로그램을 상속한 클래스(Class) | . 아래의 경우 GPL의 파생 저작물로 간주하지 않습니다. | CD와 같은 매체에 함께 존재하지만 GPL프로그램과 전혀 연동하지 않는 독립 프로그램 | GPL 프로그램과는 별도의 프로그램으로써 파이프(Pipe), 소켓(Socket), IPC, 명령행 인자(Command Line Arguments)로 GPL 프로그램과 통신하는 경우 | . | 바이너리 사용자가 공개된 소스 코드로 동일한 바이너리를 만들 수 있는 빌드 환경을 제공합니다. 여기에는 아래 사항이 포함됩니다. | 툴 체인(Tool chain) 정보 | 빌드 스크립트 | 빌드 방법(README 파일) | . | 소스 코드 대신 서면 약정서(Written Offer)를 제공할 수 있습니다. 여기에는 아래의 내용이 포함되어야 합니다. | 서면 약정서는 제품 판매 후 3년간 유효합니다. | 누구에게나 제공합니다. | 비용 청구를 하지 않습니다(소스 전달을 위해 발생하는 비용 제외). | . | . 라이선스 호환성 . 하나의 프로그램에서 요구하는 의무사항이 상충되는 오픈소스 라이선스들은 양립할 수 없습니다. 아래는 GPL-2.0 라이선스와 충돌하는 라이선스 목록입니다. GPL-2.0 라이선스를 사용하는 프로그램 내에, 아래의 라이선스의 오픈소스들을 포함하지 않도록 합니다. | Apache-1.1 | Apache-2.0 | BSD-4-Clause | FTL | IJG | OpenSSL | Python-2.0 | . 참고하기 . 보다 자세한 GPL-2.0 라이선스와 충돌하는 라이선스 목록은 GPL-Incompatible Free Software Licenses 문서를 참고합니다. ✔︎ OSADL 체크리스트: https://www.osadl.org/fileadmin/checklists/unreflicenses/GPL-2.0-only.txt . ",
+    "url": "/docs/license/licenselst/GPL-2.0/#%EB%B0%B0%ED%8F%AC-%ED%98%95%ED%83%9C%EB%B3%84-%EC%9D%98%EB%AC%B4%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/license/licenselst/GPL-2.0/#배포-형태별-의무사항"
+  },"25": {
+    "doc": "GPL-3.0",
+    "title": "GPL-3.0",
+    "content": " ",
+    "url": "/docs/license/licenselst/GPL-3.0/",
+    
+    "relUrl": "/docs/license/licenselst/GPL-3.0/"
+  },"26": {
+    "doc": "GPL-3.0",
+    "title": "라이선스 개요",
+    "content": "라이선스 요약 . GPL-3.0 라이선스는 고지 의무와 함께 전체 코드 공개 및 User Product 배포 시 설치 정보 제공에 대한 의무가 존재합니다. 소스 형태로 재배포 . | 고지 의무 . | 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | . | 수정 시 의무사항 . | 추가 및 수정한 부분에 GPL-3.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 수정일, 수정 내용을 주석 형태로 포함). | . | . 바이너리 형태로 재배포 . | 고지 의무 . | 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | . | 수정 시 의무사항 . | 추가 및 수정한 부분에 GPL-3.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 오픈소스 고지문에 수정일, 수정 내용을 포함). | . | 소스 코드 제공 의무 . | 바이너리에 해당하는 전체 소스 코드를 제공합니다. | 바이너리 배포를 사용하는 사용자가 공개된 소스 코드로 동일한 바이너리를 만들 수 있는 빌드 환경이 제공되어야 합니다. | . | 설치 정보 제공 의무 . | 바이너리를 사용자 제품(User Product)과 함께 배포한다면, 설치 정보(Installation Information)를 함께 제공합니다. | . | . 라이선스 설명 . GPL-3.0은 2007년 자유 소프트웨어 재단(FSF, Free Software Foundation)에서 만든 대표적인 카피레프트(Copyleft) 라이선스입니다. 특징으로는 GPL-2.0과 유사한 의무사항을 갖지만, 사용자 제품(User Product) 배포 시, 설치 정보(Installation Information) 제공을 요구한다는 점이 있습니다. 참고하기 . GPL-3.0 라이선스에 관한 보다 자세한 내용은 라이선스 전문을 참고합니다. 소스 코드 내 라이선스 문구 . GPL-3.0 라이선스 하에 오픈소스는 일반적으로 소스 코드 상단에 아래와 같은 문구가 존재합니다. Copyright (C) &lt;year&gt; &lt;name of author&gt; This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with this program. If not, see &lt;http://www.gnu.org/licenses/&gt; . ",
+    "url": "/docs/license/licenselst/GPL-3.0/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B0%9C%EC%9A%94",
+    
+    "relUrl": "/docs/license/licenselst/GPL-3.0/#라이선스-개요"
+  },"27": {
+    "doc": "GPL-3.0",
+    "title": "배포 형태별 의무사항",
+    "content": "Case 1: 소스 형태로 재배포 . GPL-3.0 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 소스 코드 내 명시된 저작권 및 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | 저작권 고지 제공 | 보증 부인 제공 | 라이선스 사본 제공 | . 수정 시 의무사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래의 사항들을 준수합니다. | 추가 및 수정한 부분에 GPL-3.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 수정일, 수정 내용을 주석 형태로 포함). | . Case 2: 바이너리 형태로 재배포 . GPL-3.0 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 아래 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | 저작권 고지 제공 | 보증 부인 제공 | 라이선스 사본 제공 | . 수정 시 의무사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래 사항을 준수합니다. | 추가 및 수정한 부분에 대해, GPL-3.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 오픈소스 고지문에 수정일, 수정 내용을 포함). | . 소스 코드 제공 의무 . 바이너리에 해당하는 소스 코드를 제공합니다. 이때, 아래 사항들을 준수합니다. | GPL-3.0 라이선스는 파생 저작물에 대해서도 GPL-3.0을 적용하여 소스 코드를 공개할 것을 요구합니다. 아래 내용을 참고하여, GPL-3.0 라이선스 하에 오픈소스와 파생 저작물의 소스 코드를 공개합니다. GPL-3.0 라이선스 파생 저작물의 범위 . 일반적인 GPL-3.0 라이선스의 파생 저작물의 범위는 아래와 같습니다. | 수정 코드 | GPL 프로그램과 동일한 프로세스에서 동작하는 모듈(Module) | GPL 프로그램과 링크로 연결한 라이브러리(Library) | GPL 프로그램을 상속한 클래스(Class) | . 아래의 경우 GPL의 파생 저작물로 간주하지 않습니다. | CD와 같은 매체에 함께 존재하지만 GPL프로그램과 전혀 연동하지 않는 독립 프로그램 | GPL 프로그램과는 별도의 프로그램으로써 파이프(Pipe), 소켓(Socket), IPC, 명령행 인자(Command Line Arguments)로 GPL 프로그램과 통신하는 경우 | . | 바이너리 사용자가 공개된 소스 코드로 동일한 바이너리를 만들 수 있는 빌드 환경을 제공합니다. 여기에는 아래 사항이 포함됩니다. | 툴 체인(Tool chain) 정보 | 빌드 스크립트 | 빌드 방법 (README 파일) | . | 소스 코드 대신 서면 약정서(Written Offer)를 제공할 수 있습니다. 여기에는 아래의 내용이 포함되어야 합니다. | 서면 약정서는 제품 판매 후 3년간 유효합니다. | 누구에게나 제공합니다. | 비용 청구를 하지 않습니다(소스 전달을 위해 발생하는 비용 제외). | . | . 이후, 외부로부터 서면 약정서를 근거로 소스 코드 제공을 요청받을 경우, 위에서 언급한 바이너리에 해당하는 소스 코드를 제공해야 합니다. 따라서, 제품을 판매한 회사는 판매 후 최소 3년간 소스 코드를 보관해야 합니다. 이때, 바이너리를 사용자 제품(User Product)과 함께 배포한다면, 설치 정보(Installation Information)를 제공해야 합니다. 설치 정보 제공 의무 . 바이너리를 사용자 제품(User Product)과 함께 배포한다면, 설치 정보(Installation Information)를 제공해야 합니다. 사용 제한 . 대부분의 사용자 제품(User Product)은 보안상의 이유로 설치 정보 제공이 불가능합니다. 따라서, 사용자 제품(User Product)으로 배포하는 소프트웨어에는 AGPL-3.0 라이선스의 오픈소스를 사용하지 않습니다. 라이선스 호환성 . 하나의 프로그램에서 요구하는 의무사항이 상충되는 오픈소스 라이선스들은 양립할 수 없습니다. 아래는 GPL-3.0 라이선스와 충돌하는 라이선스 목록입니다. GPL-3.0 라이선스를 사용하는 프로그램 내에, 아래의 라이선스의 오픈소스들을 포함하지 않도록 합니다. | Apache-1.1 | Apache-2.0 | BSD-4-Clause | FTL | IJG | OpenSSL | Python-2.0 | . 참고하기 . 보다 자세한 GPL-3.0 라이선스와 충돌하는 라이선스 목록은 GPL-Incompatible Free Software Licenses 문서를 참고합니다. ✔︎ OSADL 체크리스트: https://www.osadl.org/fileadmin/checklists/unreflicenses/GPL-3.0-only.txt . ",
+    "url": "/docs/license/licenselst/GPL-3.0/#%EB%B0%B0%ED%8F%AC-%ED%98%95%ED%83%9C%EB%B3%84-%EC%9D%98%EB%AC%B4%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/license/licenselst/GPL-3.0/#배포-형태별-의무사항"
+  },"28": {
+    "doc": "LGPL-2.1",
+    "title": "LGPL-2.1",
+    "content": " ",
+    "url": "/docs/license/licenselst/LGPL-2.1/",
+    
+    "relUrl": "/docs/license/licenselst/LGPL-2.1/"
+  },"29": {
+    "doc": "LGPL-2.1",
+    "title": "라이선스 개요",
+    "content": "라이선스 요약 . LGPL-2.1 라이선스는 고지 의무와 함께 전체 코드 공개(동적 링크하여 사용하는 경우, 해당 라이브러리만 공개)에 대한 의무가 존재합니다. 소스 형태로 재배포 . | 고지 의무 . | 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | . | 수정 시 의무사항 . | 추가 및 수정한 부분에 LGPL-2.1 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 수정일, 수정 내용을 주석 형태로 포함). | . | . 바이너리(라이브러리) 형태로 재배포 . | 고지 의무 . | 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | . | 수정 시 의무사항 . | 추가 및 수정한 부분에 LGPL-2.1 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 오픈소스 고지문에 수정일, 수정 내용을 포함). | . | 소스 코드 제공 의무 . | 바이너리(라이브러리)에 해당하는 전체 소스 코드를 제공합니다. | 공개된 LGPL 라이브러리를 사용하는 사용자가 라이브러리의 소스 코드로 동일한 라이브러리를 빌드할 수 있는 환경이 제공되어야 합니다. | . | . 라이선스 설명 . LGPL-2.1은 자유 소프트웨어 재단(FSF, Free Software Foundation)에서 만든 대표적인 약한 카피레프트(Weak copyleft) 라이선스입니다. 특징으로는 배포 시 소스 코드 공개를 요구하지만, 사용한 LGPL 라이선스 라이브러리(Library)를 동적 링크(Dynamic Linking)로 사용하면 해당 라이브러리의 코드만 공개하면 된다는 점이 있습니다. 참고하기 . LGPL-2.1 라이선스에 관한 보다 자세한 내용은 라이선스 전문을 참고합니다. 소스 코드 내 라이선스 문구 . LGPL-2.1 라이선스 하에 오픈소스는 일반적으로 소스 코드 상단에 아래와 같은 문구가 존재합니다. Copyright (C) year name of author This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version. This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details. You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA . ",
+    "url": "/docs/license/licenselst/LGPL-2.1/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B0%9C%EC%9A%94",
+    
+    "relUrl": "/docs/license/licenselst/LGPL-2.1/#라이선스-개요"
+  },"30": {
+    "doc": "LGPL-2.1",
+    "title": "배포 형태별 의무사항",
+    "content": "Case 1: 소스 형태로 재배포 . LGPL-2.1 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 소스 코드 내 명시된 저작권 및 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | 저작권 고지 제공 | 보증 부인 제공 | 라이선스 사본 제공 | . 수정 시 의무사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래의 사항들을 준수합니다. | 추가 및 수정한 부분에 LGPL-2.1 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 수정일, 수정 내용을 주석 형태로 포함). | . Case 2: 바이너리(라이브러리) 형태로 재배포 . LGPL-2.1 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 아래 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | 저작권 고지 제공 | 보증 부인 제공 | 라이선스 사본 제공 | . 수정 시 의무사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래 사항을 준수합니다. | 추가 및 수정한 부분에 대해, LGPL-2.1 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 오픈소스 고지문에 수정일, 수정 내용을 포함). | . 소스 코드 제공 의무 . 바이너리(라이브러리)에 해당하는 소스 코드를 제공합니다. 이때, 아래 사항들을 준수합니다. | LGPL-2.1 라이선스는 파생 저작물에 대해서도 LGPL-2.1을 적용하여 소스 코드를 공개할 것을 요구합니다. 아래 내용을 참고하여, LGPL-2.1 라이선스 하에 오픈소스와 파생 저작물의 소스 코드를 공개합니다. LGPL-2.1 라이선스 파생 저작물의 범위 . 일반적인 LGPL-2.1 라이선스의 파생 저작물의 범위는 아래와 같습니다. | 라이브러리 내 수정 및 추가 파일 | . 아래의 경우 LGPL-2.1의 파생 저작물로 간주하지 않습니다. | LGPL-2.1 라이브러리를 동적 링크(Dynamic Linking)로 사용하는 프로그램 참고) Java에서 JAR 파일을 임포트(Import)하는 프로그램도 LGPL-2.1 라이선스의 파생 저작물로 간주하지 않습니다. | . | 공개된 LGPL 바이너리(라이브러리)를 사용하는 사용자가 라이브러리의 소스 코드로 동일한 라이브러리를 빌드할 수 있는 환경이 제공되어야 합니다. 여기에는 아래 사항이 포함됩니다. | 툴 체인(Tool chain) 정보 | 빌드 스크립트 | 빌드 방법(README 파일) | LGPL 라이브러리를 정적 링크(Static Linking)를 사용해, 실행파일(Executable)을 생성하고 배포하는 경우, 사용자가 LGPL 라이브러리를 수정하고 다시 실행파일을 생성할 수 있도록 실행파일을 구성하는 오브젝트 코드를 제공해야 합니다. | . | 소스 코드 대신 서면 약정서(Written Offer)를 제공할 수 있습니다. 여기에는 아래의 내용이 포함되어야 합니다. | 서면 약정서는 제품 판매 후 3년간 유효합니다. | 누구에게나 제공합니다. | 비용 청구를 하지 않습니다(소스 전달을 위해 발생하는 비용 제외). | . | . 이후, 외부로부터 서면 약정서를 근거로 소스 코드 제공을 요청받을 경우, 위에서 언급한 바이너리에 해당하는 소스 코드를 제공해야 합니다. 따라서, 제품을 판매한 회사는 판매 후 최소 3년간 소스 코드를 보관해야 합니다. 라이선스 호환성 . 하나의 프로그램에서 요구하는 의무사항이 상충되는 오픈소스 라이선스들은 양립할 수 없습니다. 아래는 LGPL-2.1 라이선스와 충돌하는 라이선스 목록입니다. LGPL-2.1 라이선스를 사용하는 프로그램 내에, 아래의 라이선스의 오픈소스들을 포함하지 않도록 합니다. | Apache-1.1 | Apache-2.0 | BSD-4-Clause | FTL | IJG | OpenSSL | Python-2.0 | zlib-acknowledgement | XFree86-1.1 | . 참고하기 . ✔︎ OSADL 체크리스트: https://www.osadl.org/fileadmin/checklists/unreflicenses/LGPL-2.1-only.txt . ",
+    "url": "/docs/license/licenselst/LGPL-2.1/#%EB%B0%B0%ED%8F%AC-%ED%98%95%ED%83%9C%EB%B3%84-%EC%9D%98%EB%AC%B4%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/license/licenselst/LGPL-2.1/#배포-형태별-의무사항"
+  },"31": {
+    "doc": "LGPL-3.0",
+    "title": "LGPL-3.0",
+    "content": " ",
+    "url": "/docs/license/licenselst/LGPL-3.0/",
+    
+    "relUrl": "/docs/license/licenselst/LGPL-3.0/"
+  },"32": {
+    "doc": "LGPL-3.0",
+    "title": "라이선스 개요",
+    "content": "라이선스 요약 . LGPL-3.0 라이선스는 고지 의무와 함께 전체 코드 공개(동적 링크하여 사용하는 경우, 해당 라이브러리만 공개) 및 사용자 제품(User Product) 배포 시 설치 정보 제공에 대한 의무가 존재합니다. 소스 형태로 재배포 . | 고지 의무 . | 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | . | 수정 시 의무사항 . | 추가 및 수정한 부분에 LGPL-3.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 수정일, 수정 내용을 주석 형태로 포함). | . | . 바이너리(라이브러리) 형태로 재배포 . | 고지 의무 . | 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | . | 수정 시 의무사항 . | 추가 및 수정한 부분에 LGPL-3.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 오픈소스 고지문에 수정일, 수정 내용을 포함). | . | 소스 코드 제공 의무 . | 바이너리(라이브러리)에 해당하는 전체 소스 코드를 제공합니다. | 공개된 LGPL 라이브러리를 사용하는 사용자가 라이브러리의 소스 코드로 동일한 라이브러리를 빌드할 수 있는 환경이 제공되어야 합니다. | . | 설치 정보 제공 의무 . | 바이너리(라이브러리)를 사용자 제품(User Product)과 함께 배포한다면, 설치 정보(Installation Information)를 함께 제공합니다. | . | . 라이선스 설명 . LGPL-3.0은 2007년 자유 소프트웨어 재단(FSF, Free Software Foundation)에서 만든 대표적인 약한 카피레프트(Weak copyleft) 라이선스입니다. 특징으로는 LGPL-2.1과 유사한 의무사항을 갖지만, 사용자 제품(User Product) 배포 시, 설치 정보(Installation Information) 제공을 요구한다는 점이 있습니다. 참고하기 . LGPL-3.0 라이선스에 관한 보다 자세한 내용은 라이선스 전문을 참고합니다. 소스 코드 내 라이선스 문구 . LGPL-3.0 라이선스 하에 오픈소스는 일반적으로 소스 코드 상단에 아래와 같은 문구가 존재합니다. Copyright (C) &lt;year&gt; &lt;name of author&gt; This program is free software: you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details. You should have received a copy of the GNU Lesser General Public License along with this program. If not, see &lt;http://www.gnu.org/licenses/&gt;. ",
+    "url": "/docs/license/licenselst/LGPL-3.0/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B0%9C%EC%9A%94",
+    
+    "relUrl": "/docs/license/licenselst/LGPL-3.0/#라이선스-개요"
+  },"33": {
+    "doc": "LGPL-3.0",
+    "title": "배포 형태별 의무사항",
+    "content": "Case 1: 소스 형태로 재배포 . LGPL-3.0 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 소스 코드 내 명시된 저작권 및 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | 저작권 고지 제공 | 보증 부인 제공 | 라이선스 사본 제공 | . 수정 시 의무사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래의 사항들을 준수합니다. | 추가 및 수정한 부분에 LGPL-3.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 수정일, 수정 내용을 주석 형태로 포함). | . Case 2: 바이너리(라이브러리) 형태로 재배포 . LGPL-3.0 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 아래 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | 저작권 고지 제공 | 보증 부인 제공 | 라이선스 사본 제공 | . 수정 시 의무사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래 사항을 준수합니다. | 추가 및 수정한 부분에 대해, LGPL-3.0 라이선스를 적용합니다. | 수정 사항에 대한 고지를 포함합니다(예: 오픈소스 고지문에 수정일, 수정 내용을 포함). | . 소스 코드 제공 의무 . 바이너리(라이브러리)에 해당하는 소스 코드를 제공합니다. 이때, 아래 사항들을 준수합니다. | LGPL-3.0 라이선스는 파생 저작물에 대해서도 LGPL-3.0을 적용하여 소스 코드를 공개할 것을 요구합니다. 아래 내용을 참고하여, LGPL-3.0 라이선스 하에 오픈소스와 파생 저작물의 소스 코드를 공개합니다. LGPL-3.0 라이선스 파생 저작물의 범위 . 일반적인 LGPL-3.0 라이선스의 파생 저작물의 범위는 아래와 같습니다. | 라이브러리 내 수정 및 추가 파일 | . 아래의 경우 LGPL-3.0의 파생 저작물로 간주하지 않습니다. | LGPL-3.0 라이브러리를 동적 링크(Dynamic Linking)로 사용하는 프로그램 . 참고) Java에서 JAR 파일을 임포트(Import)하는 프로그램도 LGPL-3.0 라이선스의 파생 저작물로 간주하지 않습니다. | . | 공개된 LGPL 바이너리(라이브러리)를 사용하는 사용자가 라이브러리의 소스 코드로 동일한 라이브러리를 빌드할 수 있는 환경이 제공되어야 합니다. 여기에는 아래 사항이 포함됩니다. | 툴 체인(Tool chain) 정보 | 빌드 스크립트 | 빌드 방법(README 파일) | LGPL 라이브러리를 정적 링크(Static Linking)를 사용해, 실행파일(Executable)을 생성하고 배포하는 경우, 사용자가 LGPL 라이브러리를 수정하고 다시 실행파일을 생성할 수 있도록 실행파일을 구성하는 오브젝트 코드를 제공해야 합니다. | . | 소스 코드 대신 서면 약정서(Written Offer)를 제공할 수 있습니다. 여기에는 아래의 내용이 포함되어야 합니다. | 서면 약정서는 제품 판매 후 3년간 유효합니다. | 누구에게나 제공합니다. | 비용 청구를 하지 않습니다(소스 전달을 위해 발생하는 비용 제외). | . | . 이후, 외부로부터 서면 약정서를 근거로 소스 코드 제공을 요청받을 경우, 위에서 언급한 바이너리에 해당하는 소스 코드를 제공해야 합니다. 따라서, 제품을 판매한 회사는 판매 후 최소 3년간 소스 코드를 보관해야 합니다. 설치 정보 제공 의무 . 바이너리(라이브러리)를 사용자 제품(User Product)과 함께 배포한다면, 설치 정보(Installation Information)를 제공해야 합니다. 사용 제한 . 대부분의 사용자 제품(User Product)은 보안상의 이유로 설치 정보 제공이 불가능합니다. 따라서, 사용자 제품(User Product)으로 배포하는 소프트웨어에는 AGPL-3.0 라이선스의 오픈소스를 사용하지 않습니다. 라이선스 호환성 . 하나의 프로그램에서 요구하는 의무사항이 상충되는 오픈소스 라이선스들은 양립할 수 없습니다. 아래는 LGPL-3.0 라이선스와 충돌하는 라이선스 목록입니다. LGPL-3.0 라이선스를 사용하는 프로그램 내에, 아래의 라이선스의 오픈소스들을 포함하지 않도록 합니다. | Apache-1.1 | BSD-4-Clause | FTL | IJG | OpenSSL | Python-2.0 | zlib-acknowledgement | XFree86-1.1 | . 참고하기 . ✔︎ OSADL 체크리스트: https://www.osadl.org/fileadmin/checklists/unreflicenses/LGPL-3.0-only.txt . ",
+    "url": "/docs/license/licenselst/LGPL-3.0/#%EB%B0%B0%ED%8F%AC-%ED%98%95%ED%83%9C%EB%B3%84-%EC%9D%98%EB%AC%B4%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/license/licenselst/LGPL-3.0/#배포-형태별-의무사항"
+  },"34": {
+    "doc": "MIT",
+    "title": "MIT",
+    "content": " ",
+    "url": "/docs/license/licenselst/MIT/",
+    
+    "relUrl": "/docs/license/licenselst/MIT/"
+  },"35": {
+    "doc": "MIT",
+    "title": "라이선스 개요",
+    "content": "라이선스 요약 . MIT 라이선스는 기본적으로 고지에 대한 의무가 주를 이루고 있습니다. 소스 형태로 재배포 . | 고지 의무 . | 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | . | . 바이너리 형태로 재배포 . | 고지 의무 . | 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | . | . 라이선스 설명 . MIT는 MIT(Massachusetts Institute of Technology)에서 만든 오픈소스 라이선스이며, 소스 코드 공개를 요구하지 않는 퍼미시브(Permissive) 형태의 라이선스입니다. 참고하기 . MIT 라이선스에 관한 보다 자세한 내용은 라이선스 전문을 참고합니다. 소스 코드 내 라이선스 문구 . MIT 라이선스 하에 오픈소스는 일반적으로 소스 코드 상단에 아래와 같은 문구가 존재합니다. Copyright (c) &lt;year&gt; &lt;copyright holders&gt; Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. ",
+    "url": "/docs/license/licenselst/MIT/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B0%9C%EC%9A%94",
+    
+    "relUrl": "/docs/license/licenselst/MIT/#라이선스-개요"
+  },"36": {
+    "doc": "MIT",
+    "title": "배포 형태별 의무사항",
+    "content": "Case 1: 소스 형태로 재배포 . MIT 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 소스 코드 내 명시된 저작권 및 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | 저작권 고지 | 라이선스 사본 제공 | . Case 2: 바이너리 형태로 재배포 . MIT 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 아래의 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | 저작권 고지 | 라이선스 사본 제공 | . 참고하기 . ✔︎ OSADL 체크리스트: https://www.osadl.org/fileadmin/checklists/unreflicenses/MIT.txt . ",
+    "url": "/docs/license/licenselst/MIT/#%EB%B0%B0%ED%8F%AC-%ED%98%95%ED%83%9C%EB%B3%84-%EC%9D%98%EB%AC%B4%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/license/licenselst/MIT/#배포-형태별-의무사항"
+  },"37": {
+    "doc": "MPL-2.0",
+    "title": "MPL-2.0",
+    "content": " ",
+    "url": "/docs/license/licenselst/MPL-2.0/",
+    
+    "relUrl": "/docs/license/licenselst/MPL-2.0/"
+  },"38": {
+    "doc": "MPL-2.0",
+    "title": "라이선스 개요",
+    "content": "라이선스 요약 . MPL-2.0 라이선스는 고지 의무와 함께 추가 및 수정한 파일의 소스 코드 공개 의무가 존재합니다. 소스 형태로 재배포 . | 고지 의무 . | 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | . | 수정 시 의무사항 . | 수정한 파일에 MPL-2.0 라이선스를 적용합니다. | . | . 바이너리 형태로 재배포 . | 고지 의무 . | 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | . | 수정 시 의무사항 . | 추가 및 수정한 파일에 MPL-2.0 라이선스를 적용합니다. | . | 소스 코드 제공 의무 . | 바이너리 내 MPL-2.0 라이선스에 해당하는 파일의 소스 코드를 제공합니다. | . | . 라이선스 설명 . MPL-2.0(Mozilla Public License 2.0)은 파일 단위의 소스 코드 공개를 요구하는 약한 카피레프트(Weak Copyleft) 형태의 라이선스입니다. 참고하기 . MPL-2.0 라이선스에 관한 보다 자세한 내용은 라이선스 전문을 참고합니다. 소스 코드 내 라이선스 문구 . MPL-2.0 라이선스 하에 오픈소스는 일반적으로 소스 코드 상단에 아래와 같은 문구가 존재합니다. This Source Code Form is subject to the terms of the Mozilla Public License, v.2.0. If a copy of the MPL was not distributed with this file, You can obtain one at https://mozilla.org/MPL/2.0/. ",
+    "url": "/docs/license/licenselst/MPL-2.0/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B0%9C%EC%9A%94",
+    
+    "relUrl": "/docs/license/licenselst/MPL-2.0/#라이선스-개요"
+  },"39": {
+    "doc": "MPL-2.0",
+    "title": "배포 형태별 의무사항",
+    "content": "Case 1: 소스 형태로 재배포 . MPL-2.0 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 아래의 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | 라이선스 사본 제공 혹은 참조 | 법적 고지 수정 금지 | . 수정 시 의무사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래 사항을 준수합니다. | 수정한 파일에 MPL-2.0 라이선스를 적용합니다. 단, 별도로 추가한 파일에는 MPL-2.0 적용 의무가 없습니다. | . Case 2: 바이너리 형태로 재배포 . MPL-2.0 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래의 사항들을 준수합니다. 고지 의무 . 아래의 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | 라이선스 사본 제공 | . 수정 시 의무사항 . 오픈소스의 소스 코드를 일부 추가 및 수정하였을 경우, 아래 사항을 준수합니다. | 수정한 파일에 MPL-2.0 라이선스를 적용합니다. 단, 별도로 추가한 파일에는 MPL-2.0 적용 의무가 없습니다. | . 소스 코드 제공 의무 . 바이너리 내 MPL-2.0 라이선스에 해당하는 소스 코드 파일을 제공합니다. 이때, 아래 사항을 준수합니다. | MPL-2.0 라이선스는 기존 파일 내 추가한 내용에 대해서도 MPL-2.0을 적용하여 소스 코드를 공개할 것을 요구합니다. 따라서, 원본 파일과 더불어 수정한 파일도 MPL-2.0을 적용하여 공개합니다. | 오픈소스 고지문에 사용자가 소스 코드를 수령할 수 있는 방법을 안내함으로써 소스 코드 제공 의무를 준수합니다. | . 참고하기 . ✔︎ OSADL 체크리스트: https://www.osadl.org/fileadmin/checklists/unreflicenses/MPL-2.0.txt . ",
+    "url": "/docs/license/licenselst/MPL-2.0/#%EB%B0%B0%ED%8F%AC-%ED%98%95%ED%83%9C%EB%B3%84-%EC%9D%98%EB%AC%B4%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/license/licenselst/MPL-2.0/#배포-형태별-의무사항"
+  },"40": {
+    "doc": "OFL-1.1",
+    "title": "OFL-1.1",
+    "content": " ",
+    "url": "/docs/license/licenselst/OFL-1.1/",
+    
+    "relUrl": "/docs/license/licenselst/OFL-1.1/"
+  },"41": {
+    "doc": "OFL-1.1",
+    "title": "라이선스 개요",
+    "content": "라이선스 요약 . OFL-1.1 라이선스는 기본적으로 고지에 대한 의무가 주를 이루고 있고 자체 판매 금지 조항이 있습니다. OFL-1.0 라이선스 대신 OFL-1.1 라이선스를 사용할 것을 권장합니다. 소스 형태로 재배포 . | 고지 의무 . | 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다. | . | 자체 판매 금지 . | 폰트 자체를 단독으로 판매 금지합니다.(GPL과 호환되지 않음) | 다른 프로그램과 함께 배포하거나 판매하는 것은 허용됩니다. | . | . 라이선스 설명 . OFL-1.1 는 글꼴 협업을 촉진하고 지원하는 라이선스입니다. OFL-1.1 과 OFL-1.0 라이선스와 다른 점은 아래와 같습니다. | OFL-1.1 라이선스에서는 글꼴 이름이 기본적으로 예약되지 않음 | 모든 예약된 글꼴 이름은 OFL 헤더의 저작권 표시와 함께 명시적으로 나열되어야 함 | . 참고하기 . OFL-1.1 라이선스에 관한 보다 자세한 내용은 라이선스 전문을 참고합니다. 소스 코드 내 라이선스 문구 . OFL-1.1 라이선스 하에 오픈소스는 일반적으로 소스 코드 상단에 아래와 같은 문구가 존재합니다. Copyright (c) &lt;dates&gt;, &lt;Copyright Holder&gt; (&lt;URL|email&gt;), with Reserved Font Name &lt;Reserved Font Name&gt;. Copyright (c) &lt;dates&gt;, &lt;additional Copyright Holder&gt; (&lt;URL|email&gt;), with Reserved Font Name &lt;additional Reserved Font Name&gt;. Copyright (c) &lt;dates&gt;, &lt;additional Copyright Holder&gt; (&lt;URL|email&gt;). This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://openfontlicense.org ----------------------------------------------------------- SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007 ----------------------------------------------------------- PREAMBLE The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others. The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives. DEFINITIONS \"Font Software\" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation. \"Reserved Font Name\" refers to any names specified as such after the copyright statement(s). \"Original Version\" refers to the collection of Font Software components as distributed by the Copyright Holder(s). \"Modified Version\" refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment. \"Author\" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software. PERMISSION &amp; CONDITIONS Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions: 1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself. 2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user. 3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users. 4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission. 5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software. TERMINATION This license becomes null and void if any of the above conditions are not met. DISCLAIMER THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE. ",
+    "url": "/docs/license/licenselst/OFL-1.1/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B0%9C%EC%9A%94",
+    
+    "relUrl": "/docs/license/licenselst/OFL-1.1/#라이선스-개요"
+  },"42": {
+    "doc": "OFL-1.1",
+    "title": "배포 형태별 의무사항",
+    "content": "Case 1: 소스 형태로 재배포 . OFL-1.1 라이선스 하에 오픈소스를 소스 형태로 재배포 시, 아래 사항들을 준수합니다. 고지 의무 . | 저작권 고지 | 라이선스 사본 제공 | 보증 부인 고지 | . Case 2: 바이너리 형태로 재배포 . OFL-1.1 라이선스 하에 오픈소스를 빌드하여 바이너리 형태로만 재배포 시, 아래 사항들을 준수합니다. 고지 의무 . 아래의 내용을 포함하는 오픈소스 고지문을 생성하여 바이너리 재배포 시 동봉합니다. | 저작권 고지 | 라이선스 사본 제공 | 보증 부인 고지 | . 참고하기 . ✔︎ OSADL 체크리스트: https://www.osadl.org/fileadmin/checklists/unreflicenses/BSD-2-Clause.txt . ",
+    "url": "/docs/license/licenselst/OFL-1.1/#%EB%B0%B0%ED%8F%AC-%ED%98%95%ED%83%9C%EB%B3%84-%EC%9D%98%EB%AC%B4%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/license/licenselst/OFL-1.1/#배포-형태별-의무사항"
+  },"43": {
+    "doc": "오픈소스 활동",
+    "title": "오픈소스 활동",
+    "content": "카카오의 오픈소스 활동 관련 보도자료 및 뉴스, 그리고 오픈소스 기술 소식을 소개합니다. ",
+    "url": "/docs/kakao/activity/",
+    
+    "relUrl": "/docs/kakao/activity/"
+  },"44": {
+    "doc": "오픈소스 활동",
+    "title": "오픈소스 관련 보도자료",
+    "content": "카카오가 오픈소스 관련해 내놓은 보도자료입니다. | 카카오, ESG 보고서 ‘2022 카카오의 약속과 책임’ 발간 | 카카오, 안전한 오픈소스 생태계 위한 민관 협력 ‘오소리 프로젝트’ 추진 | 카카오, ESG 보고서 ‘2021 카카오의 약속과 책임’ 발간 | 카카오, 오픈소스 국제 표준 인증 획득 | 카카오, 오픈소스 관리 서비스 올리브 플랫폼(Olive Platform) 정식 출시 | 카카오, 첫 ESG 보고서 ‘2020 카카오의 약속과 책임’ 발간 | . ",
+    "url": "/docs/kakao/activity/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B4%80%EB%A0%A8-%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C",
+    
+    "relUrl": "/docs/kakao/activity/#오픈소스-관련-보도자료"
+  },"45": {
+    "doc": "오픈소스 활동",
+    "title": "카카오 오픈소스 공개 소식",
+    "content": "카카오가 공개한 오픈소스 관련 소식입니다. | 더 크고, 더 빠르게 Buffalo | 오픈소스를 요리하다, Olive Platform | 함께 성장하는 기술, Kakao open source | . ",
+    "url": "/docs/kakao/activity/#%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B3%B5%EA%B0%9C-%EC%86%8C%EC%8B%9D",
+    
+    "relUrl": "/docs/kakao/activity/#카카오-오픈소스-공개-소식"
+  },"46": {
+    "doc": "오픈소스 활동",
+    "title": "카카오 기술 블로그",
+    "content": "카카오는 기술 블로그를 통해 오픈소스 관련 글을 지속적으로 게재하고 있습니다. 2023년 . | 오픈소스는 저희에게 맡겨주세요! OpenChain Korea Work Group 모임 후기 - 2023.07.10 | 오픈소스 도전기(feat. Clymene 프로젝트, 공개SW 개발자 대회) - 2023.06.15 | ChatGPT로 달라진 개발자의 일상 / 제1회 kakao tech meet - 2023.05.31 | 쿠버네티스 프로비저닝 툴과의 만남부터 헤어짐까지 . - 2023.02.10 | 주니어 개발자의 우여곡절 소셜로그인 도입 과정 - 2023.01.19 | 카프카 커넥트를 데이터 파이프라인으로 사용하는 이유? kafka-sink-connector 오픈소스 언빡싱! - 2023.01.12 | . 2022년 . | 오픈소스 검증 도구: OLIVE CLI 소개 - 2022.06.09 | 제네시스 – 광고추천팀의 카프카 기반 스트리밍 데이터 플랫폼 - 2022.04.13 | . 2021년 . | Kubernetes에 컨트리뷰션 하는 아주 자세한 방법을 알려드립니다. - 2021.10.01 | 오픈소스 라이선스 변화의 흐름 - 2021.09.08 | FE개발자의 성장 스토리 10 : 주니어 FE 개발자 오픈소스 성장기 - 2021.06.16 | Olive Platform : 카카오에서 제공하는 오픈소스 관리 서비스 - 2021.02.22 | . 2018년 . | kakao의 오픈소스 Ep9 – Khaiii : 카카오의 딥러닝 기반 형태소 분석기 - 2018.12.13 | . 2017년 . | kakao의 오픈소스 Ep8 – hbase-packet-inspector - 2017.09.22 | kakao의 오픈소스 Ep7 – CMUX: CLI에 날개를 달자! - 2017.07.11 | . 2016년 . | kakao의 오픈소스 Ep6 – Cite - 2016.12.26 | ADT 활용 예제1: MySQL Shard 데이터 재분배 - 2016.07.01 | kakao의 오픈소스 Ep5 – Almighty Data Transmitter - 2016.06.27 | kakao의 오픈소스 Ep4 – HBase Tools - 2016.03.24 | kakao의 오픈소스 Ep3 – HBase Region Inspector - 2016.03.11 | kakao의 오픈소스 Ep2 – MRTE(MySQL Realtime Traffic Emulator) - 2016.02.16 | kakao의 오픈소스 Ep1 – 대용량 분산 그래프DB “S2Graph” - 2016.01.29 | . ",
+    "url": "/docs/kakao/activity/#%EC%B9%B4%EC%B9%B4%EC%98%A4-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8",
+    
+    "relUrl": "/docs/kakao/activity/#카카오-기술-블로그"
+  },"47": {
+    "doc": "Akka",
+    "title": "Akka",
+    "content": " ",
+    "url": "/docs/license/revision/akka/",
+    
+    "relUrl": "/docs/license/revision/akka/"
+  },"48": {
+    "doc": "Akka",
+    "title": "Akka: BUSL 라이선스 적용",
+    "content": "변경사항 . 라이선스 변경사항은 아래와 같습니다. Akka의 라이선스가 Apache-2.0 에서 BUSL-1.1로 변경되었습니다. Akka v2.7부터 BUSL-1.1 라이선스가 적용됩니다.(라이선스 고지문) Apache-2.0 버전에 대해서는 2023년 9월까지 심각한 보안 이슈 및 버그 수정이 지원됩니다. 스타트업 가격정책에 따라 년 매출 규모가 2500만 달러 미만인 회사에 대해서는 예외적으로 무료로 사용 가능합니다. 주의 사항 . 변경에 따른 주의사항은 아래와 같습니다. | BUSL 1.1 라이선스는 일정 기간 동안 상용 목적으로의 사용이 제한되고, 일정 기간이 지나면 오픈소스 라이선스로 전환되는 라이선스입니다. | 버전에 명시된 날짜 또는 버전이 배포된 지 만 3년(36개월)이 지났을 때 BUSL 1.1 라이선스에서 Apache 2.0 라이선스로 적용이 가능합니다. | 라이선스 보유자(Licensor)가 일정 조건하에 상용 목적 사용자에게 권리를 부여할 수 있는 부가 조항(Additional Use Grant)이 있습니다. | Akka의 경우 Play Framework에서 제공하는 기능을 구현하기 위해 사용하는 경우 예외 적용되어 사용 가능합니다. | . | . ",
+    "url": "/docs/license/revision/akka/#akka-busl-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EC%A0%81%EC%9A%A9",
+    
+    "relUrl": "/docs/license/revision/akka/#akka-busl-라이선스-적용"
+  },"49": {
+    "doc": "OpenChain 인증",
+    "title": "OpenChain 인증",
+    "content": "카카오는 2022년 오픈소스 소프트웨어 체계 및 컴플라이언스 역량을 인정받아 오픈소스 국제 표준 인증(ISO/IEC 5230:2020)을 획득했습니다. 카카오는 오픈소스 관리 서비스인 올리브 플랫폼(Olive Platform)을 바탕으로 오픈소스 라이선스 준수를 위해 노력하고 있습니다. ",
+    "url": "/docs/kakao/openchain/certification/",
+    
+    "relUrl": "/docs/kakao/openchain/certification/"
+  },"50": {
+    "doc": "OpenChain 인증",
+    "title": "카카오, 오픈소스 국제 표준 인증 획득",
+    "content": "보도자료 2022년 01월 25일 . 개요 . 보도자료 2022년 01월 25일: 카카오, 오픈소스 국제 표준 인증 획득 . | 오픈체인(OpenChain) 프로젝트의 국제 표준 인증(ISO/IEC 5230:2020) 획득 | 카카오의 오픈소스 역량을 적극적으로 공유하여 개발 생태계 발전에 기여할 것 | . 본문 . 카카오(공동대표 여민수, 조수용)는 ‘오픈체인(OpenChain) 프로젝트’의 오픈소스 국제 표준 인증(ISO/IEC 5230:2020)을 획득했다고 25일 밝혔다. ‘오픈체인 프로젝트’는 미국의 비영리단체인 리눅스 재단(Linux Foundation)에서 시작했으며, 기업의 오픈소스 소프트웨어 체계 및 컴플라이언스(compliance, 준수) 역량을 평가하여 국제 인증을 부여한다. ‘ISO/IEC 5230:2020’은 오픈 소스 라이선스 준수를 위한 핵심 사항을 정의한 최초의 프로세스 관리 국제 표준이다. 이번 국제 표준 인증을 통해 카카오는 오픈소스 활용 역량을 인정 받고, 자사 오픈소스 관리 서비스 올리브 플랫폼(OLIVE Platform)의 공신력을 높일 것으로 기대하고 있다. 카카오는 지난해 6월, IT 분야 전반에서 오픈소스 사용 비중 및 관리의 중요성이 커짐에 따라, 누구나 쉽고 편리하게 오픈소스를 관리할 수 있도록 올리브 플랫폼(OLIVE Platform)을 출시한 바 있다. 오픈소스의 라이선스 및 의무사항을 확인하여 리포트를 제공하고, 신뢰할 수 있는 오픈소스 데이터베이스를 구축해 보다 쉽고, 빠르고, 정확하게 오픈소스를 검증하는 것이 특징이다. 또한, 매년 이프카카오 개발자 컨퍼런스의 오픈소스 관련 세션에서 개발자들이 오픈소스를 이해하고 활용하는 방법을 알리고 있으며, 공개 소프트웨어를 개발하고 이를 공유하는 등 안전하고 효율적인 오픈소스 생태계 구축을 위한 활동을 펼치고 있다. 이밖에도 카카오의 서비스에 공개소프트웨어를 확대 적용하고, 오픈소스 행사, 사업, 교육, 자문, 커뮤니티 활동 등에 적극적으로 참여하고 있다. 카카오 정의정 CTO는 “다양한 산업 분야에서 오픈소스 사용이 증가하고 그 중요성이 커지고 있다”며 “그동안 쌓아온 카카오의 오픈소스 역량을 적극적으로 공유해 개발 생태계 발전에 앞장설 것”이라고 말했다.(끝) . ",
+    "url": "/docs/kakao/openchain/certification/#%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B5%AD%EC%A0%9C-%ED%91%9C%EC%A4%80-%EC%9D%B8%EC%A6%9D-%ED%9A%8D%EB%93%9D",
+    
+    "relUrl": "/docs/kakao/openchain/certification/#카카오-오픈소스-국제-표준-인증-획득"
+  },"51": {
+    "doc": "오픈소스 선택",
+    "title": "오픈소스 선택",
+    "content": "선택할 수 있는 수많은 오픈소스 중에서, 프로젝트 요구 사항에 가장 적합한 오픈소스를 선택하는 것이 어려울 수 있습니다. 이 가이드에서는 적절한 선택을 위한 기준들을 살펴보고 설명합니다. ",
+    "url": "/docs/use/choice/",
+    
+    "relUrl": "/docs/use/choice/"
+  },"52": {
+    "doc": "오픈소스 선택",
+    "title": "오픈소스 선택 기준",
+    "content": "아래의 기준에 따라 오픈소스를 선택하고 사용하면 좋은 선택을 할 수 있습니다. | 기능 비교 분석 | 저장소 확인 | 라이선스 확인 | 보안 | . 아래의 목차는 각 기준에 대한 설명입니다. 기능 비교 분석 . 가장 적합한 오픈소스를 선택하기 위해, 각 오픈소스가 제공하는 기능을 분석하고 비교합니다. | 프로젝트에서 필요한 기능 충족 . | 기본 기능이 적합하게 제공되는가? | 필요한 기능만을 제공하는가? | 특정 팀에서 사용하기에 어렵지는 않은가 | 적절한 레퍼런스가 있는가? | 사용 시 수정이 필요하다면 수정이 가능한가? | . | 프로젝트와의 호환성 및 확장성 . | 언어 | 운영체제 | . | 성능 확인 및 기능 테스트 | . 저장소 확인 . 선택할 오픈소스 저장소의 품질을 확인합니다. | 가이드 문서 . | README 파일 | 사용자를 위한 가이드 문서 | . | 저장소 정보 확인 . | 스타(Star) 수 | 참조 횟수 | 오픈된 이슈 수 | 오픈된 PR 수 | 마지막 커밋일시 | 릴리스 주기 | . | 소스 코드 품질 | 범용성 및 레퍼런스 | . 라이선스 확인 . 선택할 오픈소스의 라이선스를 확인합니다. 오픈소스에 따라 방법이 상이할 수 있습니다. | GitHub 저장소가 있는 경우: 예: Alamofire github . | README 문서 | 소스 코드 내 COPYING 문서, LICENSE 문서 | 소스 코드 내 주석 | . | 별도의 홈페이지가 있는 경우: 예: Tomcat 홈페이지 . | LICENSE 메뉴 | 소프트웨어 설명 내 표기 | 소스 코드 내 COPYING 문서, README 문서 | 소스 코드 내 주석 | . | 검색으로 찾은 소스 코드인 경우 . | 소스 코드 내 주석 | 개발자의 답변 | . | . 보안 . 선택할 오픈소스의 보안 관련 정보를 확인합니다. | 보안 관련 이슈 확인 | 취약점 발생 시 대응 조치 | 이슈에서 보안 문제 있는지 확인 | 릴리스 노트 확인 | CVE 확인 . | CVE가 제공하는 알려진 오픈소스 보안 취약점을 확인합니다. | 사용하려는 오픈소스를 CVE에서 검색하여, 보안 취약점이 있는지 확인합니다. | . | GitHub . | Dependabot을 사용해, 오픈소스 리포지토리의 의존성(종속성) 취약점들을 감지하고 경고를 받을 수 있습니다. | . | . ",
+    "url": "/docs/use/choice/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%84%A0%ED%83%9D-%EA%B8%B0%EC%A4%80",
+    
+    "relUrl": "/docs/use/choice/#오픈소스-선택-기준"
+  },"53": {
+    "doc": "오픈소스 선택",
+    "title": "오픈소스 선택 시 도움말",
+    "content": "아래는 오픈소스를 선택할 때 도움이 될만한 내용입니다. awesome 검색 . 아래와 같이 awesome을 오픈소스 이름과 함께 검색하면 좋은 오픈소스를 찾아볼 수 있습니다. awesome + { keyword } . 참고하기 . | awesome android-ui | . 잘 만들어진 애플리케이션에서 사용 중인 오픈소스 확인 . 애플리케이션의 고지문에서 사용한 오픈소스를 확인할 수 있습니다.잘 만들어진 여러 애플리케이션들이 사용하고 있는 오픈소스를 선택하는 것도 한 방법입니다. ",
+    "url": "/docs/use/choice/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%84%A0%ED%83%9D-%EC%8B%9C-%EB%8F%84%EC%9B%80%EB%A7%90",
+    
+    "relUrl": "/docs/use/choice/#오픈소스-선택-시-도움말"
+  },"54": {
+    "doc": "라이선스 간 양립성",
+    "title": "라이선스 간 양립성",
+    "content": "하나의 프로젝트에서 사용하고 있는 다양한 오픈소스 라이선스들은 서로 다른 의무사항을 가집니다. 이로 인해 라이선스의 의무사항들이 충돌하여, 라이선스 간 양립이 불가능한 경우가 발생할 수 있습니다. 이 가이드에서는 라이선스 간 양립 및 충돌할 수 있는 경우에 대해서 알아봅니다. ",
+    "url": "/docs/license/compatibility/",
+    
+    "relUrl": "/docs/license/compatibility/"
+  },"55": {
+    "doc": "라이선스 간 양립성",
+    "title": "라이선스 간 충돌과 배포",
+    "content": "의무사항이 모순(상호 위배)되는 서로 다른 2개 이상의 라이선스를 결합하는 경우, 배포가 불가능합니다. 예를 들어, Apache 2.0과 GPL 2.0 라이선스를 결합하려는 경우 라이선스 충돌이 발생합니다. Apache 2.0는 특허권을 보장하는 라이선스입니다. 하지만 GPL 2.0 라이선스의 경우, 특별한 제약을 허용하지 않으며 GPL과 결합되는 모든 소스는 GPL로 라이선싱 되어야 합니다. 이로 인해 Apache 2.0의 의무사항을 지킬 수 없는 상황이 발생하고, 라이선스가 충돌하는 상태가 됩니다. 다만, 라이선스 충돌은 단순히 두 개의 라이선스를 하나의 프로젝트에서 사용할 때 항상 발생하는 것이 아니기 때문에 각 라이선스의 의무사항 및 결합관계 등을 잘 따져봐야 합니다. ",
+    "url": "/docs/license/compatibility/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B0%84-%EC%B6%A9%EB%8F%8C%EA%B3%BC-%EB%B0%B0%ED%8F%AC",
+    
+    "relUrl": "/docs/license/compatibility/#라이선스-간-충돌과-배포"
+  },"56": {
+    "doc": "라이선스 간 양립성",
+    "title": "일반적인 라이선스 충돌 판단 기준",
+    "content": "일반적인 라이선스 충돌을 판단하기 위한 기준은 아래와 같습니다. | 각 라이선스의 적용 범위가 어떻게 되는가? | 적용 범위가 중첩되는 서로 다른 두 개 이상의 라이선스가 사용되었는가? | 각 라이선스 간 의무사항 충돌이 존재하는가? | . 라이선스 양립 및 충돌 케이스(Case) 분석 . 프로젝트에서 서로 다른 의무사항을 가지는 라이선스를 사용했을 때, 양립 혹은 충돌하는 케이스에 대해 알아봅니다. 프로젝트에서 Apache 2.0과 MPL 1.1 또는 LGPL 2.1 라이선스의 jar 파일을 결합하여 사용한 경우 . | MPL 1.1의 경우 카피레프트(Copyleft) 조항을 가지며, 그 적용 범위는 파일 단위이므로 충돌이 발생하지 않습니다. | LGPL 2.1의 경우 별개의 라이브러리로 구성되고, Apache 2.0이 사용된 소스와는 독립적으로 결합되는 동적 링크(Dynamic Linking) 형태의 사용이므로 충돌이 발생하지 않습니다. | . 프로젝트에서 LicenseFile.java에 Apache 2.0과 MPL 1.1 라이선스의 코드를 포함하여 사용한 경우 . | MPL 카피레프트(Copyleft) 적용 기준이 파일(File)이기 때문에, 충돌 조건을 판단해야 합니다. | MPL 1.1의 경우 별도의 제한 조건 추가를 허용하지 않으나, Apache 2.0은 특허에 대한 권한을 보장해야 합니다. | . 프로젝트에서 GPL 2.0과 Apache 2.0 라이선스의 오픈소스를 함께 사용한 경우 . | GPL 2.0의 카피레프트(Copyleft) 범위는 연결된 모든 소스 코드이므로 Apache 2.0과 구체적으로 충돌 조건이 있는지 판단해야 합니다. | GPL 2.0의 경우에도 MPL 1.1과 같이 조건 추가 사항을 보장하지 않기 때문에, Apache 2.0과 충돌이 발생합니다. | . ‘내부 프로젝트를 Apache 2.0로 라이선싱 후 오픈소스로 배포하는 경우’ 또는 ‘프로젝트에 MPL 1.1, LGPL 2.1 라이선스의 jar 파일과 Apache 2.0 라이선스의 파일들을 사용한 경우’ . | MPL 1.1와 LGPL 2.1의 결합관계는 동적 링크(Dynamic Linking)의 형태이며, 서로 다른 소스파일입니다. 이러한 경우 mpl.jar와 lgpl.jar를 제외한 전체 소스에 대해서 Apache 2.0을 적용하여 배포할 수 있습니다. | 예를 들어, Chromium Project의 경우 BSD-3로 라이선싱이 되어 배포되고 있으며, 그 외 사용한 라이브러리들은 서드파티(3rd-party) 디렉터리(Directory)에 별도로 모아서 배포하고 있습니다. 즉, 서드파티를 제외한 모든 소스에 대해서만 BSD-3을 적용해서 배포하고, 서드파티 디렉터리의 소스들은 단순히 함께 패키징만 해서 배포되는 형태를 가집니다. | . 결론 . 라이선스의 적용 범위에 따라 파일 및 모듈로 제한된 경우, 적용 범위를 벗어난 다른 파일 및 모듈에서 사용한다면 라이선스 충돌 관련 문제는 없습니다. 또한, GPL, AGPL 등 전체 코드에서 적용되는 라이선스는 라이선스 충돌이 발생하면 배포가 불가능합니다. ",
+    "url": "/docs/license/compatibility/#%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9D%B8-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EC%B6%A9%EB%8F%8C-%ED%8C%90%EB%8B%A8-%EA%B8%B0%EC%A4%80",
+    
+    "relUrl": "/docs/license/compatibility/#일반적인-라이선스-충돌-판단-기준"
+  },"57": {
+    "doc": "라이선스 간 양립성",
+    "title": "참고 : GPL 계열 라이선스 양립성",
+    "content": "GPL(General Public License) 계열의 라이선스 들은 각 버전별로 결합이 가능한 경우와 불가능한 경우가 있습니다. 보통 GPL 계열 라이선스 충돌은 LGPL(Lesser General Public License)과 GPL을 결합할 때 발생하게 됩니다. 두 라이선스 모두 추가 제약 사항을 금지하는 조항을 가지고 있습니다. 이때 LGPL 2.1의 경우, 라이브러리 형태로 결합 시 카피레프트(Copyleft)가 적용되지 않는데, 이는 추가 제약 사항에 해당됩니다. 따라서 GPL 2.0과 LGPL 2.1 버전을 사용 시, 충돌이 발생하게 됩니다. 자세한 충돌 관계는 GNU 사이트에서 확인할 수 있습니다. ",
+    "url": "/docs/license/compatibility/#%EC%B0%B8%EA%B3%A0--gpl-%EA%B3%84%EC%97%B4-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EC%96%91%EB%A6%BD%EC%84%B1",
+    
+    "relUrl": "/docs/license/compatibility/#참고--gpl-계열-라이선스-양립성"
+  },"58": {
+    "doc": "오픈소스 분쟁 사례",
+    "title": "오픈소스 분쟁 사례",
+    "content": "오픈소스 라이선스 의무사항을 준수하지 않으면 저작권법 위반으로 코드 공개, 판매금지 및 손해배상 등의 법적 처분을 받을 수 있으므로 주의해야 합니다. 오픈소스 라이선스 분쟁은 계속해서 발생하고 있으며, 이 가이드에서는 그중 일부 사례를 소개합니다. ",
+    "url": "/docs/opensource/conflict/",
+    
+    "relUrl": "/docs/opensource/conflict/"
+  },"59": {
+    "doc": "오픈소스 분쟁 사례",
+    "title": "Oracle vs Google",
+    "content": "Google과 Oracle의 Java 소송 . | Google이 안드로이드(Android)에 Java API 37개를 사용 | Oracle이 Google을 상대로 특허 및 저작권 침해로 10조($90억) 손해배상 소송 제기 | . 히스토리(History) . | 2012년 1심: API 저작권 인정하지 않음 | 2014년 항소심: API 저작권 인정 | 2015년 연방대법원: API 저작권 인정 확정, 공정이용 여부 확인을 위해 1심으로 돌려보냄 | 2016년 1심: API 공정이용 판결 | 2018년 항소심: API 공정이용 아닌 것으로 판결, Goolge 측이 Oracle에 대해 배상 판결 | 2020년 10월 7일 상고심 | 2021년 4월 5일 최종 판결: 공정이용으로 구글 승소 | . 최종 판결 공정이용의 4가지 요건에 대한 판단이 있었고 그중 저작물 이용의 목적과 성격에 대해, Google의 Java API 사용이 새로운 플랫폼인 안드로이드 스마트폰 환경을 위한 창의적이고 혁신적인 도구 제공을 위한 변형적 이용이므로, 공정이용으로 판단되었습니다. 보다 자세한 내용은 API는 공정이용(fair use)의 대상인가 기사를 참고합니다. ",
+    "url": "/docs/opensource/conflict/#oracle-vs-google",
+    
+    "relUrl": "/docs/opensource/conflict/#oracle-vs-google"
+  },"60": {
+    "doc": "오픈소스 분쟁 사례",
+    "title": "한글과컴퓨터 vs Artifex",
+    "content": "한글과컴퓨터와 Artifex의 고스트스크립트(Ghostscript) 소송 . | 한컴오피스가 자사 제품에 Artifex의 고스트스크립트(Ghostscript)를 내장해, 한컴오피스 문서를 PDF 파일로 변환하는 데 사용 | Artifex가 미국법원에 한글과컴퓨터를 상대로 계약 위반 및 저작권 침해 소송 제기 | . 히스토리(History) . | 2017년 4월 25일: 법원이 오픈소스 라이선스가 집행력 있는 계약임을 인정 | 12월 합의: 205만 달러 배상 . | 한글과컴퓨터의 2015년 매출인 약 8,630만 달러의 2.37%를 손해배상 | . | . 참고하기 . 손해배상은 침해로 인해 라이선스 소유자가 얻지 못한 이익 및 침해자가 얻은 이익 등을 고려해서 결정되었습니다. 보다 자세한 내용은 Quartz - A federal court has ruled that an open-source license is an enforceable contract 링크를 참고합니다. 고스트스크립트(Ghostscript) . | 고스트스크립트(Ghostscript) 라이선스: AGPL, Commercial 듀얼 라이선스로 선택 가능 | AGPL: 9.07 버전부터 GPL → AGPL로 라이선스 변경 | Commercial: 라이선스 구매 | . ",
+    "url": "/docs/opensource/conflict/#%ED%95%9C%EA%B8%80%EA%B3%BC%EC%BB%B4%ED%93%A8%ED%84%B0-vs-artifex",
+    
+    "relUrl": "/docs/opensource/conflict/#한글과컴퓨터-vs-artifex"
+  },"61": {
+    "doc": "오픈소스 분쟁 사례",
+    "title": "VMWare vs 리눅스 개발자",
+    "content": "VMWare와 리눅스 개발자 간 소송 . | VMWare ESXi에 리눅스 커널 코드 사용 | 개발자 크리스토프 헬비그(Christoph Hellwig)가 고소 진행, 오픈소스 관련 단체의 지원 | . 히스토리(History) . | 2017년 8월 : 함부르크 지방법원이 소송 기각 결정 . | ESXi의 Vmklinux에서 사용 중으로 소스 코드 제공하여 GPL 준수하고 있음 | Vmkernel에는 사용되지 않음 | Vmklinux와 Vmkernel의 결합방식은 다루지 않음 | . | 크리스토프 헬비그가 항소를 밝혔으나 이후 합의 | . ",
+    "url": "/docs/opensource/conflict/#vmware-vs-%EB%A6%AC%EB%88%85%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90",
+    
+    "relUrl": "/docs/opensource/conflict/#vmware-vs-리눅스-개발자"
+  },"62": {
+    "doc": "오픈소스 분쟁 사례",
+    "title": "Skype vs gpl-violations.org",
+    "content": "Skype가 판매한 SMC 전화 단말기 WSKP100가 GPL2 위반(2007년 7월 29일) . | 소프트웨어 제조 업체는 SMC지만, Skype가 해당 제품을 실질적으로 웹사이트를 통해 판매(유통)했으므로, 라이선스 요건 충족에 책임을 져야 한다라고 판결 | 소스 코드 공개 및 벌금 지불 판결 | 유통 업체에게도 GPL 위반 책임을 물은 사례이며, 본국이 아닌 독일에서 소송 및 판결 | . ",
+    "url": "/docs/opensource/conflict/#skype-vs-gpl-violationsorg",
+    
+    "relUrl": "/docs/opensource/conflict/#skype-vs-gpl-violationsorg"
+  },"63": {
+    "doc": "오픈소스 분쟁 사례",
+    "title": "엘림넷 vs 하이온넷",
+    "content": "VTUND 기반의 엘림넷 제품을 하이온넷이 개작/상용화해 GPL 위반(2005년) . | GPL이 관련된 대한민국 최초의 법정 사건 | 엘림넷에서 VTUND를 기반으로 개발한 ETUND를 하이온넷에서 HL로 개작 및 상용화 | 엘림넷은 영업비밀 침해에 대한 고소 진행, FSF와 GNU는 저작권법 위반 경고 | . ",
+    "url": "/docs/opensource/conflict/#%EC%97%98%EB%A6%BC%EB%84%B7-vs-%ED%95%98%EC%9D%B4%EC%98%A8%EB%84%B7",
+    
+    "relUrl": "/docs/opensource/conflict/#엘림넷-vs-하이온넷"
+  },"64": {
+    "doc": "오픈소스 분쟁 사례",
+    "title": "Xiaomi MIUI의 GPL 위반",
+    "content": "Xiaomi가 MIUI에 리눅스 커널 기반 GPL 코드 포함(2014년) . | Xiaomi의 MIUI가 리눅스 커널 기반의 GPL 코드를 사용 | 이후 2015년 3월 31일에 Xiaomi의 Mi3, Mi4, Mi Note의 소스 코드 공개 - 2015.3.31 . | 코드 공개는 2014년 10월에 약속했으며, 자사 기기의 정보가 너무 많이 유출된다며 공개를 미루다, 수정 후 공개 진행 | . | . ",
+    "url": "/docs/opensource/conflict/#xiaomi-miui%EC%9D%98-gpl-%EC%9C%84%EB%B0%98",
+    
+    "relUrl": "/docs/opensource/conflict/#xiaomi-miui의-gpl-위반"
+  },"65": {
+    "doc": "오픈소스 분쟁 사례",
+    "title": "Orange GPL위반",
+    "content": "프랑스 법원, 대형 통신사 Orange에게 GPL 위반으로 손해배상 판결 . | 2005년 프랑스 대형 통신사인 Orange는 프랑스 전자 행정 개발청과 My Public Service 개발 계약 체결 | 개발과정에서 SAML 프로토콜 구현을 위해 Lasso 사용 | Orange는 상업용 라이선스를 구입하지 않고 Lasso 소프트웨어 출처와 라이선스를 명시하지 않으며, 수정된 소스 코드를 공개하지 않음 | Lasso의 개발사인 엔트루베르(Entr’Ouvert)는 해당 케이스를 발견하고 Orange 사를 상대로 손해배상을 청구 | . 히스토리(History) . | 2005년: Orange 사는 service-public.fr 포털의 일부를 개발하며 해당 솔루션에 Lasso 소프트웨어를 사용 | 2010년: 엔트루베르 사가 Orange 사를 고소 | 2021년: 항소법원은 엔트루베르의 저작권 침해 청구를 먼저 기각하면서 이 사건이 계약 위반 청구라 함 | 2022년: 프랑스의 대법원인 파기원(Court of Cassation)은 이 사건을 검토하고 2022년 10월 5일에 항소법원의 판결을 뒤집는 명령을 내림 | 2024년 2월 14일: 최종 판결이 내려졌으Orange 사가 패소. 총 650,000유로(한화 약 9억 4천만 원)를 엔트루베르에 지불하라고 명령 | . 최종 판결 Orange가 Entr’Ouvert의 Lasso 소프트웨어에 대한 저작권을 침해하고 GPL을 위반하여, Orange에게 50만 유로의 손해배상금과 15만 유로의 정신적 손해배상금을 지불하라고 명령했습니다. 보다 자세한 내용은 프랑스 법원, GPL 위반에 대한 손해배상 판결 내려 기사를 참고합니다. ",
+    "url": "/docs/opensource/conflict/#orange-gpl%EC%9C%84%EB%B0%98",
+    
+    "relUrl": "/docs/opensource/conflict/#orange-gpl위반"
+  },"66": {
+    "doc": "오픈소스 분쟁 사례",
+    "title": "게임 관련 분쟁 사례",
+    "content": "일본 LEAF사의 GPL 위반(2005년) . | 게임 오프닝 화면 동영상에 XviD 코덱 사용 | 홈페이지에 사과문 게재 및 게임 코드 전체 공개 | 일본의 PS2 게임 ICO 오픈소스 위반(2007년) | . SONY가 PlayStation2 게임인 이코(ICO)의 GPL 위반(2007년) . | SONY PlayStation2 게임 ICO에 GPL 라이선스 라이브러리(librac) 사용 | 전체 코드 공개 | . ",
+    "url": "/docs/opensource/conflict/#%EA%B2%8C%EC%9E%84-%EA%B4%80%EB%A0%A8-%EB%B6%84%EC%9F%81-%EC%82%AC%EB%A1%80",
+    
+    "relUrl": "/docs/opensource/conflict/#게임-관련-분쟁-사례"
+  },"67": {
+    "doc": "AI와 저작권법",
+    "title": "AI와 저작권법",
+    "content": "Stability AI, ChatGPT 및 Copilot와 같이 이미지, 영상, 코드, 텍스트 등을 학습한 AI 모델을 사용하는 것은 저작권 침해를 포함하여 다양한 위험 요소가 있습니다. 다만, 이러한 도구들은 생산성을 높일 수 있고 기술의 혁신을 주도할 수 있으므로, 그 사용을 막는 것이 아니라 위험성을 미리 파악하고 관리하여 사용해야 할 것입니다. 이 가이드에서는 생성형 AI 도구 사용의 모범 사례, 사용 위험성, 저작권 문제 및 분쟁과 논란에 대해서 알아봅니다. ",
+    "url": "/docs/opensource/conflict_ai/",
+    
+    "relUrl": "/docs/opensource/conflict_ai/"
+  },"68": {
+    "doc": "AI와 저작권법",
+    "title": "생성형(Generative) AI 사용의 모범 사례 정책",
+    "content": "생성형 AI 사용의 위험요소 . 생성형 AI 사용의 모범 사례 정책(Policy for Generative AI Best Practices) 문서에서 확인할 수 있듯, AI 사용 시 발생할 수 있는 위험요소의 종류는 아래와 같습니다. | 입력 리스크(Input Risk) AI 모델이 학습하는 데이터는 다양한 라이선스 조건(또는 라이선스 조건 없이)에 따라 제공되어 모델을 학습할 때 어떤 데이터를 선택할지 결정하는 것이 어렵습니다. 이러한 상황은 다수의 AI 개발자가 마주하는 문제이기도 합니다. 또한, 라이선스 조건 외에도 메타데이터 및 웹사이트의 서비스 이용 약관을 파악하여 데이터에 관련한 법적 문제를 예방해야 합니다. AI 모델은 크롤링이나 데이터 분석을 거친 다양한 데이터를 학습에 사용하는데, 어떤 데이터에는 법적 제약이 적용될 수 있습니다. 이러한 제약 조건은 데이터를 가져오는 서비스의 약관이나 데이터의 메타데이터에 상세하게 기록되어 있습니다. 이 정보들을 올바르게 해석하고 충족해, 위험할 수 있는 법적 문제를 방지할 수 있습니다. | 출력 리스크(Output Risk) 모델에 의해 생성된 출력은 AI 모델이 학습 데이터와 유사하게 나타날 수 있습니다. 때문에 머신러닝(Machine learning)의 생성물이, 모델이 학습하는 데 사용한 저작물의 저작권을 침해한다는 주장이 꾸준히 제기되었습니다. 이 저작권 침해 위험은 AI 모델 개발자 및 사용자 모두에게 적용됩니다. 사용자는 저작권 침해에 대한 기본 책임이 있으며, 개발자는 간접적인 침해에 대한 책임이 있을 수 있습니다. | . 따라서, 위 두 위험요소를 적절히 통제한다면 생성형 AI를 사용하는 위험성을 크게 낮출 수 있을 것입니다. 관련 내용은 아래에서 후술 합니다. 생성형 AI 사용 시 권고 준수 사항 . 생성형 AI 사용 과정에서 발생할 수 있는 위험 요소를 통제하기 위해, 아래의 권고사항들을 준수합니다. | 대규모 데이터 세트에 대해 트레이닝을 한, 신뢰할 수 있는 출처의 AI 도구만 사용합니다. 신뢰할 수 있는 대용량의 데이터를 기반으로 학습된 AI를 사용합니다. 책임감 있게 학습된 모델은 저작권을 침해할 가능성이 낮습니다. 또한, 대용량 데이터 세트로 학습하면 일반적인 출력을 생성할 가능성이 높아지므로, 저작권 침해 위험을 낮출 수 있습니다. | AI 도구에만 의존하지 않습니다. AI가 생성한 결과를 보완할 수 있도록, 사용자의 주관적인 판단과 검토가 필요합니다. | 일반적인 출력을 생성하도록 AI 도구를 사용합니다. 일반적인 출력(저작권과 최대한 관련이 없도록 하는 출력)을 생성하도록 AI를 사용합니다. 이 용도로 사용하는 경우에 저작권이나 상표권을 침해할 가능성이 낮습니다. 또한, 생성형 AI에게 저작권 및 상표권을 침해하는 컨텐츠 생성을 지시하지 않도록 합니다. 예를 들어, 이미지 생성 AI에 위험한 상황에 처한 피카츄 그림 같은 프롬프트를 사용하지 않습니다. | AI 생성 결과가 일시적으로만 필요한 경우에 사용합니다. 검색 쿼리 결과 같은 경우, AI의 생성 결과가 비영구적(일시적)으로 사용되므로 위험요소가 상대적으로 적습니다. 생성 결과가 지속되거나, 재사용될 수 있는 경우 위험도가 높습니다. | 가능한 경우 AI의 출력을 분리합니다. AI의 출력 결과를 가능한 다른 원본 데이터와 분리하여 저장하고 관리해, 결과의 정확성을 확인하고, 생성물을 추적할 수 있도록 합니다. | AI 도구가 제공하는 모든 필터링을 활성화합니다. 생성된 결과를 보다 정확하고 의미 있는 형태로 정제하고, 불필요한 결과나 부적절한 결과를 필터링할 수 있도록 합니다. | . 권고 사항 준수 예시 . 생성형 AI 사용 권고 준수 사항을 지키며, AI 도구를 사용하는 예시들은 아래와 같습니다. GitHub의 Copilot . GitHub의 Copilot은 아래와 같이 입력을 필터링할 수 있는 기능을 제공합니다. Github Copilot . GitHub Copilot에는 GitHub에서 퍼블릭 코드와 일치하는 코드 제안을 검색하는 필터가 포함되어 있습니다. 사용자는 필터를 사용하거나 사용하지 않도록 선택할 수 있습니다. 필터를 사용하도록 설정하면, GitHub Copilot은 제안한 코드의 약 150자 주변 코드들을 활용해, GitHub의 퍼블릭 코드와 생성된 코드 제안을 비교합니다. 결과가 일치하거나 거의 일치하는 경우, 제안이 표시되지 않습니다. 예정된 Copilot의 다음 주요 릴리스에서는 해당 리포지토리에 대한 참조와 일치하는 공개 코드 문자열을 식별하는 기능(Preview: referencing public code in GitHub Copilot)을 제공할 예정입니다. 혹시 발생할 수 있는 저작권 침해 책임을 줄이기 위해, AI 도구에서 이러한 필터링을 사용하도록 선택하는 것을 권장합니다. 이미지 및 음악 . AI 도구를 사용해 생성한 이미지 및 음악의 경우, 사용자는 저작권을 침해할 가능성이 있는 출력물을 다른 파일(저작권을 침해하지 않는 AI 도구로 다시 생성하거나, 스톡 이미지 또는 음악)로 교체합니다. 소프트웨어 소스 코드 . AI 도구를 사용해 생성한 소스 코드의 경우, 사용자는 Black Duck과 같은 도구를 사용해, 생성된 소스 코드가 침해할 수 있는 저작권을 미리 스캔할 수 있습니다. 참고하기 . 보다 더 다양한 오픈SW 검사도구들은 오픈소스SW 라이선스 종합정보시스템(OLIS) - 그 외 오픈SW 검사도구에서 확인할 수 있습니다. ",
+    "url": "/docs/opensource/conflict_ai/#%EC%83%9D%EC%84%B1%ED%98%95generative-ai-%EC%82%AC%EC%9A%A9%EC%9D%98-%EB%AA%A8%EB%B2%94-%EC%82%AC%EB%A1%80-%EC%A0%95%EC%B1%85",
+    
+    "relUrl": "/docs/opensource/conflict_ai/#생성형generative-ai-사용의-모범-사례-정책"
+  },"69": {
+    "doc": "AI와 저작권법",
+    "title": "생성형 AI 사용의 위험성",
+    "content": "생성형 AI를 구축하거나 모델을 사용 시 그 위험성과 문제점을 반드시 인식하고 있어야 합니다. 이 과정에서 프라이버시(사생활) 침해, 퍼블리시티권 침해, 데이터 사용에 대한 규제(예: HIPAA), 명예훼손 및 보안과 같은 문제들을 고려해야 합니다. 또한, AI 모델은 부적절하거나 오류가 있는 결과를 생성할 수 있으며, 이러한 위험을 관리하기 위해 사람이 생성 결과물을 확인하는 절차가 필요할 수 있습니다. 생성형 AI 소송 사례 . | Midjourney and Stability AI: 학습 이미지에 대한 집단 소송, 작가의 이름을 입력하여 화풍 반영 | Stability AI vs. Getty Images: 게티 이미지의 동의 없이 미술 저작물을 학습 데이터로 수집 | ChatGPT에 대한 명예훼손 소송 (참고: 명예훼손법은 관할권에 따라 그 법이 상이합니다) | . AI 명예훼손 이슈 기사 . | “내가 성폭행범이라고?”…챗GPT가 씌운 누명, 대책도 없다 | 법적 분쟁 부른 ChatGPT의 ‘실수’…오픈AI 피소 | . 퍼블리시티권이란? . 본인의 이름이나 초상에 대한 독점적인 권리를 말합니다. 즉, 이름 또는 초상에 대한 상업적 이용에 초점을 맞추고 있으며, 재산적 가치가 있는 유명인의 이름 및 초상 등을 상업적으로 이용하고 통제할 수 있는 배타적인 권리를 지칭합니다. ",
+    "url": "/docs/opensource/conflict_ai/#%EC%83%9D%EC%84%B1%ED%98%95-ai-%EC%82%AC%EC%9A%A9%EC%9D%98-%EC%9C%84%ED%97%98%EC%84%B1",
+    
+    "relUrl": "/docs/opensource/conflict_ai/#생성형-ai-사용의-위험성"
+  },"70": {
+    "doc": "AI와 저작권법",
+    "title": "AI 시대의 저작권 문제",
+    "content": "최근 AI가 기존 저작물을 학습하여 만들어낸 다양한 파생 저작물이 저작권이 존재하는지에 대한 법률적 논쟁이 대두되고 있습니다. AI를 활용한 창작이 이제 막 활성화되는 가운데, 아직 국내에서는 법규나 정책마련이 미흡한 상황이며 해외의 경우도 각 나라별로 마련하고 있는 법규나 정책이 상이합니다. 따라서, AI를 사용할 때 저작권에 대한 주의를 기울여야 합니다. 참고하기 . 본 문단은 Upstage - [AI와 저작권법] 내가 만든 AI 모델은 합법일까, 불법일까?의 내용을 참조하였습니다. 보다 자세한 내용은 해당 링크를 참고합니다. AI와 저작권법 . 좋은 학습 데이터로 학습한 경우, 좋은 AI 모델을 만들 수 있게 되며 사용자들의 생산성이 크게 향상될 것입니다. 다만, AI가 학습한 데이터와 생성한 결과가 저작권법에 저촉되지 않는지 고려가 필요합니다. 국내에는 아직 관련 법규가 미흡한 상황이기 때문에, AI와 사용자 모두를 고려한 좋은 방향의 법 개정을 위해 관심을 가질 필요가 있습니다. AI 학습 데이터 저작권법 . 좋은 AI를 만들기 위해서는 많은 양질의 데이터를 사용한 학습이 필수적이지만, 아직 AI 학습에 데이터 활용 시의 저작권 침해에 관한 명확한 기준이 없습니다. | 뉴스 기사 제목의 저작권 뉴스 기사의 저작권은 언론사에 있습니다. 반면, 뉴스 기사의 제목은 저작물로서의 가치를 인정받지 못하기 때문에 저작권법의 보호를 받지 못합니다. 따라서, 뉴스의 제목만을 사용해 보고 뉴스 기사가 어떤 카테고리에 속하는지 예측하는 모델을 만들고 싶은 경우, 그 데이터를 합법적으로 활용할 수 있습니다. | . AI 개발 과정에 개입 가능한 규제법 . | 신용 정보의 보호 및 이용에 관한 법률 | 개인정보보호법 | 공정거래법 | . 참고하기 . 본 문단은 Legal Issues of AI Technologies / Case Study: Getty Images v. Stability AI의 내용을 참조하였습니다. 보다 자세한 내용은 해당 링크를 참고합니다. AI 생성물 저작권법 . AI와 관련된 저작권법은 아직 해결해야 할 과제가 많습니다. 국내를 비롯해 미국, 영국 및 일본 등 대부분의 국가에서는 저작물을 인간이 만든 것에 한정하고 있습니다. 이에 현재로서는 ChatGPT와 같은 AI가 생성한 콘텐츠나 데이터는 저작물로 인정받지 못합니다. 따라서 현시점에서 AI 저작권 관련 일반법이 마련되는 것을 기다리는 것보다는, AI 개발 및 사용 과정에 적용이 가능한 기존의 법과 가이드라인을 적극 활용할 것을 권장합니다. ",
+    "url": "/docs/opensource/conflict_ai/#ai-%EC%8B%9C%EB%8C%80%EC%9D%98-%EC%A0%80%EC%9E%91%EA%B6%8C-%EB%AC%B8%EC%A0%9C",
+    
+    "relUrl": "/docs/opensource/conflict_ai/#ai-시대의-저작권-문제"
+  },"71": {
+    "doc": "AI와 저작권법",
+    "title": "분쟁과 논란",
+    "content": "AI 이미지 생성 . Getty Images는 Stability AI를 상대로 런던의 법원 및 미국 델라웨어주의 연방법원에 각각 소송(23년 1 ~ 2월)을 제기했습니다. Getty Images는 이미지 생성 AI인 Stable Diffusion의 개발사인 Stability AI가, 1,200만 장 이상의 사진을 복제하고, 이를 사용해 Getty Images의 서비스와 경쟁하고 있다고 주장했습니다. 또한, Sarah Andersen 등 3명의 예술가들은 1월 중순 Stability AI, Midjourney(이미지 생성) 및 DeviantArt(작품을 생성하는 DreamUP의 개발사)를 상대로 샌프란시스코의 연방법원에 집단소송을 제기하였습니다. 이들은 피고들이 웹상에서 예술가의 동의를 받지 않고 500억 개의 이미지로 AI를 교육시킴으로써 수백만 예술가의 저작권을 직간접적으로 침해했다고 주장했습니다. Copilot . Matthew Butterick 등의 프로그래머들이 GitHub, MS 및 OpenAI를 상대로 집단 소송(22년 11월)을 제기했습니다. 이들은 피고들이 Github에 저장된 오픈소스 코드를 이용하여 AI(Codex 및 Copilot)를 학습시켰고, 이 과정에서 저작권 관리정보의 삭제 및 변경, 복제권, 배포권, 그리고 2차 저작물작성권 등을 침해하였다는 근거로 집단 소송을 제기하였습니다. GitHub Copilot은 사용자가 원하는 소스 코드에 관련한 내용을 입력하면 이를 자동생성해 주는 서비스로, GitHub의 데이터를 학습에 활용하였다고 알려져 있습니다. SPFBO 대회 . SPFBO(Self-Published Fantasy Blog-OFF) 책표지 대회의 우승작이 AI 창작물로 밝혀졌습니다. M.V. Prindl의 판타지 소설 The Wizard는 SPFBO 책 표지 대회 우승작의 책으로 주목받았으나, 해당 작품이 AI 생성 이미지라는 것이 알려져 논란이 되었습니다. 이 사건 이후, SPFBO 대회의 주최자인 작가 Mark Lawrence는 향후 책 표지 대회 개최를 포기한다고 선언하였습니다. 또한, 이를 계기로 다수의 작가들이 자신과 계약한 아티스트가 AI를 사용했는지 의심하는 문제가 생기기도 하였습니다. 문제 발생 이후, CLarkesworld의 한 편집자는 SF/판타지 분야에서 AI 소프트웨어에 대한 체계적인 규범을 구축하자고 제안하였습니다. 세부적으로는, AI 생성물을 다루기 위해 아래와 같은 범용적인 방법론을 제시하는 성명서를 발표했습니다. | AI 학습 데이터의 합법성 준수 | AI 탐지 소프트웨어 효율성 향상 노력 | AI 도구 사용 시 공개해야 할 정보 등 | . AI로 생성한 가수의 목소리 . | 틱톡 이용자 ghostwriter977 Heart on My Sleeve라는 곡이 스포티파이, 애플뮤직, 아마존 뮤직 및 유튜브 뮤직 등 여러 음악 플랫폼에 공개되었습니다. 이 곡에는 유명 가수 Drake와 The Weeknd의 목소리가 포함되어 있었으나, 놀라운 점은 두 가수가 실제로 이 노래를 제작하지 않았다는 사실이었습니다. 이후 유니버설 뮤직 그룹(UMG)은 이 곡이 저작권 침해에 해당한다는 이유로 삭제를 요청했습니다. | David Guetta 자신의 최근 공연에서 AI 기술을 이용하여 에미넴(Eminem)의 스타일과 비슷한 노래를 선보였지만, 이를 상업적으로 발표할 계획은 없다고 하였습니다. | Grimes 최근 자신의 트위터에 내 목소리를 이용해서 성공적인 AI 커버곡을 만드는 경우에는 다른 아티스트와의 협업과 마찬가지로 로열티의 50%를 나누도록 하겠다고 밝힌 바 있습니다. 이는 AI 기술을 활용하여 자신의 목소리를 허락 없이 사용하는 것에 대해 저작권을 비롯하여 어떠한 법적 권리도 주장하지 않겠다고 밝힌 파격적인 사례였습니다. 이후 Grimes는 Elf.tech라는 소프트웨어 플랫폼을 새롭게 공개하였고, 자신의 팬들이 자유롭게 자신의 목소리를 이용하여 곡을 작업할 수 있도록 장려했습니다. | . ",
+    "url": "/docs/opensource/conflict_ai/#%EB%B6%84%EC%9F%81%EA%B3%BC-%EB%85%BC%EB%9E%80",
+    
+    "relUrl": "/docs/opensource/conflict_ai/#분쟁과-논란"
+  },"72": {
+    "doc": "오픈소스 라이선스와 지적재산권",
+    "title": "오픈소스 라이선스와 지적재산권",
+    "content": "오픈소스는 지적재산권에 의해 보호받으며, 사용자는 오픈소스의 라이선스를 준수해야 할 의무가 있습니다. 이 가이드에서는 오픈소스 라이선스와 지적재산권에 대해 알아봅니다. ",
+    "url": "/docs/opensource/copyright/",
+    
+    "relUrl": "/docs/opensource/copyright/"
+  },"73": {
+    "doc": "오픈소스 라이선스와 지적재산권",
+    "title": "오픈소스 라이선스",
+    "content": "오픈소스 라이선스의 의미 . 소프트웨어는 지적재산권에 의해 보호받으며, 원칙적으로 저작권자만이 해당 소프트웨어에 대한 독점 사용 권리를 가집니다. 오픈소스 라이선스(License)는 이러한 독점 사용 권리에 대해 이용 방법 및 조건의 범위를 명시해, 사용자에게 대여 규칙을 정의해 놓은 사용 허가권입니다. 오픈소스 소프트웨어를 이용하기 위해, 사용자는 저작권자가 정한 라이선스에 대한 규칙을 준수해야 하며, 이를 위반할 경우 라이선스 위반 및 저작권 침해가 발생하고 법적 책임도 따르게 됩니다. 오픈소스 라이선스의 분류 . 오픈소스 라이선스는 크게 퍼미시브(Permissive) 라이선스와 카피레프트(Copyleft) 라이선스로 나눌 수 있습니다. 이 두 라이선스의 특징은 아래와 같습니다. 퍼미시브(Permissive) 라이선스 . | 고지 의무를 지키면 자유롭게 사용 가능 | 대표적인 라이선스: MIT, BSD 및 Apache 등 | . 카피레프트(Copyleft) 라이선스 . | 고지 의무 및 코드 공개 의무 | 사용한 오픈소스의 라이선스와 동일한 조건으로 배포할 의무 | 대표적인 라이선스: GPL, LGPL, AGPL 및 MPL 등 | . 오픈소스 소프트웨어의 배포의 의미 . 오픈소스 소프트웨어의 배포는 소스 코드 또는 바이너리(실행) 코드의 사본을 다른 사람에게 제공하는 행위를 말합니다. to give someone else a copy of its code — either its source code, or its binary (Executable) code, or both . 오픈소스 라이선스의 의무사항(규정 준수)은 배포가 이루어질 때 적용됩니다. 앱스토어 배포, 판매, 서드파티(3rd Party) 제공 그리고 공개된 코드 등의 경우가 배포에 해당합니다. 이 외에 개인적인 용도로 사용하거나, 외부에 공개하지 않고 사내 도구(Tool)로 만 사용하는 경우는 배포에 해당하지 않습니다. ",
+    "url": "/docs/opensource/copyright/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4",
+    
+    "relUrl": "/docs/opensource/copyright/#오픈소스-라이선스"
+  },"74": {
+    "doc": "오픈소스 라이선스와 지적재산권",
+    "title": "오픈소스의 지적재산권",
+    "content": "오픈소스에 관한 법적 책임과 이에 따른 위험에 대해 잘 알기 위해서는 오픈소스 소프트웨어의 지적재산권에 대한 이해가 필요합니다. 오픈소스 소프트웨어를 보호하는 법적장치인 지적재산권은 아래 이미지와 같이 저작권, 특허권, 상표권 그리고 영업비밀이 있습니다. 본 문단에서는 저작권, 특허권, 상표권 그리고 영업비밀에 대해 알아보겠습니다. 출처) https://www.oss.kr/oss_license . 저작권 (Copyright) . 저작권은 저작물이 창작된 때부터 발생하며, 어떠한 절차나 형식적 요건이 필요하지 않습니다. 프로그램 저작권의 조건 . 프로그램 저작권의 조건은 아래와 같습니다. | 창작성이 있어야 합니다. | 인간의 사상이나 감정을 표현한 것이어야 합니다. | 사상이나 감정은 표현되어야 하므로, 프로그래머가 특정 기능을 갖는 프로그램에 대한 아이디어를 자신의 머릿속에만 간직하는 것만으로는 보호받을 수 없습니다. 이를 숫자 및 영문자 등으로 구성된 소스 코드 형태로, 종이나 컴퓨터 하드디스크 등과 같은 유형의 매체에 고정시켜 외부로 표현해야 합니다. | . 저작권자가 가지는 권리 . 저작권자가 가지는 저작물 권리는 아래와 같습니다. | 저작인격권 . | 창작자의 인격적 권리 | 공표권, 성명표시권 및 동일성유지권 | . | 저작재산권 . | 경제적 이익을 추구할 수 있는 권리 | 복제권, 개작권, 번역권, 배포권, 발행권, 전송권 및 대여권 등 | . | . 특허권 (Patent) . 특허권(Patent)은 발명에 관하여 발명자(특허권자)가 갖는 독점 배타권입니다. 저작권과는 달리 일정한 방식으로 출원을 해야 하며, 심사를 통과한 후 등록되어야만 권리가 발생하게 됩니다. 특허 기술을 사용하기 위해서는 반드시 특허권자의 허락을 얻어야만 하며, 특허받은 방식을 구현하는 소프트웨어라면 프로그래밍 언어에 상관없이 소프트웨어가 특허권의 범위에 속하게 됩니다. 상표권 . 상표는 타인의 상품과 자신이 생산한 제품을 구별하고 식별하게 하는 기능을 하는 기호, 문자, 도형, 입체적 형상 또는 이들을 결합한 것을 의미합니다. 만약 기존에 등록된 어떠한 상표와 동일 또는 유사한 상표를, 타인이 무단으로 동일 또는 유사한 상품에 사용하여 소비자에게 혼동을 일으키는 경우, 상표권자는 상표법과 부정경쟁방지법에 의거해 그러한 사용을 제재할 수 있습니다. 영업비밀 . 영업비밀(Trade secret)은 공연히 알려져 있지 아니하고 독립된 경제적 가치를 가지는 것으로서, 상당한 노력에 의하여 비밀로 유지된 생산 방법, 판매 방법 및 기타 영업 활동에 유용한 기술상 또는 경영상의 정보를 말합니다. 특허권이나 저작권 등은 권리의 존속기간 동안 국가가 적극적인 보호를 해주는 대신 그 기간이 종료한 후에는 일반 공중이 이를 마음대로 사용할 수 있도록 창작자와 국가 간의 약속이 있는 반면, 영업 비밀은 그 특성상 보호받고자 기업 스스로가 자신의 정보를 상당한 노력에 의해서 비밀로 유지해야 합니다. 국가는 부정한 수단(절취, 기망, 협박, 산업스파이 및 비밀유지 의무를 위반한 부정 취득)으로 영업비밀을 취득하는 경우에만 「부정경쟁방지 및 영업 비밀보호에 관한 법률」에 의해 처벌하게 됩니다. ",
+    "url": "/docs/opensource/copyright/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%9D%98-%EC%A7%80%EC%A0%81%EC%9E%AC%EC%82%B0%EA%B6%8C",
+    
+    "relUrl": "/docs/opensource/copyright/#오픈소스의-지적재산권"
+  },"75": {
+    "doc": "오픈소스 라이선스와 지적재산권",
+    "title": "오픈소스의 보안 취약점",
+    "content": "오픈소스는 그 소스 코드가 공개되어 있어, 발견된 코드의 결함을 통해 악의적인 공격을 받을 수 있습니다. 실제로 오픈소스 사용의 증가와 함께 보안 취약점도 매년 약 2,000개에서 3,000개씩 꾸준히 증가하고 있습니다. 따라서, 오픈소스 보안 취약점이 발생하면 비교적 신속하게 보안 패치가 이루어지긴 하지만, 사용자 또한 사용한 오픈소스의 보안 취약점이 존재하는지 꾸준히 확인하고 패치가 배포되면 이를 적용해야 합니다. 오픈소스 취약점을 찾아내주는 도구들이 많이 등장하고 있는 만큼, 사용한 오픈소스의 취약점을 모니터링하고 관리하는 것을 권장합니다. ",
+    "url": "/docs/opensource/copyright/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%9D%98-%EB%B3%B4%EC%95%88-%EC%B7%A8%EC%95%BD%EC%A0%90",
+    
+    "relUrl": "/docs/opensource/copyright/#오픈소스의-보안-취약점"
+  },"76": {
+    "doc": "ElasticSearch",
+    "title": "ElasticSearch",
+    "content": " ",
+    "url": "/docs/license/revision/elasticSearch/",
+    
+    "relUrl": "/docs/license/revision/elasticSearch/"
+  },"77": {
+    "doc": "ElasticSearch",
+    "title": "ElasticSearch: Elastic License 2.0, SSPL 듀얼 라이선스 적용",
+    "content": "변경사항 . 라이선스 변경사항은 아래와 같습니다. Elasticsearch와 Kibana의 라이선스가 Apache 2.0에서 Elastic License 2.0, SSPL의 듀얼 라이선스로 변경되었습니다. Elastic 7.11 릴리즈부터 ElasticSearch와 Kibana에 Elastic License 2.0, SSPL의 듀얼 라이선스가 적용됩니다.(Elastic 라이선스 변경) Elastic 8.16 릴리즈부터는 ElasticSearch와 Kibana에 AGPL3.0이 추가된 AGPL 3.0, Elastic License 2.0, SSPL의 멀티 라이선스가 적용됩니다.(Elasticsearch Is Open Source. Again!) . 라이선스 설명 . | Elastic License 2.0: 클라우드 서비스 공급자가 Elasticsearch 및 Kibana를 서비스로 제공하지 못하도록 제한합니다. | SSPL: 외부에 서비스로 제공하는 경우 서비스 소스 코드(Service Source Code) 전체 공개의 의무가 있습니다. | . 주의사항 . 변경에 따른 주의사항은 아래와 같습니다. | 베이식(Basic) 라이선스는 자체 서비스 등을 위해 직접 구축할 경우, 계속 무료로 사용할 수 있으며, 상업적으로 제품에 포함시키는 등의 재판매는 금지합니다. | 오픈소스 버전의 경우 기본적으로 SSPL(Server Side Public License) 1.0과 Elastic License 2.0의 듀얼 라이선스가 적용되며, 각 파일 헤더에 명시된 라이선스가 우선 적용됩니다. | x-pack 디렉터리 하위는 Elastic License가 적용되므로, 베이식(Basic) 이상에 포함되는 기능인 보안(Security), 모니터링(Monitoring) 등을 사용하고자 하는 경우, Elastic사와 OEM 계약을 체결할 필요가 있습니다. | . ",
+    "url": "/docs/license/revision/elasticSearch/#elasticsearch-elastic-license-20-sspl-%EB%93%80%EC%96%BC-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EC%A0%81%EC%9A%A9",
+    
+    "relUrl": "/docs/license/revision/elasticSearch/#elasticsearch-elastic-license-20-sspl-듀얼-라이선스-적용"
+  },"78": {
+    "doc": "폰트 라이선스 사용",
+    "title": "폰트 라이선스 사용",
+    "content": "공개되어 있는 폰트(글꼴)를 사용하기 위해서는 폰트의 라이선스를 잘 확인하여 사용하여야 합니다. 유료 폰트뿐 아니라 무료 폰트 또한 해당 폰트의 라이선스 의무사항을 잘 확인하고 의무사항을 잘 지켜 사용하여야 합니다. 이 가이드에서는 이러한 폰트들의 글꼴 파일 저작권에 대해서 알아보고자 합니다. ",
+    "url": "/docs/license/font-license/",
+    
+    "relUrl": "/docs/license/font-license/"
+  },"79": {
+    "doc": "폰트 라이선스 사용",
+    "title": "글꼴 파일 저작권",
+    "content": "글꼴 파일 저작권의 특징은 아래와 같습니다. | 구매(사용허락) 시 명시된 목적(조건) 이외에는 사용이 불가능 | 폰트에 대한 저작권 문제는 알지 못했다고 해서 면책되지 않음(저작권 확인 필수) | 글꼴 파일 저작권법은 컴퓨터 프로그램 저작물인 글꼴 파일을 보호할 뿐 글자체를 보호하는 것이 아님 | 잡지와 같은 페이지를 이미지 형태로 전환하여 온라인 서비스할 경우, 별도의 폰트 라이선스 구매는 필요하지 않음 | . 참고하기 . 글꼴 파일 저작권에 대한 자세한 내용은 한국저작권보호원: 글꼴파일저작권바로알기.pdf 파일을 확인합니다. 글자체(폰트 도안)와 글꼴(폰트)파일 설명 . 글자체와 글꼴 파일에 대한 차이를 설명하면 아래와 같습니다. 글자체 . 특정한 모양의 글자 집합을 의미하는 글자체는 저작권법 상 보호대상이 아닙니다. 예를 들어 궁서체, 고딕체 및 명조체등글자의모양 등의 서체가 있습니다. 글꼴 파일 . 컴퓨터 등에서 글자를 나타내기 위해 글자체를 디지털화한 글꼴 파일은 컴퓨터 프로그램 저작물로서 저작권법 상 보호대상입니다. 예를 들어 궁서체.TTF, 고딕체.OTF와 같은 파일이 있습니다. 글꼴 파일의 설치와 이용 . 유료 글꼴 파일 . 글꼴 파일 이용자는 합법적인 절차를 거쳐 글꼴 파일을 구매해 설치해야 합니다. 만일 글꼴 파일을 무단으로 내려받아 이용하는 경우 저작권 침해 책임을 질 수 있습니다. 무료 글꼴 파일 . 권리자가 일정 범위 내(비영리/개인 목적 등)에서 자유롭게 이용하도록 배포하는 무료 글꼴 파일을 내려받아 설치하는 것은 저작권 침해 책임이 발생하지 않을 가능성이 높습니다. 다만, 무료 글꼴 파일의 경우도 저작권자가 사용 조건이나 범위(비영리/개인 목적 사용 가능, 기업 상징 사용 금지 등)를 정한 경우가 있으므로 사전에 약관(이용계약) 내용을 꼼꼼히 확인해야 합니다. 참고하기 . 저작권을 준수하는 올바른 글꼴 파일 사용을 위해 아래의 사이트를 참고합니다. | 권리자 찾기(저작물 정보를 찾을 수 있는 사이트) | 무료 폰트 안내: 무료로 이용할 수 있는 글꼴의 경우에도 약관의 조건이 있을 수 있으니 꼼꼼히 확인을 해야 합니다. | 이로운법[알면 the 이로운 법] 17. ‘폰트 저작권 침해’ 정확히 알고 대응하자 | . ",
+    "url": "/docs/license/font-license/#%EA%B8%80%EA%BC%B4-%ED%8C%8C%EC%9D%BC-%EC%A0%80%EC%9E%91%EA%B6%8C",
+    
+    "relUrl": "/docs/license/font-license/#글꼴-파일-저작권"
+  },"80": {
+    "doc": "폰트 라이선스 사용",
+    "title": "SIL Open Font License(OFL License)",
+    "content": "SIL Open Font License(OFL)는 주로 폰트에 사용되는 자유 오픈소스 라이선스로 폰트를 자유롭게 사용, 수정 및 재배포할 수 있는 법적 프레임워크를 제공합니다. 이 라이선스의 주요 목표는 폰트 프로젝트의 글로벌 협업을 촉진하고, 학술 및 언어 커뮤니티의 폰트 개발을 지원하며, 자유롭게 공유 및 개선될 수 있는 환경을 구성하는 것입니다. 고지 의무 . 소스 코드 내 명시된 저작권과 라이선스 정보를 그대로 유지한 상태로 재배포합니다. 자체 판매 금지 . | 폰트 자체를 단독으로 판매 금지합니다.(GPL과 호환되지 않음) | 다른 프로그램과 함께 배포하거나 판매하는것은 허용됩니다. | . 참고하기 . OFL-1.1 라이선스에 대한 자세한 내용은 OFL-1.1 라이선스을 참고합니다. ",
+    "url": "/docs/license/font-license/#sil-open-font-licenseofl-license",
+    
+    "relUrl": "/docs/license/font-license/#sil-open-font-licenseofl-license"
+  },"81": {
+    "doc": "폰트 라이선스 사용",
+    "title": "Apple Font",
+    "content": "Apple Font 에서 설치하여 사용하는 폰트 . Apple 폰트 설치 시 포함되는 라이선스입니다. 이 라이선스는 인쇄물, 미디어 등 형식에 관계없이 적용됩니다. 아래 폰트들은 각각 명시된 특정 운영 체제에서만 사용할 수 있습니다. 이때 폰트들은 해당 운영 체제에서 실행되는 소프트웨어 제품의 사용자 인터페이스 목업(Mock-up)을 만드는 용도로만 사용할 수 있습니다. | SF Pro : iOS, macOS and tvOS application uses only | SF Compact : Apple watchOS uses only | New York : iOS, macOS, tvOS and watchOS application uses only | . Apple 제품에 기본 설치된 시스템 폰트 . Apple 제품에는 내장되어 사용 가능하지만 폰트 파일에 대한 공유 및 배포는 라이선스 위반입니다. 단, Apple 제품 사용자라면 이미지 및 인쇄물 등의 상업적 이용에 사용이 가능합니다. ",
+    "url": "/docs/license/font-license/#apple-font",
+    
+    "relUrl": "/docs/license/font-license/#apple-font"
+  },"82": {
+    "doc": "Grafana, Loki, Tempo",
+    "title": "Grafana, Loki, Tempo",
+    "content": " ",
+    "url": "/docs/license/revision/grafana/",
+    
+    "relUrl": "/docs/license/revision/grafana/"
+  },"83": {
+    "doc": "Grafana, Loki, Tempo",
+    "title": "Grafana, Loki, Tempo: AGPL 3.0 라이선스 적용",
+    "content": "변경사항 . 라이선스 변경사항은 아래와 같습니다. Grafana, Loki, Tempo의 라이선스가 Apache 2.0에서 AGPL 3.0으로 변경되었습니다. Grafana v7.5.6, Loki v2.3.0, Tempo v0.7.0 부터 AGPL 3.0 라이선스가 적용됩니다. 기타 플러그인(Plugin), 에이전트(Agent), 일부 라이브러리들은 Apache 2.0 라이선스를 그대로 유지합니다. 주의 사항 . 변경에 따른 주의사항은 아래와 같습니다. | AGPL 3.0 라이선스는 GPL 3.0 라이선스에 네트워크 사용 관련 의무사항이 추가된 라이선스입니다. | AGPL이 적용된 서비스가 네트워크(예: REST API)를 통해 클라이언트(예: 브라우저)에게 기능을 제공하는 경우에, 기능을 사용하는 모든 사용자에게 AGPL 서비스를 포함한 전체 소스를 공개하는 의무사항이 발생합니다. | 위 의무사항은 웹 서비스의 경우도 해당합니다. | 예를 들어, AGPL이 적용된 Grafana 서비스를 제 3자에게 클라이언트(브라우저) 등에서 사용할 수 있도록 제공하는 경우, Grafana 서비스의 전체 소스를 공개해야 합니다. | . ",
+    "url": "/docs/license/revision/grafana/#grafana-loki-tempo-agpl-30-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EC%A0%81%EC%9A%A9",
+    
+    "relUrl": "/docs/license/revision/grafana/#grafana-loki-tempo-agpl-30-라이선스-적용"
+  },"84": {
+    "doc": "if(kakao)",
+    "title": "if(kakao)",
+    "content": "카카오 개발자 컨퍼런스인 if(kakao)에서의 오픈소스 세션을 소개합니다. ",
+    "url": "/docs/kakao/mov/ifkakao/",
+    
+    "relUrl": "/docs/kakao/mov/ifkakao/"
+  },"85": {
+    "doc": "if(kakao)",
+    "title": "2022년",
+    "content": "오픈소스 더 똑똑하게 관리하자: OLIVE Platform’s Next Level이라는 제목으로, 오픈소스 관리 방법과 관리 이유를 살펴보고, OLIVE Platform에 추가된 기능 및 OLIVE Platform의 다음 단계는 무엇인지 소개합니다. ",
+    "url": "/docs/kakao/mov/ifkakao/#2022%EB%85%84",
+    
+    "relUrl": "/docs/kakao/mov/ifkakao/#2022년"
+  },"86": {
+    "doc": "if(kakao)",
+    "title": "2021년",
+    "content": "카카오 오픈소스팀 이야기: 오픈소스 관리 OLIVE Platform 개발 사례 공유라는 제목으로, 카카오의 오픈소스 관리 서비스인 OLIVE Platform 개발 사례를 소개합니다. ",
+    "url": "/docs/kakao/mov/ifkakao/#2021%EB%85%84",
+    
+    "relUrl": "/docs/kakao/mov/ifkakao/#2021년"
+  },"87": {
+    "doc": "if(kakao)",
+    "title": "2020년",
+    "content": "OLIVE 카카오에서 제공하는 오픈소스 관리 서비스라는 제목으로 카카오의 오픈소스 관리 서비스인 OLIVE Platform을 소개하고 향후의 개발 계획을 공유합니다. ",
+    "url": "/docs/kakao/mov/ifkakao/#2020%EB%85%84",
+    
+    "relUrl": "/docs/kakao/mov/ifkakao/#2020년"
+  },"88": {
+    "doc": "if(kakao)",
+    "title": "2019년",
+    "content": "카카오의 오픈소스 관리 시스템 OLIVE로 오픈소스를 요리하다는 제목으로 오픈소스 관리 방법과 OLIVE Platform의 개발 계획을 공유합니다. ",
+    "url": "/docs/kakao/mov/ifkakao/#2019%EB%85%84",
+    
+    "relUrl": "/docs/kakao/mov/ifkakao/#2019년"
+  },"89": {
+    "doc": "if(kakao)",
+    "title": "2018년",
+    "content": "오픈소스를 사용하고 준비하는 개발자를 위한 가이드라는 제목으로 개발자들이 오픈소스를 사용할 때 주의해야 할 사항을 자세히 소개합니다. ",
+    "url": "/docs/kakao/mov/ifkakao/#2018%EB%85%84",
+    
+    "relUrl": "/docs/kakao/mov/ifkakao/#2018년"
+  },"90": {
+    "doc": "발표 영상",
+    "title": "발표 영상",
+    "content": "if(kakao), 공개SW 페스티벌, SOSCON 등에서 진행한 오픈소스 관련 발표 영상을 모았습니다. ",
+    "url": "/docs/kakao/mov/",
+    
+    "relUrl": "/docs/kakao/mov/"
+  },"91": {
+    "doc": "라이선스별 의무사항",
+    "title": "라이선스별 의무사항",
+    "content": "주요 오픈소스 라이선스의 내용과 의무사항에 대해 자세히 알아봅니다. 참고하기 . 이 문서의 출처는 아래의 자료를 기반으로 작성하였습니다. | https://sktelecom.github.io/guide/use/obligation/ | . ",
+    "url": "/docs/license/licenselst/",
+    
+    "relUrl": "/docs/license/licenselst/"
+  },"92": {
+    "doc": "라이선스 변경 사례",
+    "title": "라이선스 변경 사례",
+    "content": "라이선스 변경은 클라우드 서비스에 대한 제약사항을 추가하거나, 상용 목적의 사용이 제한되는 라이선스로 변경되는 경우가 있으니 주의해야 합니다. 유명한 라이선스 변경 및 제한사항이 추가된 사례를 소개하고, 사용 시 주의사항을 알아봅니다. ",
+    "url": "/docs/license/revision/",
+    
+    "relUrl": "/docs/license/revision/"
+  },"93": {
+    "doc": "오픈소스 라이선스",
+    "title": "오픈소스 라이선스",
+    "content": "오픈소스를 이용하기 위해 준수해야 하는 라이선스의 의무사항에 대해 알아봅니다. 또한, 라이선스들이 가지고 있는 의무사항을 준수하는 방법에 대해 알아봅니다. ",
+    "url": "/docs/license/",
+    
+    "relUrl": "/docs/license/"
+  },"94": {
+    "doc": "오픈소스 동향",
+    "title": "오픈소스 동향",
+    "content": "변화하고 있는 국가별 AI 규제 정책 현황을 알아봅니다. 또한, 오픈소스 동향 소식에 대해 알아봅니다. ",
+    "url": "/docs/trend/",
+    
+    "relUrl": "/docs/trend/"
+  },"95": {
+    "doc": "오픈소스 사용하기",
+    "title": "오픈소스 사용하기",
+    "content": "오픈소스의 선택기준과 사용방법에 대해 알아봅니다. 또한, 오픈소스를 관리하기 위한 방법과 검증 도구를 소개합니다. ",
+    "url": "/docs/use/",
+    
+    "relUrl": "/docs/use/"
+  },"96": {
+    "doc": "오픈소스",
+    "title": "오픈소스",
+    "content": "오픈소스의 정의와 오픈소스를 보호하는 지적재산권 및 라이선스 등에 대해 알아봅니다. 또한, 다양한 오픈소스 분쟁사례와 인공지능(AI) 관련 오픈소스 이슈를 소개합니다. ",
+    "url": "/docs/opensource/",
+    
+    "relUrl": "/docs/opensource/"
+  },"97": {
+    "doc": "오픈소스 기여하기",
+    "title": "오픈소스 기여하기",
+    "content": "오픈소스에 기여하는 다양한 방법과 그 의미, 그리고 필요한 사항들에 대해 알아봅니다. 오픈소스에 참여하거나, 내가 만든 코드를 오픈소스로 공개하여 다른 사람들에게 기여할 수 있습니다. ",
+    "url": "/docs/contribute/",
+    
+    "relUrl": "/docs/contribute/"
+  },"98": {
+    "doc": "오픈체인(OpenChain)",
+    "title": "오픈체인(OpenChain)",
+    "content": "카카오는 리눅스 재단(Linux Foundation)의 오픈체인 프로젝트(OpenChain Project) 한국 서브그룹인 오픈체인 KWG(Korea Work Group)에 적극적으로 참여하고 있습니다. 2022년 1월에는 오픈체인 프로젝트의 오픈소스 국제 표준 인증(ISO/IEC 5230:2020)을 획득했습니다. 여기에서는 오픈체인 커뮤니티와 오픈체인 프로젝트에 대해 알아보고, 오픈체인 KWG(OpenChain Korea Work Group)의 활동을 소개합니다. ",
+    "url": "/docs/kakao/openchain/",
+    
+    "relUrl": "/docs/kakao/openchain/"
+  },"99": {
+    "doc": "카카오의 오픈소스 활동",
+    "title": "카카오의 오픈소스 활동",
+    "content": "카카오는 다양한 오픈소스 활동을 지원 및 참여하고 있습니다. 카카오의 오픈소스 활동과 관련된 발표 영상과 뉴스 등을 소개합니다. ",
+    "url": "/docs/kakao/",
+    
+    "relUrl": "/docs/kakao/"
+  },"100": {
+    "doc": "오픈소스 가이드",
+    "title": "오픈소스 가이드",
+    "content": "카카오는 '개발자들이 오픈소스를 잘 활용하고 기여할 수 있도록 지원'하기 위해 오픈소스 가이드를 제공하고 있습니다. 오픈소스라는 거인의 어깨 위에서 여러분은 더 멀리 보고 더 많은 것을 할 수 있습니다. 이 오픈소스 가이드가 개발자들이 오픈소스의 가치를 이해하고 올바르게 사용하는데 도움이 되기를 바랍니다. ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"101": {
+    "doc": "오픈소스 가이드",
+    "title": "목차",
+    "content": "오픈소스 . | 오픈소스 정의와 오픈소스를 보호하는 지적재산권 및 라이선스 등에 대해 알아봅니다. | 다양한 오픈소스 분쟁사례와 인공지능(AI) 관련 오픈소스 이슈를 소개합니다. | . 오픈소스 라이선스 . | 오픈소스를 이용하기 위해 준수해야 하는 라이선스의 의무사항에 대해 알아봅니다. | 라이선스들이 가지고 있는 의무사항을 준수하는 방법에 대해 알아봅니다. | . 오픈소스 사용하기 . | 오픈소스의 선택기준과 사용방법에 대해 알아봅니다. | 오픈소스를 관리하기 위한 방법과 검증 도구를 소개합니다. | . 오픈소스에 기여하기 . | 오픈소스에 기여하는 다양한 방법과 의미, 그리고 필요한 것들에 대해 알아봅니다. | 오픈소스에 참여하거나 내가 만든 코드를 오픈소스로 공개하여 다른 이들에게 기여할 수 있습니다. | . 카카오의 오픈소스 활동 . | 카카오는 다양한 오픈소스 활동을 지원 및 참여하고 있습니다. | 카카오의 오픈소스 활동과 관련된 발표 영상과 뉴스 등을 소개합니다. | . ",
+    "url": "/#%EB%AA%A9%EC%B0%A8",
+    
+    "relUrl": "/#목차"
+  },"102": {
+    "doc": "오픈소스 가이드",
+    "title": "Contact",
+    "content": "본 가이드에 대해 궁금한 사항은 opensource@kakaocorp.com 으로 문의 바랍니다. ",
+    "url": "/#contact",
+    
+    "relUrl": "/#contact"
+  },"103": {
+    "doc": "오픈소스 가이드",
+    "title": "References",
+    "content": "이 문서는 아래의 자료를 참고하여 작성하였습니다. | https://opensource.org/OSD/ | https://sktelecom.github.io/guide/use/ | https://haksung.gitbook.io/oss/sw360 | https://opensource.guide/ko/how-to-contribute/ | https://en.wikipedia.org/wiki/ISO/IEC_JTC_1 | https://www.openchainproject.org/ | https://www.iso.org/ | https://www.oss.kr/ | . ",
+    "url": "/#references",
+    
+    "relUrl": "/#references"
+  },"104": {
+    "doc": "오픈소스 가이드",
+    "title": "라이선스 정보",
+    "content": "본 가이드는 CC-BY-4.0 라이선스 하에 공개합니다. ",
+    "url": "/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EC%A0%95%EB%B3%B4",
+    
+    "relUrl": "/#라이선스-정보"
+  },"105": {
+    "doc": "OpenChain 소개",
+    "title": "OpenChain 소개",
+    "content": "이 가이드에서는 오픈체인(OpenChain, )과 오픈체인 프로젝트에 대하여 알아보고, 오픈체인 ISO/IEC 5230 인증을 받기 위한 과정을 알아봅니다. ",
+    "url": "/docs/kakao/openchain/intro/",
+    
+    "relUrl": "/docs/kakao/openchain/intro/"
+  },"106": {
+    "doc": "OpenChain 소개",
+    "title": "오픈체인이란",
+    "content": "오픈체인은 오픈소스 공급망의 신뢰를 구축하기 위해 협력하는 글로벌 커뮤니티 성격의 조직입니다. 오픈체인은 오픈소스 라이선스 준수(컴플라이언스)를 위한 국제 표준(ISO/IEC 5230:2020) 및 보안 보증 준수 표준(ISO/IEC DIS 18974)을 통해 오픈소스의 신뢰를 관리하고 있습니다. 또한, 모든 사람들이 무료로 참여할 수 있는 교육, 훈련 및 인증 리소스를 보유 및 제공하고 있습니다. 즉, 오픈체인 커뮤니티는 오픈소스 프로세스 관리 과정의 모든 측면에서 발생하는 마찰을 줄이고 효율성을 높이기 위한 지식을 공유하는, 지원 성격의 네트워크 역할을 수행합니다. 참고: ISO/IEC 5230:2020 . ISO/IEC 5230은 리눅스 재단의 오픈체인 프로젝트에서 작성한 규격으로, 오픈소스 공급망 내에서 오픈소스 컴플라이언스를 보장하기 위한 최소한의 핵심 요구 사항을 정의하고 있습니다. 2016년에 버전 1.0이 발표되었고, 4년 후인 2020년 12월에는 오픈소스 컴플라이언스에 대한 국제 표준이 정식 등록되었습니다. 즉, 사실상의 표준이었던 오픈체인 규격이 ISO/IEC 5230:2020이라는 정식 국제 표준으로 전환되었습니다. ",
+    "url": "/docs/kakao/openchain/intro/#%EC%98%A4%ED%94%88%EC%B2%B4%EC%9D%B8%EC%9D%B4%EB%9E%80",
+    
+    "relUrl": "/docs/kakao/openchain/intro/#오픈체인이란"
+  },"107": {
+    "doc": "OpenChain 소개",
+    "title": "오픈체인 프로젝트",
+    "content": "비영리 단체인 리눅스 재단(Linux Foundation)에서 시작한 오픈체인 프로젝트는 각 기업의 오픈소스 소프트웨어 컴플라이언스 역량을 평가해 국제 인증을 발급합니다. 공식적인 설명과 구조는 프로젝트 헌장에 기술되어 있습니다. 오픈체인 프로젝트는 오픈소스 공급망의 신뢰를 구축하는 데 중점을 두고 있으며, 이를 위한 라이선스, 보안 및 기타 유형의 규정들에 대한 준수를 강조합니다. 이를 통해, 궁극적으로 오픈소스가 모든 유형의 내부(특정 기업/조직) 및 외부(기업/조직의 외부) 공급망에서 예측 가능(오픈소스 사용 시 성능과 안정성에 대한 예측)하고 이해 가능(사용자가 오픈소스를 이해하고 사용하고 수정할 수 있음)하며 최적화(오픈소스 개발 과정에서 커뮤니티 등의 도움으로 성능 향상)가 가능한 세상을 위해 노력하고 있습니다. 즉, 오픈체인은 오픈소스 프로그램이 더욱 널리 채택되고 잘 사용되어, 계속해서 개발, 배포 및 유지 관리를 통해 개선될 수 있는 세상을 만들고자 합니다. 이러한 오픈체인 프로젝트에서 수행하는 과업들은 모두에게 열려 있으며, 무료로 사용할 수 있습니다. 또한, 오픈체인 글로벌 커뮤니티는 오픈소스 교육, 오픈소스 정책, OSPO(오픈소스 프로그램 사무소) 등과 같은 프로그램들을 제공하고 있습니다. ",
+    "url": "/docs/kakao/openchain/intro/#%EC%98%A4%ED%94%88%EC%B2%B4%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8",
+    
+    "relUrl": "/docs/kakao/openchain/intro/#오픈체인-프로젝트"
+  },"108": {
+    "doc": "OpenChain 소개",
+    "title": "OpenChain ISO/IEC 5230",
+    "content": "ISO/IEC 5230은 2020년 말 국제표준화기구(ISO)와 국제전기기술위원회(IEC)가 공동으로 발표한 오픈소스 라이선스 준수를 위한 국제 표준입니다. 이 표준에서 오픈체인은 리눅스 재단의 오픈체인 규격 버전 2.1을 기반으로 하여, 소프트웨어 공급망 구축과 손쉬운 조달 및 라이선스 준수에 중점을 두고, 오픈소스 라이선스 준수 프로그램의 핵심 요구 사항을 정의했습니다. 한편, 오픈체인 ISO/IEC 5230:2020 표준 요구 사항을 충족한 조직은 공인 인증 기관으로부터 인증을 받을 수 있고, 기관의 감사를 성공적으로 완료한 후 ISO/IEC 17021 인증을 자체적으로 진행할 수도 있습니다. ",
+    "url": "/docs/kakao/openchain/intro/#openchain-isoiec-5230",
+    
+    "relUrl": "/docs/kakao/openchain/intro/#openchain-isoiec-5230"
+  },"109": {
+    "doc": "OpenChain 소개",
+    "title": "OpenChian ISO/IEC 5230 인증 목표",
+    "content": "오픈체인 ISO/IEC 5230 인증의 목표는 고품질의 오픈소스를 만들고자 할 때, 라이선스 준수를 위해 반드시 필요한 요구사항들을 확인하도록 하는 것입니다. 이를 통해, 조직 및 기업이 오픈소스 소프트웨어를 수집, 자체 개발 및 배포하는 과정에서 모든 절차가 신뢰할 수 있는 수준으로 진행된 것을 보장할 수 있습니다. ",
+    "url": "/docs/kakao/openchain/intro/#openchian-isoiec-5230-%EC%9D%B8%EC%A6%9D-%EB%AA%A9%ED%91%9C",
+    
+    "relUrl": "/docs/kakao/openchain/intro/#openchian-isoiec-5230-인증-목표"
+  },"110": {
+    "doc": "OpenChain 소개",
+    "title": "OpenChian ISO/IEC 5230 인증 방법",
+    "content": "ISO/IEC 5230 인증의 모든 요구사항을 준수한다면, 보유하고 있는 오픈소스 프로그램이 ISO/IEC 5230에 적합하다는 인증을 받을 수 있습니다. 오픈체인 프로젝트에서 제안하고 있는 인증 방법은 아래의 세 가지가 있습니다. | 자체 인증 | 독립 평가 | 타사 인증 | . 참고하기 . 오픈체인 인증 방법에 대한 보다 자세한 내용은 OpenChain: 오픈소스 준수를 위한 국제 표준 – 인증 옵션를 참고합니다. 자체 인증(Self Certification) . 오픈소스 라이선스 준수를 위한 국제 표준의 핵심은 자체 인증 방식입니다. 자체 인증이란 특정 조직 및 기업이 오픈소스 라이선스 준수의 국제 표준에 대한 요구 사항을 검토하고, 현재 자체적으로 진행 중인 프로세스가 그 요구 사항에 부합하는지 확인하는 과정을 의미합니다. 필요에 따라 조직 및 기업은 요구 사항에 부합하기 위해 프로세스를 조정할 수 있으며, 이러한 자체 인증은 여러 가지 방법으로 실시할 수 있습니다. 가장 일반적인 방법은 아래와 같습니다. | 오픈체인 자체 인증 웹 애플리케이션(웹사이트) 사용(무료) | 오픈체인 자체 인증 설문지의 다운로드 제공 버전 사용(무료) | 산업 표준 문서(Industry standard text) 체크리스트 사용(무료) | . 독립 평가(Independent Assessment) . 조직 및 기업이 국제 표준을 채택하는 과정에서 종종 전문적인 도움이 필요할 수 있습니다. 독립 평가의 일반적인 과정은, 지식이 풍부한 서비스 제공업체가 회사의 프로세스를 검토하고, 개선이 필요한 부분에 대해 객관적인 피드백을 제공하는 방식입니다. 오픈체인 국제 표준은 오픈소스 규정 준수를 위해 독립적 규정 준수 평가 프로세스를 포함하고 있으며, 이는 오픈체인 프로젝트가 신뢰하는 파트너가 제공하는 서비스입니다. 여기서 파트너는 법률 회사 또는 서비스 제공업체를 의미합니다. 독립 평가를 제공하는 오픈체인 파트너로는 Source Code Control(영국), AlektoMetis(독일) 등이 있으며, 이들은 독립 평가 방식의 오픈체인 인증을 위한 서비스를 제공하고, 이를 설명하는 세션도 주최한 바 있습니다. 타사 인증(Third-Party Certification) . 타사 인증을 통해 신뢰성을 확보하는 방법도 있습니다. 예를 들어 자동차, 인프라 및 항공 회사들의 경우, 제삼자(타사)의 공식 인증을 통해 엄격한 규제를 따르고, 이에 대한 정기적인 감사를 실시합니다. 오픈소스 준수를 위한 오픈체인 국제 표준 또한, 다른 국제 표준과 동일한 방식으로 타사 인증을 따르고 있습니다. 오픈체인의 공인된 타사 인증 기관으로는 PwC(독일)와 Orcro(영국) 등의 업체가 있으며, 이들 업체는 오픈체인 인증을 위한 자사 서비스 소개 및 이를 제안하는 설명 세션을 주최한 바 있습니다. ",
+    "url": "/docs/kakao/openchain/intro/#openchian-isoiec-5230-%EC%9D%B8%EC%A6%9D-%EB%B0%A9%EB%B2%95",
+    
+    "relUrl": "/docs/kakao/openchain/intro/#openchian-isoiec-5230-인증-방법"
+  },"111": {
+    "doc": "오픈체인 KWG 소개",
+    "title": "오픈체인 KWG 소개",
+    "content": "리눅스 재단(Linux Foundation)의 오픈체인 프로젝트(OpenChain Project) 한국 서브그룹인 오픈체인 KWG(Korea Work Group)는 오픈소스 정신인 협업과 공유를 통해 모두가 효과적으로 오픈소스 컴플라이언스를 달성하기 위한 방법을 고민하고 공유하기 위한 모임입니다. ",
+    "url": "/docs/kakao/openchain/kwg/",
+    
+    "relUrl": "/docs/kakao/openchain/kwg/"
+  },"112": {
+    "doc": "오픈체인 KWG 소개",
+    "title": "발표 자료",
+    "content": "2023-6-22 18번째 미팅 . | Welcome &amp; Intro | . 2023-03-28 17번째 미팅 . | 도구 별 의존성 분석 방식 | 요즘 OLIVE 써봤니? | onot, 이제 제법 쓸만해졌어요! | . 2022-12-02 16번째 미팅 . | OLIVE Platform Code Snippet 분석 기능 소개 | . 2022-06-21 14번째 미팅 . | Quick session: FOSSID 사용팁 | . 2022-03-16 13번째 미팅 . | [동향] 러시아의 우크라이나 침공을 대하는 오픈소스 생태계의 움직임 | 카카오와 카카오뱅크의 ISO/IEC 5230 인증 사례 공유 | . 2021-12-20 12번째 미팅 . | 오픈소스 보안취약점 공격 유형 | . 2021-09-30 11번째 미팅 . | 오픈소스 라이선스 변화의 흐름 | [동향] 미 정부의 ‘SBOM’ 의무화 | [동향] Github Codepilot 오픈소스 라이선스 논쟁 | . 2020-12-02 10번째 미팅 . | [동향] Google OSV (오픈소스 취약성) &amp; Google Insight (오픈소스 BOM) | . 2021-06-22 8번째 미팅 . | [동향] OpenCahin KWG - SCA Market 동향 | Olive 전격 공개 | . 2020-06-26 6번째 미팅 . | Kakao의 오픈소스 관리시스템 Olive 소개 (Introducing Olive, Kakao’s open source management system) | Olive 의존성 분석 구조 및 스펙 (Structure and Specification of Dependency Analysis in Olive) | . ",
+    "url": "/docs/kakao/openchain/kwg/#%EB%B0%9C%ED%91%9C-%EC%9E%90%EB%A3%8C",
+    
+    "relUrl": "/docs/kakao/openchain/kwg/#발표-자료"
+  },"113": {
+    "doc": "오픈체인 KWG 소개",
+    "title": "오픈체인 KWG(OpenChain Korea Work Group) - 툴링 그룹(Tooling Group)",
+    "content": "오픈체인 KWG(Korea Work Group)의 서브그룹인 툴링 그룹(Tooling Group)은 오픈소스 툴에 집중하여 헙업을 하는 공간입니다. 알맞은 툴의 활용은 오픈소스 컴플라이언스 프로세스 자동화 및 간소화 과정에서 효율성의 측면에서 도움을 줄 수 있습니다. 툴링 그룹은 이러한 오픈소스 컴플라이언스 툴을 기업에서 효율적으로 사용하기 위한 방법들을 논의하고 우수 사례를 공유하는 그룹입니다. 2022-05-25 3번째 미팅 . | OLIVE CLI 소개 | . 2022-04-27 2번째 미팅 . | FOSSID 리뷰 | . ",
+    "url": "/docs/kakao/openchain/kwg/#%EC%98%A4%ED%94%88%EC%B2%B4%EC%9D%B8-kwgopenchain-korea-work-group---%ED%88%B4%EB%A7%81-%EA%B7%B8%EB%A3%B9tooling-group",
+    
+    "relUrl": "/docs/kakao/openchain/kwg/#오픈체인-kwgopenchain-korea-work-group---툴링-그룹tooling-group"
+  },"114": {
+    "doc": "Minimal layout test",
+    "title": "Minimal layout test",
+    "content": "Return to main website. This page demonstrates the packaged minimal layout, which does not render the sidebar or header. It can be used for standalone pages. It is also an example of using the new modular site components to define custom layouts; see “Custom layouts and includes” in the customization docs for more information. ",
+    "url": "/docs/minimal-test/",
+    
+    "relUrl": "/docs/minimal-test/"
+  },"115": {
+    "doc": "mongoDB",
+    "title": "mongoDB",
+    "content": " ",
+    "url": "/docs/license/revision/mongoDB/",
+    
+    "relUrl": "/docs/license/revision/mongoDB/"
+  },"116": {
+    "doc": "mongoDB",
+    "title": "mongoDB: SSPL 라이선스 적용",
+    "content": "변경사항 . 라이선스 변경사항은 아래와 같습니다. mongoDB의 라이선스가 AGPL에서 SSPL로 변경되었습니다. 2018년 10월 16일 이후의 릴리스(Release)에 대해 SSPL이 적용됩니다(이전 버전의 패치도 포함합니다). 주의사항 . 변경에 따른 주의사항은 아래와 같습니다. | 외부에 서비스로 제공하는 경우 서비스 소스 코드(Service Source Code)를 전체 공개해야 합니다. | SaaS, 클라우드 등 제 3자에게 제공되는 모든 서비스를 포함합니다. | . 서비스 소스 코드(Service Source Code)란? . 본 프로그램 또는 수정된 버전의, 서비스를 구성하는 모든 프로그램의 소스 코드 및 관리 소프트웨어 전체를 의미합니다. 애플리케이션 프로그램의 인터페이스, 자동화 소프트웨어, 모니터링 소프트웨어, 백업 소프트웨어, 스토리지 소프트웨어 및 호스팅 소프트웨어 등 사용자가 실행할 수 있는 모든 서비스의 인스턴스가 해당합니다. SSPL 라이선스로 변경 . 2018년 10월 16일 이전 버전은 AGPL 라이선스이며, 그 이후 릴리스는 SSPL로 변경되었습니다(이전 버전의 패치도 포함합니다). 라이선스 변경 관련 원문 MongoDB is free and open-source. Versions released prior to October 16,2018 are published under the AGPL. All versions released after October 16, 2018, including patch fixes for prior versions, are published under the Server Side Public License (SSPL) v1.See individual files fordetails. SSPL 라이선스로 변경한 자세한 이유는 MongoDB now released under the Server Side Public License 에서 확인할 수 있습니다. 라이선스의 변경사유는 아래와 같습니다. | AWS와 같은 클라우드 서비스 제공자가 오픈소스를 사용하여 플러그 앤드 플레이(Plug and Play) 형태로 제공하며 수익을 창출하게 됨에 따라, 이를 방지하고자 SSPL 또는 상용 라이선스로 변경하였습니다. | SSPL 라이선스는 13조에서 해당 라이선스를 사용하는 프로젝트를 서비스로 제공하는 경우 서비스 소스 코드를 제공하라는 조항을 추가하고, 서비스 소스 코드를 새롭게 정의하였습니다. | SSPL 라이선스는 오픈소스 OSI(Open Source Initiative)에서 승인이 되지 않은 라이선스입니다. | . ",
+    "url": "/docs/license/revision/mongoDB/#mongodb-sspl-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EC%A0%81%EC%9A%A9",
+    
+    "relUrl": "/docs/license/revision/mongoDB/#mongodb-sspl-라이선스-적용"
+  },"117": {
+    "doc": "<img src=\"https://t1.kakaocdn.net/olive/ossguide/logo_olive.png\" width=\"16\" style=\"vertical-align:middle; margin-bottom:2px\"> OLIVE Platform",
+    "title": "OLIVE Platform",
+    "content": "OLIVE Platform은 프로젝트를 실시간으로 스캔하고 프로젝트에 사용된 오픈소스와 라이선스를 확인하여, 오픈소스 라이선스 의무 사항을 준수할 수 있도록 지원하는 오픈소스 관리 서비스입니다. ",
+    "url": "/docs/olive/#olive-platform",
+    
+    "relUrl": "/docs/olive/#olive-platform"
+  },"118": {
+    "doc": "<img src=\"https://t1.kakaocdn.net/olive/ossguide/logo_olive.png\" width=\"16\" style=\"vertical-align:middle; margin-bottom:2px\"> OLIVE Platform",
+    "title": "OLIVE Platform 탄생 배경",
+    "content": "카카오는 2014년 11월, 오픈소스를 올바르게 사용하고 관리하기 위해 오픈소스 관리 조직을 신설했습니다. 오픈소스 라이선스 검증은 카카오톡 애플리케이션을 시작으로, 현재는 배포되는 모든 서비스와 SDK 및 오픈소스를 대상으로 검증이 진행되고 있습니다. OLIVE, 그 첫 시작 Hermes . 카카오는 새로운 연결, 더 나은 세상이라는 슬로건에 맞춰 다양한 서비스를 제공하고 있습니다. 따라서 다양한 서비스에서 사용한 오픈소스를 확인하고 관리할 수 있는 자동화된 도구가 필요했었는데요, 코드 레벨의 분석 솔루션 도입을 시작으로, 오픈소스 관리 도구인 Hermes를 개발하여 Android와 iOS 애플리케이션 대응부터 검증 과정을 자동화하기 시작했습니다. OLIVE, Next level 오픈소스 검증 도구의 필요성 . 시간이 흐르며, 점차 증가하는 다양한 서비스의 개발 환경, 언어 및 플랫폼에 대응하게 되었습니다. 특히 카카오 미니 출시 당시, 오픈소스 검증 범위가 운영체제(OS) 레벨까지 확장되었습니다. 동시에, 사내 오픈소스 정책을 수립하고 개발자를 대상으로 오픈소스 교육을 진행하며, 오픈소스 사용에 대한 인식을 점차 개선해 나갔습니다. 정책 수립과 교육, 검증 자동화 및 효율화를 통해 오픈소스 검증 시간은 단축되고 검증 품질은 향상되었습니다. 그러나 검증 작업을 오픈소스 관리 조직에서 전담하며 한정된 리소스로 인해, 오픈소스 관리 조직에서 모든 서비스의 요청을 대응하기가 어려워졌습니다. 무엇보다 각 서비스는 오픈소스 관리 조직에서 검증을 완료한 후에야 비로소 관련 이슈를 확인하고 대응할 수 있었습니다. 이로 인해, 단순 자동화 이상의 새로운 오픈소스 검증 전략이 필요한 상황이 발생했습니다. 이에 카카오는 개발자가 주도적으로 오픈소스 관리 시스템에 참여할 수 있는 시스템을 목표로, 검증 시스템을 확장했습니다. 이렇게 탄생한 OLIVE의 도입으로 서비스 개발자는 언제든 오픈소스 검증을 진행하고, 사용한 오픈소스를 리포트로 확인하며 즉시 대응할 수 있게 되었습니다. 아울러 서비스 개발이 완료되면 배포 전에 검증을 수행하고, 오픈소스 관리자에게 검증 리뷰를 요청하는 프로세스를 구축했습니다. 이와 같이 필수적인 검증 결과의 최종 확인 절차는 오픈소스 관리 조직에서 전담하도록 하여, 전체 검증 프로세스의 효율이 크게 증가할 수 있었습니다. OLIVE Platform 탄생 . OLIVE Platform은 카카오 서비스에서 사용하는 오픈소스를 올바르게 사용하고 관리하기 위해 개발된 OLIVE를 모두가 사용할 수 있도록 공개한 오픈소스 관리 서비스입니다. 신뢰할 수 있는 오픈소스 DB를 구축해 보다 쉽고, 빠르고, 정확하게 오픈소스를 검증할 수 있도록 지속적인 기능 추가 및 개선 작업을 진행하고 있습니다. 우리가 오랜 시간 고민 끝에 만든 이 서비스가 모든 개발자들의 오픈소스에 대한 이해를 높이고 서비스의 오픈소스 관리에 도움이 되기를 바랍니다. ",
+    "url": "/docs/olive/#olive-platform-%ED%83%84%EC%83%9D-%EB%B0%B0%EA%B2%BD",
+    
+    "relUrl": "/docs/olive/#olive-platform-탄생-배경"
+  },"119": {
+    "doc": "<img src=\"https://t1.kakaocdn.net/olive/ossguide/logo_olive.png\" width=\"16\" style=\"vertical-align:middle; margin-bottom:2px\"> OLIVE Platform",
+    "title": "OLIVE Platform 사용 시 기대효과",
+    "content": "OLIVE Platform을 도입하면, 아래 효과를 기대할 수 있습니다. | 서비스 개발자의 오픈소스 라이선스에 대한 이해도 상승 | 개발문화 개선 | 개발한 소프트웨어의 보안 문제점을 빠르게 파악하고 대처 가능 | 개발한 소프트웨어의 라이선스 의무 수행 | 개발한 소프트웨어의 취약점 발견 | . ",
+    "url": "/docs/olive/#olive-platform-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EA%B8%B0%EB%8C%80%ED%9A%A8%EA%B3%BC",
+    
+    "relUrl": "/docs/olive/#olive-platform-사용-시-기대효과"
+  },"120": {
+    "doc": "<img src=\"https://t1.kakaocdn.net/olive/ossguide/logo_olive.png\" width=\"16\" style=\"vertical-align:middle; margin-bottom:2px\"> OLIVE Platform",
+    "title": "OLIVE Platform 기능",
+    "content": "프로젝트 분석 . | GitHub 계정을 연동하거나 CLI로 프로젝트를 분석하여, 사용 중인 의존성 정보와 코드스니펫 정보를 확인할 수 있습니다. | 다른 사람을 프로젝트의 멤버 초대하고 공유하여, 프로젝트를 함께 관리할 수 있습니다. | . 매핑 . | 분석된 의존성과 코드스니펫에 매핑된 오픈소스 컴포넌트를 확인하고, 매핑되지 않은 의존성을 직접 매핑할 수 있습니다. | 직접 매핑한 오픈소스는 오픈소스 데이터베이스(Database, DB)에 추가하여 추후 자신의 프로젝트의 자동분석에 재활용할 수 있습니다. | . 라이선스 검증 . | 프로젝트에서 사용한 오픈소스 컴포넌트의 라이선스와 의무 사항을 확인할 수 있습니다. | 라이선스 관련 이슈가 발견되었을 경우, 그 해결 방법을 함께 가이드하고 있습니다. | . 리포트 생성 . | 스캔이 완료되면 체크리스트와 리포트가 자동으로 생성됩니다. | 이전 스캔 시점의 검증 결과와 현재를 비교할 수 있고, 검증이 진행되는 중에도 오픈소스 고지문을 미리 확인할 수 있습니다. | 검증이 완료되면 고지문(참고용)을 다운로드할 수 있습니다. | . ",
+    "url": "/docs/olive/#olive-platform-%EA%B8%B0%EB%8A%A5",
+    
+    "relUrl": "/docs/olive/#olive-platform-기능"
+  },"121": {
+    "doc": "<img src=\"https://t1.kakaocdn.net/olive/ossguide/logo_olive.png\" width=\"16\" style=\"vertical-align:middle; margin-bottom:2px\"> OLIVE Platform",
+    "title": "OLIVE Platform 기능 참고",
+    "content": ". | 웹 서비스: https://olive.kakao.com/ | CLI 서비스: https://olive.kakao.com/docs/cli/v2/overview | 체험하기: https://olive.kakao.com/simple-check/analysis | 사용자 문서: https://olive.kakao.com/docs/ | . ",
+    "url": "/docs/olive/#olive-platform-%EA%B8%B0%EB%8A%A5-%EC%B0%B8%EA%B3%A0",
+    
+    "relUrl": "/docs/olive/#olive-platform-기능-참고"
+  },"122": {
+    "doc": "<img src=\"https://t1.kakaocdn.net/olive/ossguide/logo_olive.png\" width=\"16\" style=\"vertical-align:middle; margin-bottom:2px\"> OLIVE Platform",
+    "title": "OLIVE Platform 히스토리",
+    "content": ". | 2020.11.18: OLIVE Platform(Beta) 서비스 오픈 | 2021.06.30: OLIVE Platform 정식 서비스 오픈 | 2022.03.24: 프로젝트 추가 시 파일 업로드 지원 | 2022.04.21: OLIVE Platform CLI 오픈 | 2022.11.14: 소셜 로그인 지원 | 2022.11.23: 코드스니펫 분석 기능 추가 | 2023.09.11: OLIVE CLI v2.0.0 출시 | 2023.11.07: ESG 가입 오픈 | 2023.11.27: OLIVE Platform 서비스 개편 (오픈소스 데이터 추가, 취약성 정보 추가) | . ",
+    "url": "/docs/olive/#olive-platform-%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC",
+    
+    "relUrl": "/docs/olive/#olive-platform-히스토리"
+  },"123": {
+    "doc": "<img src=\"https://t1.kakaocdn.net/olive/ossguide/logo_olive.png\" width=\"16\" style=\"vertical-align:middle; margin-bottom:2px\"> OLIVE Platform",
+    "title": "<img src=\"https://t1.kakaocdn.net/olive/ossguide/logo_olive.png\" width=\"16\" style=\"vertical-align:middle; margin-bottom:2px\"> OLIVE Platform",
+    "content": " ",
+    "url": "/docs/olive/",
+    
+    "relUrl": "/docs/olive/"
+  },"124": {
+    "doc": "오픈소스 공개하기",
+    "title": "오픈소스 공개하기",
+    "content": "이 가이드에서는 오픈소스를 공개하는 데 필요한 파일과 그 의미를 알아보고, 참고할 만한 가이드와 샘플을 소개합니다. ",
+    "url": "/docs/contribute/open/",
+    
+    "relUrl": "/docs/contribute/open/"
+  },"125": {
+    "doc": "오픈소스 공개하기",
+    "title": "오픈소스에 필요한 파일`",
+    "content": "오픈소스를 공개하는데 필요한 파일은 아래와 같습니다. Open Source license README Contributing guidelines Code of Conduct . ",
+    "url": "/docs/contribute/open/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-%ED%8C%8C%EC%9D%BC",
+    
+    "relUrl": "/docs/contribute/open/#오픈소스에-필요한-파일"
+  },"126": {
+    "doc": "오픈소스 공개하기",
+    "title": "오픈소스 라이선스 선택하기",
+    "content": "MIT, Apache 2.0, 그리고 GPLv3가 가장 인기 있는 오픈소스 라이선스입니다. 이 외에도 사용할 수 있는 오픈소스 라이선스가 많습니다. choosealicense.com에서 이러한 라이선스의 전체 텍스트 및 사용 방법에 대한 지침을 찾을 수 있습니다. 혹은, GitHub와 같은 저장소는 새로운 프로젝트를 생성할 때, 템플릿(Template)을 사용해 특정 라이선스를 추가할 수 있습니다. 참고하기 . | 오픈소스 라이선스 선택에 대한 자세한 내용은 오픈소스의 법적 측면을 참고합니다. | . ",
+    "url": "/docs/contribute/open/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0",
+    
+    "relUrl": "/docs/contribute/open/#오픈소스-라이선스-선택하기"
+  },"127": {
+    "doc": "오픈소스 공개하기",
+    "title": "README 작성하기",
+    "content": "README 파일을 작성할 때 아래 사항들이 잘 설명될 수 있도록 작성합니다. | 이 프로젝트는 무슨 일을 하나요? | 이 프로젝트가 유용한 이유는 무엇인가요? | 어떻게 시작해야 하나요? | 필요하다면 어디에서 더 많은 도움을 받을 수 있을까요? | . 참고하기 . | @18F의 Making READMEs Readable | @PurpleBooth의 README template | Google Guava README.md | . ",
+    "url": "/docs/contribute/open/#readme-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0",
+    
+    "relUrl": "/docs/contribute/open/#readme-작성하기"
+  },"128": {
+    "doc": "오픈소스 공개하기",
+    "title": "기여(Contributing) 가이드라인 작성하기",
+    "content": "기여 가이드라인을 작성할 때 아래 사항들이 잘 설명될 수 있도록 작성합니다. | 기여자가 버그 보고서를 제출하는 방법(일반적으로 이슈와 PR 템플릿 사용을 추천) | 기여자가 새로운 기능을 제안하는 방법 | 기여자가 환경 설정 및 테스트 실행 방법 | 기술적 세부 사항과 함께 기대하는 기여 내용을 전달하는 방법 | 원하는 기여 유형 | 프로젝트 로드맵 또는 비전 | 기여자가 여러분과 연락하는 데 사용할(혹은 사용하지 말아야 할) 방법 | . 참고하기 . | @nayafia의 Contributing guide template | @mozilla의 “How to Build a CONTRIBUTING.md” | Spring framework CONTRIBUTING.md | . CLA(Contributor Licensing Agreement) 동의 . CLA 동의는 오픈소스 프로젝트에 기여하는 사람들로부터 해당 프로젝트에 대한 관리 권한을 위임받는 것입니다. 이는 저작권 및 지적 재산권 소송이나 라이선스 변경 등 주요한 이슈가 발생한 경우, 적절한 대응을 위해 필요한 절차입니다. CLA Assistant를 활용하여 CLA 동의를 받을 수 있습니다. CLA Assistant를 사용하는 방법은 아래와 같습니다. | GIST에 CLA를 생성합니다. | CLA Assistant에서 Configure CLA 버튼을 클릭 후, 적용할 저장소 및 CLA 선택합니다. | CLA에 서명하지 않은 PR을 보내는 사람은 PR(Pull Request)에 아래와 같이 메시지가 표시됩니다. | 컨트리뷰터(Contributor)는 Contributor License Agreement 링크를 클릭하면 서명할 실제 CLA 서명 페이지로 이동합니다. 이 과정에서 GitHub 인증 후 동의 절차를 거치게 됩니다. | . | . 참고하기 . | CLA 동의 예시에 대한 자세한 내용은 카카오 오픈소스 Khaiii CLA 동의 링크를 참고합니다. | . ",
+    "url": "/docs/contribute/open/#%EA%B8%B0%EC%97%ACcontributing-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0",
+    
+    "relUrl": "/docs/contribute/open/#기여contributing-가이드라인-작성하기"
+  },"129": {
+    "doc": "오픈소스 공개하기",
+    "title": "행동 강령(Code of conduct) 수립",
+    "content": "행동 강령을 수립할 때 아래 사항들이 잘 설명될 수 있도록 작성합니다. | 건강하고 건설적인 커뮤니티를 위한 행동강령을 수립합니다. | 참여자가 어떻게 행동하기를 기대하는지 전달하는 것 외에, 이러한 기대가 누구에게 적용되는지, 언제 적용되는지 그리고 위반할 경우 어떻게 처리되는지 등의 내용을 포함합니다. | 행동 강령 작성 시 오픈소스 가이드의 행동 강령을 참고해 작성합니다. | . 참고하기 . 필요한 경우 아래의 추가적인 행동 강령 예시들을 참고합니다. | Contributor Covenant - Kubernetes, Rails 및 Swift를 포함한 40,000개 이상의 오픈소스 프로젝트에서 사용되는 행동 강령 | Google: Code of conduct | . ",
+    "url": "/docs/contribute/open/#%ED%96%89%EB%8F%99-%EA%B0%95%EB%A0%B9code-of-conduct-%EC%88%98%EB%A6%BD",
+    
+    "relUrl": "/docs/contribute/open/#행동-강령code-of-conduct-수립"
+  },"130": {
+    "doc": "OpenSSL",
+    "title": "OpenSSL",
+    "content": " ",
+    "url": "/docs/license/revision/openSSL/",
+    
+    "relUrl": "/docs/license/revision/openSSL/"
+  },"131": {
+    "doc": "OpenSSL",
+    "title": "OpenSSL: Apache 2.0 라이선스 적용",
+    "content": "변경사항 . 라이선스 변경사항은 아래와 같습니다. OpenSSL 라이선스가 OpenSSL License and SSLeay License 듀얼 라이선스에서 Apache 2.0 라이선스로 변경되었습니다. OpenSSL 3.0.0 버전부터 Apache 2.0가 적용됩니다. OpenSSL 라이선스 . OpenSSL 라이선스의 내용을 정리하면 아래와 같습니다. | 원본 및 수정된 형태의 소스 코드 및 바이너리의 사용, 복제, 수정, 배포 허용 . | 소스 코드 형태로 재배포 시 저작권 고지, 조건 목록, 면책조항 포함 | 바이너리 형식 재배포 시 함께 제공되는 문서에 해당 내용 포함 | 어떠한 형태로던 재배포될 경우 해당 문구를 포함: This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. | . | 해당 기능이나 사용을 언급하는 모든 광고 자료에는 다음의 내용을 포함: This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. | 배포된 모든 복제본은 라이선스 사항들과 저작권 고지사항을 포함 | OpenSSL Project와 OpenSSL Toolkit 이름은 특정 제품이나 서비스의 홍보에 사용될 수 없음 | 있는 그대로 제공되며 모든 보증 부인 | OpenSSL 프로젝트나 기여자는 본 소프트웨어의 사용으로 인한 직접적, 간접적, 우발적, 특별, 징벌적 또는 결과적인 손해에 대해 책임지지 않음 | . SSLeay 라이선스 . SSLeay 라이선스의 내용을 정리하면 아래와 같습니다. | 원본 및 수정된 형태의 소스 코드 및 바이너리의 사용, 복제, 수정, 배포 허용 . | 소스 코드 재배포 시 저작권 고지, 조건 목록, 면책조항이 포함되어야 함 | 바이너리 형식 재배포 시 배포와 함께 제공되는 문서 및 기타 자료에 저작권 고지, 조건 목록, 면책조항이 포함되어야 함 | . | 배포된 모든 복제본은 라이선스 사항, 저작권 고지사항 그리고 면책 조건을 포함 | 소프트웨어를 광고하는 모든 자료는 다음의 특정 문구를 포함: This product includes cryptographic software written by Eric Young (eay@cryptsoft.com) | Windows 특정 코드나 파생된 코드를 포함할 경우 특정 문구 포함: This product includes software written by Tim Hudson (tjh@cryptsoft.com) | 있는 그대로 제공되며 모든 보증 부인 | 해당 라이선스가 적용된 프로젝트 또는 그 파생물이 다른 배포 라이선스에 따라 배포하는 것은 허용되지 않음(GPL 계열 포함) | . ",
+    "url": "/docs/license/revision/openSSL/#openssl-apache-20-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EC%A0%81%EC%9A%A9",
+    
+    "relUrl": "/docs/license/revision/openSSL/#openssl-apache-20-라이선스-적용"
+  },"132": {
+    "doc": "공개 소프트웨어",
+    "title": "공개 소프트웨어",
+    "content": "과학기술정보통신부가 주최하고 정보통신산업진흥원이 주관하는 공개SW 페스티벌에서의 카카오 발표 세션을 소개합니다. ",
+    "url": "/docs/kakao/mov/opensw/",
+    
+    "relUrl": "/docs/kakao/mov/opensw/"
+  },"133": {
+    "doc": "공개 소프트웨어",
+    "title": "2021 공개SW 페스티벌: 기조강연 3",
+    "content": "2021년 공개SW 페스티벌에서 카카오의 황은경 개발자가 오픈소스 관리 서비스와 기업의 역할라는 제목으로 기조 강연을 진행했습니다. ",
+    "url": "/docs/kakao/mov/opensw/#2021-%EA%B3%B5%EA%B0%9Csw-%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-%EA%B8%B0%EC%A1%B0%EA%B0%95%EC%97%B0-3",
+    
+    "relUrl": "/docs/kakao/mov/opensw/#2021-공개sw-페스티벌-기조강연-3"
+  },"134": {
+    "doc": "공개 소프트웨어",
+    "title": "2021 공개SW 페스티벌: 트랙 4 &gt; 세션 1",
+    "content": "2021년 공개SW 페스티벌에서 공개SW와 토크: 오픈체인 프로젝트와 한국 기업의 오픈소스 거버넌스 구축 사례를 주제로 패널 토의를 진행했습니다. ",
+    "url": "/docs/kakao/mov/opensw/#2021-%EA%B3%B5%EA%B0%9Csw-%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-%ED%8A%B8%EB%9E%99-4--%EC%84%B8%EC%85%98-1",
+    
+    "relUrl": "/docs/kakao/mov/opensw/#2021-공개sw-페스티벌-트랙-4--세션-1"
+  },"135": {
+    "doc": "공개 소프트웨어",
+    "title": "2020 공개SW 페스티벌: 트랙 1 &gt; 세션 1",
+    "content": "2020년 공개SW 페스티벌에서 카카오의 이한솔 개발자가 Flutter로 오픈소스 입문하기라는 제목으로 발표했습니다. ",
+    "url": "/docs/kakao/mov/opensw/#2020-%EA%B3%B5%EA%B0%9Csw-%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C-%ED%8A%B8%EB%9E%99-1--%EC%84%B8%EC%85%98-1",
+    
+    "relUrl": "/docs/kakao/mov/opensw/#2020-공개sw-페스티벌-트랙-1--세션-1"
+  },"136": {
+    "doc": "오픈소스 개요",
+    "title": "오픈소스 개요",
+    "content": "현재, 전 세계 연간 오픈소스 컴포넌트 다운로드 수는 약 4.5조 건(2024년 기준)이며 주요 IT 기업의 95%가 오픈소스를 적극적으로 사용하고 있습니다. 널리 사용되어 가깝게 느껴지지만 또 헷갈릴 수 있는 오픈소스에 대해, 이 가이드에서는 오픈소스가 무엇인지, 또 오픈소스 이니셔티브(Open Source Initiative, OSI)에서 정립한 오픈소스 정의 기준(Open Source Definition, OSD)은 무엇인지 알아봅니다. 오픈소스 소프트웨어 개발 환경으로 변화 . 2023년 초에 GitHub에서 총 개발자가 1억 명을 넘었으며, 개발자 수는 빠르게 증가하고 있습니다. 2024년에 전 세계 개발자는 5억 1,800만 개가 넘는 오픈 소스 프로젝트에 52억 개 이상의 기여를 했습니다. 오픈소스 이니셔티브(OSI)란? . 오픈소스 소프트웨어의 합법적인 정의와 가이드라인을 제공하는 비영리 단체입니다. ",
+    "url": "/docs/opensource/oss/",
+    
+    "relUrl": "/docs/opensource/oss/"
+  },"137": {
+    "doc": "오픈소스 개요",
+    "title": "FOSS (Free and Open Source Software)",
+    "content": "오픈소스(FOSS, Free and Open Source Software)는 저작권자가 소스 코드를 공개하여 누구나 사용, 수정, 재배포 할 수 있는 소프트웨어를 말합니다. ",
+    "url": "/docs/opensource/oss/#foss-free-and-open-source-software",
+    
+    "relUrl": "/docs/opensource/oss/#foss-free-and-open-source-software"
+  },"138": {
+    "doc": "오픈소스 개요",
+    "title": "오픈소스 정의(The Open Source Definition)",
+    "content": "오픈소스는 단순히 소스 코드 공개를 의미하지 않습니다. 오픈소스 소프트웨어의 배포 조건은 아래 기준을 준수해야 합니다. 1. 자유로운 재배포(Free Redistribution) . 오픈소스 라이선스는 어떠한 당사자도 여러 출처의 프로그램을 포함한 종합적인 소프트웨어 배포의 구성 요소로 판매하거나 무료로 배포하는 것을 제한하지 않아야 합니다. 또한, 이러한 판매에 대해 로열티나 다른 비용을 요구해서는 안 됩니다. 2. 소스 코드(Source Code) . 오픈소스 프로그램은 반드시 소스 코드를 포함해야 하며, 컴파일된 형태뿐만 아니라 소스 코드 형태로도 배포가 가능해야 합니다. 만일 오픈소스 소프트웨어 제품이 소스 코드와 함께 배포되지 않는 경우, 합리적인 재생산 비용(무료로 인터넷을 통해 다운로드 가능한 것을 권장) 이하로 소스 코드를 얻을 수 있도록, 잘 알려진 방법으로 제공되어야 합니다. 또한, 소스 코드는 프로그래머가 프로그램을 수정할 때 선호하는 형식이어야 하며, 의도적으로 난독화된 소스 코드는 허용되지 않습니다. 전처리기 또는 번역기의 출력과 같은 중간 형식도 허용되지 않습니다. 3. 파생 저작물(Derived Works) . 오픈소스 라이선스는 수정 및 파생 저작물을 허용해야 하며, 원본 소프트웨어의 라이선스와 동일한 조건으로 배포할 수 있어야 합니다. 4. 저작자의 소스 코드 원형 유지(Integrity of The Author’s Source Code) . 오픈소스 라이선스는, 빌드 시 프로그램을 수정할 목적으로 소스 코드와 함께 “패치 파일”의 배포를 허용하는 경우에만 소스 코드가 수정된 형태로 배포되는 것을 제한할 수 있습니다. 오픈소스 라이선스는 수정된 소스 코드로 구축된 소프트웨어의 배포를 명시적으로 허용해야 합니다. 또한, 오픈소스 라이선스는 원본 소프트웨어와 그 파생 저작물을 구분하기 위해, 차별화된 명칭이나 버전 번호를 수반하는 파생 작업을 파생 저작물에 대해 요구할 수 있습니다. 5. 개인 또는 집단에 대한 차별 금지(No Discrimination Against Persons or Groups) . 오픈소스의 라이선스는 특정인이나 그룹에게 차별 없이, 누구나 해당 오픈소스를 사용할 수 있도록 해야 합니다. 6. 사용 분야에 대한 차별 금지(No Discrimination Against Fields of Endeavor) . 오픈소스 라이선스는 특정 분야에서 프로그램을 사용하는 사람의 오픈소스 사용을 제한해서는 안 됩니다. 예를 들어, 프로그램이 비즈니스에서 사용되거나 유전자 연구에 사용되는 것을 제한할 수 없습니다. 7. 라이선스 배포(Distribution of License) . 프로그램에 부여된 오픈소스 라이선스가 보장하는 권리는, 프로그램을 재배포하는 모든 사람에게 그대로 적용되어야 하며, 이 과정에서 추가적인 라이선스 실행은 필요하지 않습니다. 8. 특정 제품에만 유효한 라이선스 금지(License Must Not Be Specific to a Product) . 프로그램이 어떤 권한을 갖는지는 그 프로그램이 특정한 소프트웨어 배포판의 일부라는 사실과 독립적입니다. 즉, 그 프로그램이 어떤 배포판의 일부더라도 그 프로그램 자체가 갖는 권한은 그 프로그램이 단독으로 존재하거나, 어떤 배포판의 일부로 존재하는 경우에도 동일합니다. 또한, 프로그램이 해당 배포판에서 추출되어 라이선스 조건 내에서 사용되거나 배포하는 경우, 프로그램을 재배포하는 모든 사람들은 원본 소프트웨어 배포 때 주어진 권리와 동일한 권리를 가져야 합니다. 9. 다른 소프트웨어를 제한하는 라이선스 금지(License Must Not Restrict Other Software) . 오픈소스 라이선스 조건은 해당 소프트웨어만을 대상으로 하며, 그와 함께 배포되는 다른 소프트웨어를 제한해서는 안됩니다. 예를 들어, 라이선스는 동일한 매체에 배포되는 다른 모든 프로그램이 오픈 소스 소프트웨어여야 한다고 주장해서는 안 됩니다. A 소프트웨어가 오픈소스 라이선스를 가지고 있고 이와 함께 B 소프트웨어가 동일한 매체에 배포된다면, A 소프트웨어의 라이선스는 B 소프트웨어에게는 아무런 영향을 미치지 않아야 합니다. 특히, A 소프트웨어의 오픈소스 라이선스 때문에 B 소프트웨어 또한 오픈소스가 되어야 한다는 조건을 부여하면 안 됩니다. 이는 소프트웨어 개발자가 자신의 소프트웨어를 자유롭게 선택하고 라이선스를 적용하도록 보장하기 위한 것입니다. 각 소프트웨어는 개별적으로 그에 적합한 맞춤형 라이선스를 가질 수 있어야 합니다. 10. 기술 중립적인 라이선스 사용(License Must Be Technology-Neutral) . 오픈소스 라이선스의 조항은 개별 기술이나 인터페이스 스타일에 근거할 수 없습니다. ",
+    "url": "/docs/opensource/oss/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%A0%95%EC%9D%98the-open-source-definition",
+    
+    "relUrl": "/docs/opensource/oss/#오픈소스-정의the-open-source-definition"
+  },"139": {
+    "doc": "오픈소스 개요",
+    "title": "참고",
+    "content": "오픈소스 소프트웨어는 무료인가요? . 오픈소스 소프트웨어가 반드시 무료로 제공되는 실행 가능한 소프트웨어라는 의미는 아닙니다. 그러나 그 소스 코드는 무료로 제공되어야 합니다. 예를 들어, Red Hat® Enterprise Linux®의 소스 코드는 무료로 제공되지만, 이러한 소스 코드를 실행 가능한 코드로 변환하는 데는 전문 지식과 시간 및 서버가 필요합니다. 소스 코드를 재구성하지 않고도 바로 사용할 수 있는 Red Hat Enterpirse Linux의 프로덕션 레디(Production-ready) 코드를 원한다면, 비용을 지불하여 서브스크립션을 구매해야 합니다. ",
+    "url": "/docs/opensource/oss/#%EC%B0%B8%EA%B3%A0",
+    
+    "relUrl": "/docs/opensource/oss/#참고"
+  },"140": {
+    "doc": "오픈소스 뉴스",
+    "title": "오픈소스 뉴스",
+    "content": "이 가이드에서는 오픈소스의 최신 동향을 알아봅니다. • 리눅스 재단의 오픈소스 AI 모델의 가능성 • 깃허브 코파일럿 소송, 미국 법원에서 기각 • 오픈소스 인공지능 인프라 Ollama에서 확인된 취약점: Probllama • 국내외 오픈소스 소송 동향 분석 • 정부, 소프트웨어 공급망 보안 지침(가이드라인) 1.0 발표 (2024.05.12) • XZ Open Source Attack : 오픈소스 커뮤니티의 신뢰를 이용한 최초의 공급망 공격 사례 • 2023년 오픈소스 동향 그리고, 2024년 . ",
+    "url": "/docs/trend/ossnews/",
+    
+    "relUrl": "/docs/trend/ossnews/"
+  },"141": {
+    "doc": "오픈소스 뉴스",
+    "title": "리눅스 재단의 오픈소스 AI 모델의 가능성",
+    "content": "오픈소스 AI 업계 판도 바꿀까?··· 애널리스트가 본 리눅스재단 AI 모델의 가능성 . 요약 . 기존 AI 모델은 소스 코드를 공개하거나 비공개하는 과정에서 대부분의 경우 AI 모델의 사용 정책에 제한을 두고 있습니다. 리눅스 재단이 계획 중인 OMI(Open Model Initiative)는 이러한 제한 없이 자유롭게 사용할 수 있는 AI 모델을 만드는 것을 목표로 하고 있습니다. OMI는 기존 빅테크 모델보다 경쟁력이 낮을 수 있지만, SLM(Small Language Model) 분야에서 활용 가능성이 높을 것으로 예상됩니다. 내용 . 지난 12일, 리눅스 재단이 OMI 지원 계획을 발표한 이후, 이 프로젝트가 윤리적인 LLM 개발을 주도할 것이라는 분석이 제기되고 있습니다. OMI는 기존 상용 모델과 동등하거나 더 나은 품질을 제공하면서도 사용 제한이 없는 커뮤니티 기반 LLM을 만드는 것을 목표로 합니다. OMI(Open Model Initiative)란? . OMI는 인보크(Invoke), 시비타이(Civitai) 및 컴피 오르그(Comfy Org)라는 세 개의 스타트업이 6월에 시작한 프로젝트로, 개발자, 연구자와 기업이 함께 개방적이고 허용적인 라이선스를 가진 AI 모델 기술을 만들기 위해 협력하고 있습니다. 리눅스 재단에 따르면, 허용적인 라이선스는 커뮤니티 구성원이 부담 없이 기여할 수 있는 환경을 조성하여, 더 많은 기업과 사람들의 참여를 유도할 수 있습니다. 이러한 접근 방식은 오픈소스를 기반으로 하는 상용 소프트웨어 개발에도 매우 유용합니다. OMI 프로젝트에 대한 보다 자세한 내용은 OMI Github Project를 참고합니다. ",
+    "url": "/docs/trend/ossnews/#%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%9E%AC%EB%8B%A8%EC%9D%98-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-ai-%EB%AA%A8%EB%8D%B8%EC%9D%98-%EA%B0%80%EB%8A%A5%EC%84%B1",
+    
+    "relUrl": "/docs/trend/ossnews/#리눅스-재단의-오픈소스-ai-모델의-가능성"
+  },"142": {
+    "doc": "오픈소스 뉴스",
+    "title": "깃허브 코파일럿 소송, 미국 법원에서 기각",
+    "content": "깃허브 코파일럿 vs. 오픈소스 개발자 집단 소송, 개발자 측 패소 . 요약 . 2022년 11월 제기된 GitHub 코파일럿 관련 소송이 샌프란시스코 지방법원에 의해 대부분 기각되었습니다. 따라서, 향후 오픈소스 개발자들이 어떤 대응을 할지 지켜볼 필요가 있습니다. 내용 . 6월 24일에 처음 발표되었지만, 7월 5일에야 일반 공개된 판결문에서 캘리포니아 북부 지방법원 판사 존 타이가는 “원고의 주장은 구제책을 뒷받침하지 못했으며, 부당이득 배상에 대한 법적 근거를 입증하지 못했다”라고 판결했습니다. 타이가는 이어 “법원은 원고의 1202(b) 조항 청구를 재소 불가 조건으로 기각하며, 모든 피고를 대상으로 한 오픈소스 라이선스 위반 청구도 기각한다. 또한, 부당이득금 및 징벌적 손해배상 요청도 모두 기각한다”라고 덧붙였습니다. 참고하기 : 집단 소송 관련 뉴스 . 추가적인 집단 소송 관련 뉴스 및 동향은 아래를 참고합니다. | “오픈소스로 AI 학습시키지 마” 깃허브 코파일럿, 美서 집단소송 직면 | 한국저작권위원회의 저작권동향: 마이크로소프트 사의 GitHub Copilot, 오픈소스 관련 첫 번째 저작권 분쟁 시작 | . ",
+    "url": "/docs/trend/ossnews/#%EA%B9%83%ED%97%88%EB%B8%8C-%EC%BD%94%ED%8C%8C%EC%9D%BC%EB%9F%BF-%EC%86%8C%EC%86%A1-%EB%AF%B8%EA%B5%AD-%EB%B2%95%EC%9B%90%EC%97%90%EC%84%9C-%EA%B8%B0%EA%B0%81",
+    
+    "relUrl": "/docs/trend/ossnews/#깃허브-코파일럿-소송-미국-법원에서-기각"
+  },"143": {
+    "doc": "오픈소스 뉴스",
+    "title": "오픈소스 인공지능 인프라 Ollama에서 확인된 취약점: Probllama",
+    "content": ". | Ollama의 CVE-2024-37032 RCE 취약점과 관련된 리소스 및 변경 사항 | Ollama의 다이제스트 검증 취약점(CVE-2024-37032) GitHub | . 요약 . 지난 6월, Ollama에서 CVE-2024-37032 취약점이 발견되었습니다. 보안 업체 위즈(Wiz)가 이 취약점을 발견하고 Probllama로 명명해 추적 중입니다. 이 취약점은 모델 경로를 가져올 때 sha256 다이제스트 형식의 유효성 검사를 하지 않아 발생하며, 0.1.34 이후 버전에서는 해당 문제가 해결되었습니다. Ollama 원격 코드 실행 취약점 해결 . 위즈(Wiz)에서 작성한 Probllama: Ollama 원격 코드 실행 취약점(CVE-2024-37032) 개요 및 해결책 블로그 포스팅에 이번 취약점에 대한 상세 설명과 타임라인에 대한 내용이 포함되어 있습니다. 원문 . Ollama before 0.1.34 does not validate the format of the digest (sha256 with 64 hex digits) when getting the model path, and thus mishandles the TestGetBlobsPath test cases such as fewer than 64 hex digits, more than 64 hex digits, or an initial ../ substring. 참고하기 . 추가적인 취약점 관련 정보는 아래를 확인합니다. | 오픈소스 인공지능 플랫폼 올라마에서 초고위험도 취약점 발견돼 | Ollama RCE 취약성(CVE-2024-37032) 심층 분석 | . ",
+    "url": "/docs/trend/ossnews/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EC%9D%B8%ED%94%84%EB%9D%BC-ollama%EC%97%90%EC%84%9C-%ED%99%95%EC%9D%B8%EB%90%9C-%EC%B7%A8%EC%95%BD%EC%A0%90-probllama",
+    
+    "relUrl": "/docs/trend/ossnews/#오픈소스-인공지능-인프라-ollama에서-확인된-취약점-probllama"
+  },"144": {
+    "doc": "오픈소스 뉴스",
+    "title": "국내외 오픈소스 소송 동향 분석",
+    "content": "정보통신기획평가원 원문 . 요약 . 2000년대 이후 오픈소스 사용과 관련된 소송이 지속적으로 발생했습니다. 내용을 연도로 정리하면 아래와 같습니다. | 2000년대 초기: FSF 및 Gpl-violations.org와 같은 비영리 기관들이 상업적 이용에서 오픈소스 라이선스를 준수하지 않은 사례들에 대한 소송을 제기 | 2010년대: 오픈소스가 확산됨에 따라 소송 건수가 증가하고, 위반된 라이선스 종류도 다양화됨 | 2020년대: AI 기술과 오픈소스가 결합되면서 AI 모델 관련 분쟁 발생, 오픈소스의 특성상 제삼자에 의한 저작권 침해 소송도 증가 | . 내용 . 2000년대 이후 발생한 주요 오픈소스 관련한 국내 사례는 아래와 같습니다. | 엘림넷 vs 하이온넷: 라이선스 위반이 아닌 영업비밀 보호 위반으로 결론 | 삼성 vs BusyBox: 삼성이 패소하였고 손해배상을 지불 | 한글과컴퓨터 vs Artifex: 당사자 간 합의로 종결, 한글과컴퓨터는 GS 사용을 중지했으며 약 23억 원을 손해배상함 | . ",
+    "url": "/docs/trend/ossnews/#%EA%B5%AD%EB%82%B4%EC%99%B8-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%86%8C%EC%86%A1-%EB%8F%99%ED%96%A5-%EB%B6%84%EC%84%9D",
+    
+    "relUrl": "/docs/trend/ossnews/#국내외-오픈소스-소송-동향-분석"
+  },"145": {
+    "doc": "오픈소스 뉴스",
+    "title": "정부, 소프트웨어 공급망 보안 지침(가이드라인) 1.0 발표 (2024.05.12)",
+    "content": "부제 : 소프트웨어 공급망 보안 국제동향 및 소프트웨어 구성명세서(SBOM) 활용사례 . 요약 . 정부는 증가하는 소프트웨어(SW) 공급망 위협에 대응하기 위해 SBOM(SW Bill of Materials)을 활용한 보안 관리 체계를 구축하고, 기업 지원을 확대하고 있습니다. 이를 통해 SW 구성요소, 라이선스, 보안 취약점을 안전하게 관리하며, 주요국 제도화 동향에 맞춰 점진적으로 제도화를 추진할 계획입니다. 또한, 올해 하반기에는 범정부 합동 TF를 구성하여 SW 공급망 보안 로드맵을 마련할 예정입니다. 내용 . 추진배경 . 정부 차원에서 소프트웨어 공급망 보안 가이드라인을 제작 및 발표한 배경은 아래와 같습니다. | 공개 소프트웨어(SW)에 대한 사이버 위협 증가(특히 악성코드 및 보안 취약점 전파가 용이) . | Log4j 2 보안 취약점 사태 (Log4Shell) | 2024 XZ 오픈소스 공격 | . | 공급망에 대한 공격은 피해가 광범위하고 장기적인 특성을 가져 정부 차원에서 대응 필요 | 미국, 유럽 등은 SW 구성요소 명세서(SBOM, SW Bill of Materials) 도입을 제도화 중 | . SW 공급망 위 험관리 방안 . SW 개발, 공급(유통) 및 운영 등 각 단계에서 SBOM을 활용하여 SW 구성요소를 안전하게 관리할 수 있으며, 이를 통해 SW 자산 관리, 공개 SW 라이선스 및 보안 취약점 관리가 가능합니다. SBOM 기반 SW 공급망 보안 실증 사례 . SBOM의 유효성 검증, SW 구성요소 관리 방법, 그리고 SBOM을 활용한 SW 공급망 보안 관리 방안을 상세히 수록했습니다. SBOM 기반 SW 공급망 보안 활성화 지원 . 정부는 기업들의 어려움을 해결하기 위해 SBOM 기반 SW 공급망 보안 관리 체계를 구축하고 다양한 기업 지원 서비스를 제공하고 있습니다. | 기업지원허브, 판교: 사이버보안 위협 시연 및 보안 취약점 점검 지원 | 디지털헬스케어 보안 리빙랩, 원주: 사이버보안 위협 시연, 보안 취약점 점검 지원 및 의료기기 인허가 지원 | 국가사이버안보협력센터 기술공유실, 판교: 공급망 보안 테스트베드 시범 운영 | . 향후 계획 . 정부는 기업들에 SBOM 적용을 지원하며 SW 공급망 보안을 강화하고, 주요국 제도화 동향 및 국내 산업 성숙도를 고려하여 점진적으로 제도화를 추진할 예정입니다. 2024년 하반기에는 산·학·연 전문가들이 참여하는 범정부 합동 TF를 구성해, 세부적인 정부 지원 방안 및 제도화 방향에 대한 논의를 진행하고 SW 공급망 보안 로드맵을 마련할 계획입니다. ",
+    "url": "/docs/trend/ossnews/#%EC%A0%95%EB%B6%80-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EB%B3%B4%EC%95%88-%EC%A7%80%EC%B9%A8%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-10-%EB%B0%9C%ED%91%9C-20240512",
+    
+    "relUrl": "/docs/trend/ossnews/#정부-소프트웨어-공급망-보안-지침가이드라인-10-발표-20240512"
+  },"146": {
+    "doc": "오픈소스 뉴스",
+    "title": "XZ 오픈소스 공격: 최초의 공급망 공격 사례",
+    "content": "XZ Utils 백도어 악성코드, 2021년부터 공들여 준비해 온 공급망 공격이었다 . 요약 . CVE-2024-3094는 XZ 오픈소스 프로젝트에 오랜 기간 기여한 공격자가 관리자 권한을 이용해 백도어를 설치한 사건입니다. 이 공격은 Debian, Ubuntu 및 Fedora 등의 systemd 기반 Linux 시스템에서 발견되었습니다. 이 사건을 통해, 오픈소스 프로젝트의 관리 및 보안 감사의 중요성이 다시금 강조되었다고 할 수 있겠습니다. 내용 . 2024년 3월 28일, NVD에서 공개된 CVE-2024-3094 취약점에 따르면, Jia Tan이라는 공격자가 2년 넘게 XZ 오픈소스 프로젝트에 성실하게 기여하여 커밋 및 관리자 권한을 부여받았습니다. 이후 공격자는 이 권한을 이용해 Debian, Ubuntu 및 Fedora 등 systemd 기반 Linux 시스템에서 OpenSSH sshd의 종속성인 XZ의 일부인 liblzma에 백도어를 설치했습니다. 이 백도어는 XZ Utils 5.6.0 및 5.6.1 버전에서 발견되었습니다. 공격 타임라인 . 공격자의 공격 타임라인이 정리된 문서는 아래를 참고합니다. | 원문: Timeline of the xz open source attack | 국문: XZ 오픈소스 공격 전체 타임라인 정리 | . 시사점 . XZ 오픈소스 공격이 오픈소스 보안에 주는 교훈은 아래와 같습니다. | 오픈소스 프로젝트 거버넌스 및 관리 방식의 재고하여 악의적인 기여를 방지하는 방법 구축 | 보안 감사 및 코드 리뷰의 중요성 강조 | . ",
+    "url": "/docs/trend/ossnews/#xz-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B3%B5%EA%B2%A9-%EC%B5%9C%EC%B4%88%EC%9D%98-%EA%B3%B5%EA%B8%89%EB%A7%9D-%EA%B3%B5%EA%B2%A9-%EC%82%AC%EB%A1%80",
+    
+    "relUrl": "/docs/trend/ossnews/#xz-오픈소스-공격-최초의-공급망-공격-사례"
+  },"147": {
+    "doc": "오픈소스 뉴스",
+    "title": "2023년 오픈소스 동향 그리고, 2024년",
+    "content": "요약 . 2023년 오픈소스는 GitHub에 등록한 개발자가 1억 명, 기여 건수가 3억 건을 돌파하며 지속적인 성장을 보여주었습니다. 2023년, 오픈소스의 주요 이슈로는 생성형 AI의 폭발적 성장과 기업들의 오픈소스 라이선스 정책 변화를 꼽을 수 있겠습니다. 내용 . 생성형 AI의 폭발적인 성장 . ChatGPT(OpenAI)를 시작으로 LLaMa(Meta), Bard(Google) 및 Ferret(Apple) 등의 생성형 AI 모델이 출시되며 오픈소스 프로젝트가 빠르게 발전하고 있습니다. 이에 따라, 생성 AI 글로벌 시장은 5년 안에 77조 원 규모로 성장할 것으로 전망됩니다. Octoverse: The state of open source and rise of AI in 2023 . | 오픈소스 생성형 AI 프로젝트는 2023년 기여자 수 기준으로 상위 10위 안에 들며 가장 인기 있는 프로젝트로 부상하였습니다. | 개발자의 92%가 생성형 AI를 사용하거나 실험 중이며, AI 코딩 도구 영역에서 GitHub이 차세대 AI 혁신을 주도할 것으로 기대되고 있습니다. | . The best open source software of 2023 . | 프로그래밍 언어, 런타임, 앱 프레임워크, 데이터베이스, 분석 엔진, 기계 학습 라이브러리, LLM(대형 언어 모델) 및 LLM 배포 도구 등이 2023년 최고의 오픈소스에 포함되었습니다. | . EU, ‘AI 법’ 잠정 합의: 오픈소스 예외 인정(23년 12월) . | EU ‘AI 법’ 합의 돌파구는 오픈소스 모델 규제 면제, 2023년 12월 8일 유럽연합(EU)은 세계 최초의 인공지능(AI) 규제 프레임워크인 AI 법에 대해 잠정 합의에 도달하였으며, 오픈소스 인공지능(AI) 모델에 대해서는 규제를 면제하기로 결정했습니다. ChatGPT나 Bard와 같은 GPAI는 강력하게 규제하지만, 오픈소스 모델은 규제 대상에서 제외됩니다. 해당 법은 내년 초 발효될 예정이며, 실제 적용에는 약 2년 정도가 소요될 것으로 예상됩니다. 이 법이 최종 합의될 경우, 글로벌 AI 규제의 기준이 될 가능성이 높다는 분석이 나오고 있습니다. | 관련 기사 . | EU, ‘AI 법’ 잠정 합의…오픈소스 이어 생체 인식도 예외 인정 | EU AI 법, 美빅테크 겨냥… AI 생태계 놓고 ‘글로벌 대전’ | . | . 기업의 오픈소스 라이선스 정책 변화 . 클라우드와 AI 시장의 급격한 변화로 인해 Red Hat, HashiCorp 및 Meta 등은 오픈소스 라이선스 정책을 변경하여 방어 가능한 경제 모델과 지속 가능한 성장을 추구하고 있습니다. 참고하기 . 유명 기업들이 오픈소스 라이선스 정책을 변경하는 이유에 대한 자세한 분석은 기업은 왜 오픈소스 라이선스 정책을 변경하는가?: OpenUp을 참고합니다. Furthering the evolution of CentOS Stream, 2023년 6월 21일 . Red Hat Enterprise Linux(RHEL) 관련 코드는 CentOS Stream 저장소에서만 공유되며, 오라클, 수세, CIQ는 반(反) Red Hat 연합을 결성하였습니다. “가치를 추가하거나 어떤 식으로든 변경하지 않고 단순히 코드를 다시 빌드하는 것은 모든 오픈소스 회사에 실질적인 위협이 됩니다.” - 마이크 맥그라스 부사장 . HashiCorp adopts Business Source License, 2023년 8월 10일 . HashiCorp의 Terraform과 Vault는 MPL-2.0에서 BUSL-1.1 라이선스로 변경되었습니다. “HashiCorp의 기술을 상업적 목적으로 활용하면서 실질적인 기여를 제공하지 않는 다른 공급업체 때문에 라이선스를 변경하게 되었습니다.” - 아르몬 다드가 CTO(하시코프 공동설립자) . OSI blog: Meta’s LLaMa 2 license is not Open Source . Meta는 AI 언어모델인 LLaMa를 공개하면서 이를 오픈소스라고 주장했지만, LLaMa 2 라이선스에는 다른 언어모델을 개선하는 데 사용할 수 없고, 액티브 사용자가 7억 명 이상일 경우 Meta로부터 라이선스를 획득해야 하는 등의 제한 조건이 있어 오픈소스로 인정되지 않았습니다. 참고하기 . | [기술블로그] 오픈소스 라이선스 변화의 흐름: Free Software → Open Source Software → Shared Source Software | 오픈소스, 라이선스, 분쟁… 그리고 포크 파티(?) | . 2024년 AI와 오픈소스 전망 . 2024년에는 여러 프론티어급 LLM이 출시될 예정이며, 오픈소스 모델은 상용 AI와의 성능 격차를 빠르게 좁혀가며 성장이 기대되고 있습니다. 올해 출시될 프론티어급 LLM 10여개…“라마 3, GPT-4 능가할 수도” . 구글 제미나이는 헌법적 AI로 주목받을 것으로 예상됩니다. 구글의 제미나이 Meta의 LLaMa 3 등이 GPT-4와 경쟁할 것으로 전망되고 있습니다. 엔비디아, 2024년 AI 산업 전망 발표…“모든 것의 중심에는 LLM이 있다” . 엔비디아 엔터프라이즈 컴퓨팅 부문 부사장 마누비르 다스는 2024년 AI 산업 전망에서 아래 내용들을 강조했습니다. | 맞춤형 솔루션의 필요성 . | 오픈소스 소프트웨어의 주도 | 상용 AI와 마이크로서비스 | . | . 2023년 AI시장 달군 ‘LLM’…2024년은 ‘활용’이 핵심 . 대화형 AI 기술 기업 스켈터랩스는 “2024년은 ‘AI 실용주의’가 더욱 강조되는 해가 될 것”이라며, “2020년 GPT를 비롯한 LLM 개발의 시작을 알렸다면, 지난해는 LLM의 다양화 및 고도화, 생성형 AI 출시와 서비스 도입이 활발했던 해”라고 밝혔습니다. 또한, “올해는 생성형 AI 서비스가 산업 전반은 물론 일상생활에서 본격적으로 널리 활용되는 시대가 될 것”이라고 전망했습니다. 오픈 소스, 반년 새 폐쇄형 LLM 턱밑까지 성능 추격 . 오픈소스 모델의 정확도는 여전히 프라이빗 모델에 미치지 못하지만, 정확도 증가 속도는 프라이빗 모델보다 훨씬 빠릅니다. Meta는 지난 3월 LLaMa 65B의 정확도를 63.4%에서 4개월 만에 5.5%나 끌어올렸으며, 아랍에미리트(UAE)의 LLM 팰컨 180B는 70.4%의 정확도로 LLaMa 2를 능가하는 등 다양한 개발자들의 기여로 성장을 이루었습니다 . ",
+    "url": "/docs/trend/ossnews/#2023%EB%85%84-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%8F%99%ED%96%A5-%EA%B7%B8%EB%A6%AC%EA%B3%A0-2024%EB%85%84",
+    
+    "relUrl": "/docs/trend/ossnews/#2023년-오픈소스-동향-그리고-2024년"
+  },"148": {
+    "doc": "기타 영상",
+    "title": "기타 영상",
+    "content": "SOSCON 2020 등의 컨퍼런스에서의 카카오 발표 세션을 소개합니다. ",
+    "url": "/docs/kakao/mov/others/",
+    
+    "relUrl": "/docs/kakao/mov/others/"
+  },"149": {
+    "doc": "기타 영상",
+    "title": "2023년",
+    "content": "SDC23 Korea 컨퍼런스에서 ‘오픈소스 아는 만큼 보인다! 오소리!? : 오소리는 어떻게 만들어졌는가?’ 라는 제목으로 카카오의 김영환 님과 LG전자의 김소임 님이 오소리 프로젝트를 통해 어떤 정보를 확인할 수 있는지, 어떻게 활용할지 소개합니다. OSBC 오픈소스 컨퍼런스에서 카카오의 이기문 개발자가 카카오 오픈소스 관리체계 및 OLIVE Platform을 소개합니다. ",
+    "url": "/docs/kakao/mov/others/#2023%EB%85%84",
+    
+    "relUrl": "/docs/kakao/mov/others/#2023년"
+  },"150": {
+    "doc": "기타 영상",
+    "title": "2022년",
+    "content": "카카오엔터프라이즈의 유태희 개발자가 리눅스 커널 오픈소스 프로젝트, 메인테이너로 성장하기라는 제목으로 국내 2호 리눅스 커널 네트워킹 스택 메인테이너로 선정되기까지의 여정과 메인테이너 오너십을 갖게 된 AMT(Automatic Multicast Tunneling, RFC 7450)에 대해 소개합니다. ",
+    "url": "/docs/kakao/mov/others/#2022%EB%85%84",
+    
+    "relUrl": "/docs/kakao/mov/others/#2022년"
+  },"151": {
+    "doc": "기타 영상",
+    "title": "2021년",
+    "content": "2021 공유저작물 및 오픈소스 SW 라이선스 콘퍼런스의 오픈소스 SW 라이선스 세션에서 카카오의 황은경 개발자(파트장)가 플랫폼 기업(카카오)의 오픈소스 SW 라이선스 관리 방법에 대해 소개합니다. ",
+    "url": "/docs/kakao/mov/others/#2021%EB%85%84",
+    
+    "relUrl": "/docs/kakao/mov/others/#2021년"
+  },"152": {
+    "doc": "기타 영상",
+    "title": "2020년",
+    "content": "SOSCON 2020에서 카카오의 황민호 개발자가 오픈소스 컴플라이언스 in Business And Kakao라는 제목으로 오픈소스 관리 방법과 카카오의 오픈소스 관리 서비스인 OLIVE Platform 개발 로드맵을 소개합니다. ",
+    "url": "/docs/kakao/mov/others/#2020%EB%85%84",
+    
+    "relUrl": "/docs/kakao/mov/others/#2020년"
+  },"153": {
+    "doc": "라이선스 개요",
+    "title": "라이선스 개요",
+    "content": "소프트웨어는 지적재산권에 의해 보호받으며, 원칙적으로 저작권자만이 해당 소프트웨어에 대한 독점 사용 권리를 가집니다. 오픈소스 라이선스(License)는 이러한 저작권자의 독점 사용 권리에 대해 이용 방법 및 조건의 범위를 명시해, 사용자에게 대여 규칙을 정의해 놓은 사용 허가권입니다. 오픈소스 소프트웨어를 이용하기 위해, 사용자는 저작권자가 정한 라이선스에 대한 의무사항을 준수해야 하며, 이를 위반할 경우 라이선스 위반 및 저작권 침해가 발생하고 법적 책임도 따르게 됩니다. ",
+    "url": "/docs/license/overview/",
+    
+    "relUrl": "/docs/license/overview/"
+  },"154": {
+    "doc": "라이선스 개요",
+    "title": "오픈소스 라이선스의 주요 요구사항",
+    "content": "일반적으로 오픈소스 라이선스가 사용자에게 요구하는 대여 규칙은 아래와 같습니다. | 저작권 정보 표시 | 라이선스 정보의 제공(사본 첨부 필요) | 코드를 수정한 경우 수정한 정보 표시 | 재배포 시 동일한 라이선스로 배포 | 카피레프트(Copyleft) 조항을 포함하는 라이선스의 경우, 소스 코드까지 함께 배포 | . ",
+    "url": "/docs/license/overview/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4%EC%9D%98-%EC%A3%BC%EC%9A%94-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD",
+    
+    "relUrl": "/docs/license/overview/#오픈소스-라이선스의-주요-요구사항"
+  },"155": {
+    "doc": "라이선스 개요",
+    "title": "오픈소스 라이선스 구분",
+    "content": "아래 이미지는 퍼미시브(Permissive) 및 카피레프트(Copyleft) 라이선스 계열의 오픈소스 라이선스 종류와 그 관계를 설명하고 있습니다. 참고하기 . 퍼미시브(Permissive) 라이선스와 카피레프트(Copyleft) 라이선스에 관련한 보다 자세한 내용은 오픈소스 라이선스의 분류를 참고합니다. ",
+    "url": "/docs/license/overview/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EA%B5%AC%EB%B6%84",
+    
+    "relUrl": "/docs/license/overview/#오픈소스-라이선스-구분"
+  },"156": {
+    "doc": "라이선스 개요",
+    "title": "주요 라이선스의 의무사항 비교",
+    "content": "주요 라이선스의 의무사항을 비교한 표는 아래와 같습니다. | 라이선스 | MIT | BSD2BSD3 | Apache | GPLv2GPLv3 | LGPLv2LGPLv3 | MPL | . | 무료 이용가능 | O | O | O | O | O | O | . | 배포 허용가능 | O | O | O | O | O | O | . | 소스 코드 취득가능 | O | O | O | O | O | O | . | 소스 코드 수정가능 | O | O | O | O | O | O | . | 2차적 저작물 재공개 의무 | X | X | X | O | O | O | . | 독점 SW와 결합 가능 | O | O | O | X | O | O | . 참고하기 . 다양한 라이선스에 대한 보다 자세한 내용은 오픈소스 SW 라이선스 종합정보 시스템(OLIS)의 라이선스 비교표를 참고합니다. ",
+    "url": "/docs/license/overview/#%EC%A3%BC%EC%9A%94-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4%EC%9D%98-%EC%9D%98%EB%AC%B4%EC%82%AC%ED%95%AD-%EB%B9%84%EA%B5%90",
+    
+    "relUrl": "/docs/license/overview/#주요-라이선스의-의무사항-비교"
+  },"157": {
+    "doc": "라이선스 개요",
+    "title": "일반적으로 사용되는 라이선스",
+    "content": "오픈소스 라이선스 중에 일반적으로 사용되는 라이선스는 아래와 같습니다. | 라이선스 | 내용 | . | Apache | • 아파치 웹서버를 포함한 아파치 재단의 모든 소프트웨어(Software)에 적용되는 라이선스입니다. • 특허권에 관한 내용과 특허에 대한 조항이 있어, GPL 2.0으로 배포되는 코드와는 결합할 수 없습니다. • 라이선스 및 저작권 표시의 의무, 라이선스 파일을 포함해야 하는 의무가 있습니다. • 적용 사례: 안드로이드(v2.0), 하둡(v2.0) | . | BSD | • 버클리의 캘리포니아대학에서 배포하는 공개 소프트웨어(Software) 라이선스입니다. • 라이선스 및 저작권 표시의 의무가 있습니다. • 적용 사례: Nginx(The BSD 2-Clause License) | . | MIT | • MIT에서 해당 대학의 소프트웨어 공학도들을 돕기 위해 개발한 라이선스입니다. • 라이선스 및 저작권 표시의 의무가 있습니다. • 적용 사례: Bootstrap, Angular.js, Backbone.js, jQuery | . ",
+    "url": "/docs/license/overview/#%EC%9D%BC%EB%B0%98%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%EB%90%98%EB%8A%94-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4",
+    
+    "relUrl": "/docs/license/overview/#일반적으로-사용되는-라이선스"
+  },"158": {
+    "doc": "라이선스 개요",
+    "title": "주의해야 할 라이선스",
+    "content": "오픈소스 라이선스 중에 주의하여 사용해야 하는 라이선스는 아래와 같습니다. | 라이선스 | 내용 | . | AGPL | • 수정한 소스 코드를 포함하여 AGPL 소스 코드를 활용한 소프트웨어 모두 AGPL로 공개(수정하지 않고 사용만 해도 전체 공개) • 웹에서 사용한 코드도 공개 • 라이선스 및 저작권 명시 • 적용 사례: 몽고 DB(v3.0) | . | GPL | • 수정한 소스 코드와 GPL 소스 코드를 활용한 소프트웨어 모두 GPL로 공개(수정하지 않고 사용만 해도 전체 공개) 해야 합니다. • 라이선스 및 저작권 표시의 의무가 있습니다. • 적용 사례: 리눅스 커널(v2.0) | . | LGPL | • 수정한 소스 코드와 해당 라이브러리가 포함된 코드 전체를 LGPL로 공개 해야 합니다. • 단, 소스 코드를 수정하지 않고 동적 링크(Dynamic Linking) 방식으로 단순 활용한 경우, 공개 의무가 없습니다. • 정적 링크(Static Linking) 방식의 경우, 전체 코드 공개 의무가 있습니다. • 라이선스 및 저작권 표시의 의무가 있습니다. • 적용 사례: 모질라 파이어폭스(v2.1) | . ",
+    "url": "/docs/license/overview/#%EC%A3%BC%EC%9D%98%ED%95%B4%EC%95%BC-%ED%95%A0-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4",
+    
+    "relUrl": "/docs/license/overview/#주의해야-할-라이선스"
+  },"159": {
+    "doc": "오픈소스 참여하기",
+    "title": "오픈소스 참여하기",
+    "content": "이 가이드에서는 개발자들이 오픈소스에 기여하는 이유를 알아보고, 오픈소스 참여를 위한 다양한 방법을 소개합니다. 또한, 주요 기업들의 오픈소스 프로젝트와 인기 있는 오픈소스들도 소개합니다. ",
+    "url": "/docs/contribute/participate/",
+    
+    "relUrl": "/docs/contribute/participate/"
+  },"160": {
+    "doc": "오픈소스 참여하기",
+    "title": "오픈소스에 기여하는 이유",
+    "content": "왜 오픈소스에 기여할까요? . | 자신의 기술을 향상할 수 있습니다. | 비슷한 것에 관심 있는 사람들을 만나 자신의 기술이나 프로젝트를 더 확장할 수 있습니다. | 멘토를 찾고 사람들과 함께 학습할 수 있습니다. | 사람을 대하는 기술을 습득할 수 있습니다. | 경력을 쌓는 데 도움이 됩니다. | . 오픈소스에 참여하여 오픈소스 생태계에 기여하고자 한다면 그 방법에는 여러 가지가 있습니다. | 자신이 가진 기술을 향상해 오픈소스 프로젝트에 참여할 수 있습니다. | 커뮤니티가 있는 오픈소스 프로젝트에 참여하여 같이 배우고 또한 다른 이에게 기술을 알려줄 수 있습니다. | 자신이 만든 프로젝트를 오픈소스로 공개합니다. | . ",
+    "url": "/docs/contribute/participate/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0",
+    
+    "relUrl": "/docs/contribute/participate/#오픈소스에-기여하는-이유"
+  },"161": {
+    "doc": "오픈소스 참여하기",
+    "title": "오픈소스에 참여하기",
+    "content": "오픈소스 프로젝트에 참여하는 방법은 다양합니다. 코딩 기술이 없어도 충분히 기여할 수 있는 방법이 존재합니다. 사용 중인 오픈소스에서 버그를 발견했거나, 새로운 기능을 추가하거나 개선사항을 반영하고 싶다면, 적극적으로 오픈소스 프로젝트에 참여하는 것을 권장합니다. 버그바운티(Bug Bounty)나 기능 개선이 어렵다면, 오타 발견이나 문서 번역같이 작은 단위부터 참여를 시작할 수 있습니다. 아래와 같이 오픈소스 프로젝트에 참여할 수 있는 다양한 방법들이 있습니다. | 모임 조직하기 . | 행사 진행을 위한 워크샵 및 미팅 조직하기: NodeScool @fzamperin | 프로젝트 컨퍼런스 구성하기 | . | 디자인 작업하기 . | UX 등의 사용자 화면 구성하기 | 프로젝트에서 사용하는 이미지 등 만들기 | 사용자 조사를 통해 프로젝트 메뉴 재구성 및 개선하기: Drupal | . | 문서 작성하기 . | 프로젝트 문서 작성 및 개선하기 | 프로젝트의 뉴스레터 발행을 시작하거나 메일링 리스트의 하이라이트를 관리하기 | 프로젝트 튜토리얼 작성하기: PyPA | 프로젝트 문서 번역 작성하기 | . | 이슈 관리하기 . | 중복된 이슈에 대한 링크 및 새로운 이슈 라벨 제안, 정리된 상태 유지하기 | 열려있는 이슈를 검토하고 오래된 이슈를 닫을 것을 제안하기: ESLint @nzakas | . | 코드 작성하기 . | 해결할 문제 찾기: Leaflet의 @dianjin | 툴링(Tooling) 및 테스트 개선하기 | . | 질문 답변하기 . | 스택 오버플로우(Stack Overflow) 혹은 레딧(Reddit)에서 프로젝트에 관련된 질문에 답변하기: Postgres 예시 | 열린 이슈에서 사람들의 질문에 답변하기 | . | 코드 리뷰하기 . | 사람들이 제출한 코드 리뷰하기 | 다른 기여자의 멘토가 되는 것을 제안하기: Rust @ereichert | . | 그 외 협력이 가능한 다양한 방법들 . | Awesome list, Interview questions 작성하기 등 | . | . ",
+    "url": "/docs/contribute/participate/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EC%97%90-%EC%B0%B8%EC%97%AC%ED%95%98%EA%B8%B0",
+    
+    "relUrl": "/docs/contribute/participate/#오픈소스에-참여하기"
+  },"162": {
+    "doc": "오픈소스 참여하기",
+    "title": "오픈소스 프로젝트",
+    "content": "주로 Github에 많은 오픈소스들이 공개되어 있습니다. 또는, Gist나 GitLab 등에서도 다양한 오픈소스 프로젝트를 찾아볼 수 있습니다. 기업의 오픈소스 . | kakao: https://tech.kakao.com/opensource/ GitHub | Samsung: https://opensource.samsung.com/ GitHub | LG전자: https://opensource.lge.com/ GitHub | Naver: https://naver.github.io/ GitHub | Line: https://engineering.linecorp.com/ko/opensource GitHub | SKT: https://sktelecom.github.io/ GitHub | Google: https://opensource.google/projects GitHub . | Android Github: https://github.com/android | . | Microsoft: https://opensource.microsoft.com/projects/ GitHub | Meta: https://opensource.fb.com/projects/ GitHub | Netflix: https://netflix.github.io/ GitHub | Uber: https://uber.github.io/ GitHub | . 오픈소스 2022 어워드 참고하기 . | Spring Framework: https://github.com/spring-projects/spring-framework | 2022 JavaScript Rising Stars: https://risingstars.js.org/2022/en | InfoWorld’s 2022 Best of Open Source Software Award Winners: https://www.infoworld.com/article/3676829/the-best-open-source-software-of-2022.html | . ",
+    "url": "/docs/contribute/participate/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8",
+    
+    "relUrl": "/docs/contribute/participate/#오픈소스-프로젝트"
+  },"163": {
+    "doc": "Redis",
+    "title": "Redis",
+    "content": " ",
+    "url": "/docs/license/revision/redis/",
+    
+    "relUrl": "/docs/license/revision/redis/"
+  },"164": {
+    "doc": "Redis",
+    "title": "Redis : RSAL, SSPL Dual License 적용",
+    "content": "변경사항 . 라이선스 변경사항은 아래와 같습니다. Redis의 라이선스가 BSD-3 에서 RSALv2(Redis Source Available License) 또는 SSPLv1(Server Side Public License)로 변경되었습니다. Redis 7.4 버전부터 RSALv2(Redis Source Available License) 또는 SSPLv1(Server Side Public License) 라이선스가 적용됩니다.(Redis Dual 라이선스 적용) 이전에 사용되던 BSD-3 라이선스가 더이상 적용되지 않습니다. 주의 사항 . 변경에 따른 주의사항은 아래와 같습니다. | 새로운 라이선스에 따라 Redis 제품을 호스팅하는 클라우드 서비스 제공업체는 더 이상 Redis 소스 코드를 무료로 사용할 수 없습니다. | 예를 들어, 클라우드 서비스 제공업체는 Redis 코드 유지 관리업체인 Redis와의 라이선스 조건에 동의한 후에만 Redis 7.4를 제공할 수 있습니다. | RSALv2(Redis Source Available License) 특징 . | 사용/배포등은 자유롭지만 Redis 이외 다른 클라우드 등에서 서비스하는 것을 제한하는 형태의 라이선스 | . | . FAQ 주요 사항 . 3. Redis 오픈 소스 제품의 최종 사용자에게 이러한 변경이 미치는 영향은 무엇입니까? . Redis 오픈 소스 버전의 Redis와 내부 또는 개인 용도로 이중 라이선스 중 하나를 사용하는 새 릴리스를 사용하는 최종 사용자의 경우에는 변경 사항이 없습니다. 7. Redis RSALv2 또는 SSPLv1 라이선스에 정의된 “경쟁 제품”이란 무엇입니까? . “경쟁 제품”은 유료 지원 계약을 포함하여 제3자에게 판매되는 제품으로, Redis의 코드 기반에서 파생되었으며 Redis 상용 제품의 기능과 상당히 중복됩니다. 예를 들어, 이 정의에는 Redis 상용 버전(Redis 엔터프라이즈 소프트웨어 또는 Redis 클라우드)과 경쟁적으로 판매되는 솔루션의 일부로 Redis를 호스팅하거나 내장하는 것이 포함됩니다. 더욱 명확성을 제공하고 RSALv2 또는 SSPLv1 제한을 뛰어넘는 사용 사례를 지원하기 위해 맞춤형 라이선스 조건도 제공됩니다. 11. 원래의 3절 BSD 라이센스에 따라 제공된 제품 버전을 계속 사용할 수 있습니까? . 예. 라이센스 변경은 소급 적용되지 않습니다. 이는 변경 이전의 모든 소스 코드와 릴리스가 3절 BSD 라이센스에 따라 유지된다는 것을 의미합니다. 귀하는 해당 이용 약관을 준수하는 한 원래 라이센스에 따라 해당 버전을 무기한으로 계속 사용할 수 있습니다. Redis는 현재 보안 정책에 따라 Redis Community Edition이 출시될 때까지 계속해서 보안 업데이트를 제공하고 이러한 릴리스 내에서 기타 중요한 결함을 해결할 계획입니다 . 12. Redis는 3절 BSD 라이센스에 따라 보안 패치를 이전 릴리스로 백포트합니까? . Redis는 현재 보안 정책에 따라 Redis Community Edition 9.0이 출시될 때까지 사용 가능한 중요한 보안 패치를 3항 라이선스에 따라 기존 버전으로 계속 백포트할 것입니다 . 해당 날짜 이후의 모든 패치는 새로운 이중 라이센스에 따라 제공됩니다. 20. Redis를 조직 내부의 서비스로 호스팅할 수 있습니까? . 예. RSALv2 또는 SSPLv1의 조건은 당사 소프트웨어를 포함하거나 호스팅하는 제3자에게 경쟁 제품을 제공하는 경우를 제외하고 모든 비프로덕션 및 프로덕션 사용을 허용합니다. 조직 내부 사용을 위한 제품 호스팅은 허용됩니다. 조직에는 계열사와 자회사가 포함됩니다. 이는 한 부서가 다른 내부 부서에서 사용할 Redis를 호스팅할 수 있음을 의미합니다. 참고 . | Linux Foundataion에서 Valkey 라는 이름으로 Redis 프로젝트를 계속 개발해 나갈 예정입니다. 개발 기준이 되는 버전은 7.2.4이고 BSD-3 라이선스가 적용됩니다. https://www.linuxfoundation.org/press/linux-foundation-launches-open-source-valkey-community . | . ",
+    "url": "/docs/license/revision/redis/#redis--rsal-sspl-dual-license-%EC%A0%81%EC%9A%A9",
+    
+    "relUrl": "/docs/license/revision/redis/#redis--rsal-sspl-dual-license-적용"
+  },"165": {
+    "doc": "Sentry",
+    "title": "Sentry",
+    "content": " ",
+    "url": "/docs/license/revision/sentry/",
+    
+    "relUrl": "/docs/license/revision/sentry/"
+  },"166": {
+    "doc": "Sentry",
+    "title": "Sentry: BUSL1.1 라이선스 적용",
+    "content": "변경사항 . 라이선스 변경사항은 아래와 같습니다. Sentry의 라이선스가 Apache 2.0에서 BUSL 1.1 라이선스로 변경되었습니다. Sentry 10.0.0 버전부터 BUSL 1.1 라이선스가 적용됩니다. 주의사항 . 변경에 따른 주의사항은 아래와 같습니다. | BUSL 1.1 라이선스는 일정 기간 동안 상용 목적으로의 사용이 제한되고, 일정 기간이 지나면 오픈소스 라이선스로 전환되는 라이선스입니다. | 버전에 명시된 날짜 또는 버전이 배포된 지 만 3년(36개월)이 지났을 때 BUSL 1.1 라이선스에서 Apache 2.0 라이선스로 적용이 가능합니다. | . Business Source License 1.1 (BUSL 1.1) . | 일정 기간(명시된 날짜 혹은 36개월) 동안 상용 목적으로의 사용할 수 없는 제약을 가지고 있습니다. | 단, 상용 목적이 아닌 경우에는 자유롭게 사용이 가능합니다. | 해당 소프트웨어 버전에 명시된 날짜 또는 버전이 배포된 지 일정 기간이 지났을 때 BUSL 1.1 라이선스에서 Apache 2.0 라이선스로 적용할 수 있습니다. | 라이선스 보유자(Licensor)가 일정 조건하에 상용 목적 사용자에게 권리를 부여할 수 있는 부가 조항(Additional Use Grant)이 있습니다. | Sentry의 경우 어플리케이션 모니터링 서비스를 상업적으로 제공하지 않는다면 예외 적용되어 사용 가능합니다. | . | . Sentry 라이선스 전환 예시 . 23.7.0 버전: Change Date: 2026-07-17, Change License: Apache License, Version 2.0 . 참고: Sentry FAQ for Re-licensing . BUSL 1.1 라이선스로 변경된 리포지토리(Reposotiry) . 아래의 경우들이 모두 BUSL 1.1 라이선스로 변경되었습니다. | https://github.com/getsentry/sentry | https://github.com/getsentry/sentry-plugins | https://github.com/getsentry/sentry-docs | https://github.com/getsentry/snuba/ | https://github.com/getsentry/semaphore | https://github.com/getsentry/onpremise | https://github.com/getsentry/docker-sentry | All Docker images produced by the repositories above | . Sentry 코드를 얻고 재사용하기 위한 옵션 4가지 . | SHA ca8674c533a0dffc48a177554479bb85fa05891b 커밋 이전의 코드 버전을 사용합니다(BSD-3 라이선스가 적용되었습니다). | 코드를 사용할 프로젝트에 Sentry의 BUSL 1.1 라이선스를 적용합니다. | 재사용하려는 코드가 최종적으로 Apache 2.0 라이선스로 변환될 때까지 기다립니다(일반적으로 3년의 리드 타임). | Sentry에서 재사용 가능한 구성 요소를 오픈소스 저장소로 가져가려면 oss@sentry.io로 문의합니다. 이것이 가능하지 않은 경우에도 상황에 따라 Sentry 팀에게 해당 코드에 대한 명시적 허가를 받을 수 있습니다. | . Apache 2.0 라이선스 . | Sentry의 기본 라이선스입니다. | GPL 2.0과 호환성 이슈가 없는 경우, 기본 라이선스로 채택합니다. | . MIT 라이선스 . | Apache 2.0 라이선스로 인해 GPL 2.0 등과 라이선스 충돌 문제가 있는 경우 사용합니다. | Sentry에서 제공하는 모든 SDK에 적용되어 있습니다. | . ",
+    "url": "/docs/license/revision/sentry/#sentry-busl11-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EC%A0%81%EC%9A%A9",
+    
+    "relUrl": "/docs/license/revision/sentry/#sentry-busl11-라이선스-적용"
+  },"167": {
+    "doc": "오픈소스 후원 및 기여",
+    "title": "오픈소스 후원 및 기여",
+    "content": "카카오의 적극적인 오픈소스 활동에 대해 소개합니다. • 카카오의 외부활동 • 카카오 오픈소스 행사 주최 및 후원 • 카카오 오픈소스 외부 교육 및 자문 . ",
+    "url": "/docs/kakao/support/",
+    
+    "relUrl": "/docs/kakao/support/"
+  },"168": {
+    "doc": "오픈소스 후원 및 기여",
+    "title": "카카오의 외부활동",
+    "content": "카카오는 아래와 같이 오픈소스 관련 외부 활동에 활발히 참여하고 있습니다. 2023년 . | OpenChain KWG : 2019년 1회부터 꾸준히 참여하고, 세션발표 및 Planning 그룹에도 참여하여 활동 중 . | 도구 별 의존성 분석 방식 | 요즘 OLIVE 써봤니? | onot, 이제 제법 쓸만해졌어요! | . | . 2022년 . | OpenChain KWG . | [동향] 러시아의 우크라이나 침공을 대하는 오픈소스 생태계의 움직임 | 카카오와 카카오뱅크의 ISO/IEC 5230 인증 사례 공유 | 퀵 세션(Quick session): FOSSID 사용 팁 | OLIVE Platform 코드 스니펫(Code Snippet) 분석 기능 소개 | . | 오픈체인 KWG 툴링 그룹(Tooling Group) . | FOSSID 리뷰 | OLIVE CLI 소개 | . | 청소년 IT 교육 . | 언플러그드 데이 | SW 가치 확산 프로그램 | 진로체험 Show me the IT | 원격 영상 진로 멘토링 | 사이좋은 디지털 세상 | . | 카카오 트랙 . | 카카오는 2007년부터 제주대학교 공학교육센터와 산학 협약을 체결하여 수요자 중심의 맞춤형 전문 인력 양성 사업인 카카오 트랙을 16년째 이어가고 있음 | 수요자 중심의 목적 지향형 교과 과정 및 교육 시스템을 구축함으로써 졸업 후 학생들이 현장에 바로 투입될 수 있도록 실무 교육을 받은 인재를 양성 중 | . | 이공계 여성 인재 발굴 . | 카카오는 제주대학교 WISET 사업단과 함께 여성 과학 기술인의 육성 및 효율적인 지원을 통해 제주 지역 과학 기술 분야의 발전과 이공계 여성 인재 발굴에 기여하고 있음 | . | . 2021년 . | 오픈체인 KWG . | 세션 발표 . | Kakao의 오픈소스 관리시스템 Olive 소개 | Olive 의존성 분석 구조 및 스펙 | SCA(Software Composition Analysis) Market 동향 | Olive 전격 공개 | 최근 오픈소스 동향 | . | KWG 활동 . | 1회부터 매회 참여하여 기업간 오픈소스 정보 교류 활동 | OpenChain KWG 운영진 활동중 (카카오 황민호) | . | OpenChain 2.1 인증 준비 (2021년) . | OpenChain 2.1 is ISO/IEC 5230:2020 인증을 위한 내부 검토 진행 중 | . | . | 오픈소스 SW 라이선스 전문가 커뮤니티(카카오 황은경) . | 삼성전자, LG전자 등 기업 담당자와 법조계, 학계 교수님 등 전문가로 구성된 한국저작권위원회 주관의 오픈소스 라이선스 전문가 커뮤니티 참여 | . | NIPA 공개SW 기업 가이던스 가이드 전문위원 활동(카카오 황민호) . | 공개SW 활용 및 공개SW 거버넌스 구축 지원을 위한 가이드 집필 참여(카카오 황민호) | NIPA 공개소프트웨어 매니지먼트 아카데미 강사 | . | 카프카 한국 사용자 모임: 카프카 스트림즈 소개 및 활용 방법 (카카오 최원영) | 카카오 기술블로그 - 주니어 FE 개발자 오픈소스 성장기 (카카오 연주안) | NIPA 오픈소스(공개) SW 프로젝트 참여 개발자(오픈 프론티어) 지원 . | Delta Lake (카카오 박현우) | koBPF (카카오 엔터프라이즈 정준영) | koNLPy (카카오 엔터프라이즈 이다니엘) | . | . 2020년 . | 오픈소스 컨트리뷰톤 2020: Flutter Moum 팀 팀 멘토 장관상 수상(카카오 이한솔) | 오픈소스 컨트리뷰톤 2020 ESLint 팀 멘토 원장상 수상 (카카오 연주안) | SOSCON 2020: 오픈소스 컴플라이언스 in Business And Kakao (카카오 황민호) | 공개SW 개발자 인터뷰: 카카오 나동호 파이썬 커미터 “하루 3~4시간씩 자면서 오픈소스 기여” | . 2019년 . | FOSSCON: 카카오뱅크 모바일 앱의 개발과 운영 이야기 (카카오뱅크 박이랑) | . ",
+    "url": "/docs/kakao/support/#%EC%B9%B4%EC%B9%B4%EC%98%A4%EC%9D%98-%EC%99%B8%EB%B6%80%ED%99%9C%EB%8F%99",
+    
+    "relUrl": "/docs/kakao/support/#카카오의-외부활동"
+  },"169": {
+    "doc": "오픈소스 후원 및 기여",
+    "title": "카카오 오픈소스 행사 주최 및 후원",
+    "content": "카카오는 아래와 같이 오픈소스 관련 행사를 주최 또는 후원하고 있습니다. 2023년 . | 장애·비장애 대학생 창업경진대회 | 구름톤(Goormthon) | 구름 디지털 새싹 캠프 | 새싹톤 | KCC 2023 | 제주대학교 WISET 강의 | OpenChain KWG | . 2022년 . | KCC 2022 한국정보과확회 | KSC 한국소프트웨어종합학술대회  | SW중심대학 공동 해커톤 | 메타버스 경진대회 한국전파진흥원 | UNITHON 해커톤 | SUAPC ICPC Sinchon | OpenChain KWG | 장애·비장애 대학생 창업경진대회 | 부산대학교 산학교류회 | 42서울, 스몰톡 | 소프트웨어마이스터고 연합 해커톤 | 이노베이션아카데미(42서울) 직무설명회 | 메타버스 경진대회 | FOSS4G Korea 2022 | 구름톤(Goormthon) | 데이터야놀자 | OpenInfra &amp; Cloud Native Day Korea | kafkaKRU(카프카 한국 사용자 모임) 밋업 | 공개SW 컨트리뷰톤 | 공개SW 경진대회 | . 2021년 . | (주최) if kakao 2021 | 전국 대학생 프로그래밍 대회 동아리 연합 UCPC 대회 | 2021 신촌지역 대학교 프로그래밍 동아리 엽합 여름대회 | 2021 오픈소스 컨트리뷰톤 | 2021 신촌지역 대학교 프로그래밍 동아리 엽합 겨울대회 | 2021 한국컴퓨터종합학술대회 (Korea Computer Congress 2021) | . 2020년 . | (주최) if kakao 2020 | (주최) 카카오 아레나 3th | SW마이스터고 연합 해커톤 | KSC 한국소프트웨어종합학술대회 | 2020 오픈소스 컨트리뷰톤 | jsconf korea 2020 | KCC 한국컴퓨터종합학술대회 | . 2019년 . | (주최) if kakao 2019 | (주최) 카카오 FE 밋업 | (주최) 카카오 아레나 2th | Let’Swift KSC | 한국소프트웨어종합학술대회 | SoCal K-Group Conf 2019 | kafka conf seoul 2019 | JSConf Korea | Open Infrastructure &amp; Cloud Native Days Korea 2019 | KCC 한국컴퓨터종합학술대회 | 오픈핵, SW중심대학 | kafka 2회 밋업 | KCD(한국 커뮤니티 데이) | . ",
+    "url": "/docs/kakao/support/#%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%96%89%EC%82%AC-%EC%A3%BC%EC%B5%9C-%EB%B0%8F-%ED%9B%84%EC%9B%90",
+    
+    "relUrl": "/docs/kakao/support/#카카오-오픈소스-행사-주최-및-후원"
+  },"170": {
+    "doc": "오픈소스 후원 및 기여",
+    "title": "카카오 오픈소스 외부 교육 및 자문",
+    "content": "카카오는 아래와 같이 오픈소스 관련 외부 교육 및 자문을 수행하고 있습니다. 2021년 . | 카카오 트랙(Kakao Track): 제주대학교 오픈소스 강의 . | Kakao 교육 협력 과제 중 하나로 제주대 공학도를 대상으로 하는 Kakao Track 프로그램 | 2013년 부터 매년 강의 진행 중 | 커리큘럼 및 강의 자료 (위키 임시) | 오픈소스 개요부터 Github Page, Action 사용 및 오픈소스 동향 소개까지 오픈소스 전반에 대한 내용을 다루고 있음 | . | 충남대 공개 소프트웨어 실습 강의(카카오 전수현) . | 공개 소프트웨어와 라이선스의 이해, 오픈소스 이슈 분석 및 도출과 해결방법 등 | . | 육군본부(카카오 황은경, 황민호) . | 육군본부 분석평가단 지식과에서 오픈소스 컴플라이언스와 관련된 자문 | . | 신한은행(카카오 황은경, 황민호) . | 신한은행 오픈소스 조직 대상 오픈소스 교육을 실시 | . | KOSSA WISET 오픈소스 SW 코디네이터 양성과정 (카카오 황은경, 이민정) . | KOSSA:WISET 오픈소스 코디네이터 양성과정 교육 과정에서 카카오 기술 플랫폼에서 제공하고 있는 오픈소스 검증 서비스 ‘올리브 플랫폼(OLIVE Platform)’을 활용한 실무 교육 진행 | . | ETRI(카카오 황은경, 이민정) . | Olive 시스템에 대한 소개와 카카오의 오픈소스 업무 방식에 대한 전문가 초청 강의 | . | 오픈소스 소프트웨어 가이던스 배포 | . 2019년 . | NC Soft (카카오 황은경, 황민호) | 카카오뱅크 (카카오 황은경, 황민호) | . ",
+    "url": "/docs/kakao/support/#%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%99%B8%EB%B6%80-%EA%B5%90%EC%9C%A1-%EB%B0%8F-%EC%9E%90%EB%AC%B8",
+    
+    "relUrl": "/docs/kakao/support/#카카오-오픈소스-외부-교육-및-자문"
+  },"171": {
+    "doc": "국가별 AI 규제 정책 현황",
+    "title": "국가별 AI 규제 정책 현황",
+    "content": "2024년, AI 기술의 발전은 사회에 새로운 기회를 제공하는 동시에 윤리적·안보적 과제를 던지고 있습니다. 이에 따라 전 세계적으로 AI의 잠재력을 활용하면서도 그 위험을 관리하기 위한 다양한 규제들이 도입되고 있습니다. EU는 AI 법안을 통해 엄격한 규제를 시행하고 있으며, 미국은 규제 기관을 통해 AI 플랫폼의 영향을 면밀히 조사하고 있습니다. 이러한 규제의 핵심 원칙으로는 인권 존중, 지속 가능성, 투명성 및 위험 관리 등이 포함됩니다. EU, 미국, 중국, 일본 및 영국을 비롯한 여러 국가들은 각자의 규제 방안을 추진하는 동시에, 국제적 협력을 강화하여 AI의 안전하고 지속 가능한 발전을 도모하고 있습니다. 이 가이드에서는 이러한 각 국가들의 AI 규제 정책의 현황을 소개합니다. ",
+    "url": "/docs/trend/trend/",
+    
+    "relUrl": "/docs/trend/trend/"
+  },"172": {
+    "doc": "국가별 AI 규제 정책 현황",
+    "title": "유럽연합",
+    "content": "2024년 3월 13일 세계 최초로 AI 법안(Regulation Laying Down Harmonised Rules on Artificial Intelligence, 이하 EU AI 법)을 통과시켰습니다. EU AI 법은 현재까지 AI에 관하여 이루어진 가장 포괄적인 규제 프레임워크이며, 2024년 5 ~ 6월경에 발효되어 2024년 하순부터 시행될 것으로 예상됩니다. EU AI 법의 주목적은 강력한 AI 시스템이 초래할 수 있는 인권, 안전 및 윤리 문제를 감소시키는 데에 있으며, AI 시스템의 배포 및 사용에 대한 위험(Risk) 기반 접근 방식을 채택하여 AI 시스템의 잠재적인 위험과 영향 수준에 따라 위험도를 4단계로 나누어 차등 규제합니다. 법안 통과 과정 개요 . • 2023년 12월: EU 정책 입안자들의 합의 • 2024년 2월 2일: 상임대표위원회에서 AI 법 채택 . EU, 세계 최초 인공지능법 최종 합의에 도달 . | 고위험 AI 시스템의 식별과 감독 강화를 통해 AI의 신뢰성을 보장하고 기본권을 보호하며, 디지털 단일 시장 내에서 혁신을 촉진하는 것을 목표 | AI 시스템의 위험 수준에 따라 의무를 부과하며, 시민의 권리와 민주주의에 위협이 되는 특정 애플리케이션의 사용을 금지 | 생체 인식 분류 시스템과 얼굴 인식 데이터베이스에 대한 비표적 스크래핑 등을 금지 | AI 법안의 실질적인 시행은 2025년부터 시작될 것으로 예상(세계 최초로 AI에 대한 법안을 마련) | 이 법안은 안전한 운영 및 기본권 존중, 그리고 혁신 촉진을 목표로 하고 있어, 앞으로 AI 기술에 대한 국제적인 규제 흐름에 중요한 영향을 미칠 것으로 예상됨 | . ",
+    "url": "/docs/trend/trend/#%EC%9C%A0%EB%9F%BD%EC%97%B0%ED%95%A9",
+    
+    "relUrl": "/docs/trend/trend/#유럽연합"
+  },"173": {
+    "doc": "국가별 AI 규제 정책 현황",
+    "title": "미국",
+    "content": "미국이 세계 각국과 함께 글로벌 인공지능(AI) 규제에 대한 합의를 이끌고 나섰습니다. 지난해부터 급증한 전 세계 AI 개발 열풍의 그림자인 국가 안보, 인류 위협 등을 예방하기 위한 공통된 규제가 있어야 한다는 판단에서 입니다. 2024년 3월 14일(현지시간) 블룸버그는 미국이 안전하고 신뢰할 수 있는 AI 시스템을 장려하기 위한 결의안 초안을 유엔(UN)에 제출했다고 보도했습니다. 또한, 블룸버그는 “초안을 확인한 결과 보안 시스템, 위험 관리 등을 포함하는 AI 사용에 대한 효과적인 안전장치를 마련한다는 내용을 담았다”고 전했습니다. 아울러 초안에는 AI 개발 민간 업체가 관련 국제법 및 국내법을 준수하도록 장려한다는 것도 포함되었으며, 선진국과 개발도상국 간 AI 기술 격차를 줄인다는 내용도 담겨있습니다. 바이든 대통령, 미국 최초 ‘AI 행정 명령’ 발표 . 바이든 대통령이 2023년 10월 30일 미국 최초로 AI 관련 행정 명령을 발표하였습니다. 국내 기업이 개발한 AI 모델이 국가 안보, 경제, 또는 건강 위해를 초래할 경우, 이를 연방 정부에 통지해야 한다는 것이 핵심 내용입니다. 주요 사항을 정리하면 아래와 같습니다. | AI 안전 및 보안을 위한 새로운 표준 정립 | 국민의 개인 정보 보호 | 형평성 및 시민권 증진 | 소비자, 환자 및 학생을 위한 AI | 근로자 지원 | 혁신과 경쟁 촉진 | 전 세계적 AI 리더십 발전 | 책임감 있고 효과적인 정부의 AI 사용 보장 | . 미국 백악관, AI 기업 대상 ‘AI 안전 서약’ 발표 . 미국 백악관이 2023년 7월 21일 AI 기업을 대상으로 AI 안전 서약을 발표하였습니다. 서약에는 기업들이 생성형 AI 콘텐츠에 워터마크를 포함하는 등 AI를 책임 있고 안전하게 사용할 것을 약속하는 8개 조항이 포함되었는데, 구체적인 내용은 아래와 같습니다. | 가짜 뉴스와 딥페이크를 방지하기 위해 텍스트나 이미지, 사운드 및 동영상 등 AI 생성 파일에 워터마크를 추가 | AI 오남용 모니터링 외부 팀 구성 | 정부와 기업에 안전 정보 공유 | 사이버 보안 투자 | 보안 취약점 및 AI의 환각 및 편향성 문제 보고 | 최첨단 AI 모델을 활용해 기후변화와 신약 개발 등 사회 문제를 우선적으로 해결 | . ",
+    "url": "/docs/trend/trend/#%EB%AF%B8%EA%B5%AD",
+    
+    "relUrl": "/docs/trend/trend/#미국"
+  },"174": {
+    "doc": "국가별 AI 규제 정책 현황",
+    "title": "영국",
+    "content": "영국, ‘제1차 AI 안전성 정상회의’에서 ‘블레츨리 선언’ 발표 . | 2023년 11월 1일 제1회 AI 안전성 정상회의(AI Safety Summit)에서 블레츨리 선언(Bletchley Declaration)을 발표 | 블레츨리 선언은 AI 안전과 윤리에 대한 글로벌 약속으로, 29개의 서명국은 안전하고 인간 중심적이며 윤리 원칙에 부합하는 AI 기술 개발을 위해 협력하기로 합의 | AI 안전성 정상회의에서 제시된 5가지 목표 . | 프론티어 AI가 초래하는 위험과 조치의 필요성에 대한 이해 공유 | 국내 및 국제 프레임워크를 지원하는 최선의 방법을 포함하여 프론티어 AI 안전에 대한 국제협력을 위한 전진 프로세스 수립 | 개별 조직이 프론티어 AI 안전을 강화하기 위해 취해야 할 적절한 조치 수립 | 모델 기능평가 및 거버넌스를 지원하기 위한 새로운 표준 개발을 포함하여 AI 안전 연구에 대한 잠재적 협력분야 발굴 | AI의 안전한 개발을 보장함으로써 AI가 전 세계적으로 정직하게 사용될 수 있는 방법 제시 | . | . ",
+    "url": "/docs/trend/trend/#%EC%98%81%EA%B5%AD",
+    
+    "relUrl": "/docs/trend/trend/#영국"
+  },"175": {
+    "doc": "국가별 AI 규제 정책 현황",
+    "title": "중국",
+    "content": "중국 사이버공간 관리국, 생성형 AI에 대한 잠정조치 발효 . | 새로운 인공지능(AI) 규제안을 2023년 8월 15일부터 시행 | 중국 사이버공간관리국(CAC)과 과학기술부 등 6개 정부 기관이 협력하여 추진하는 규제안은 급속히 성장하는 AI 분야를 관리하는 것이 목적 | 규제안은 AI 서비스 플랫폼이 공개되기 전에 관리를 위해 등록 및 보안 심사를 받는 것을 의무화하며, AI가 생성한 콘텐츠에는 명확한 라벨을 부착하도록 규정하고 있음 | . ",
+    "url": "/docs/trend/trend/#%EC%A4%91%EA%B5%AD",
+    
+    "relUrl": "/docs/trend/trend/#중국"
+  },"176": {
+    "doc": "국가별 AI 규제 정책 현황",
+    "title": "일본",
+    "content": "일본 자민당, 2024년 내 AI법안 도입 추진 . | 일본 자유민주당(Liberal Democratic Party)은 2024년 내에 AI 법안을 도입할 계획을 발표 | 법안은 허위 정보를 걸러내고 저작권을 보호하며, AI의 윤리적 사용을 보장하는 데 중점을 둠 | . 일본, AI 연구소 설립 . | 2024년 2월 14일 경제산업성 산하에 AI 안전 연구소를 설립 | . 참고하기 . | 글로벌 인공지능(AI) 규제의 확산: 우리 기업의 새로운 비즈니스 전략이 필요한 결정적 시기 | AI 규제안 마련하는 세계…美, 유엔서 초안 제출 | 미국과 영국의 AI 규제동향 | 오픈 AI·구글 등, 워터마크 포함 ‘AI 안전 서약’ 발표 | . ",
+    "url": "/docs/trend/trend/#%EC%9D%BC%EB%B3%B8",
+    
+    "relUrl": "/docs/trend/trend/#일본"
+  },"177": {
+    "doc": "오픈소스 관리",
+    "title": "오픈소스 관리",
+    "content": "프로젝트에서 오픈소스를 사용하는 경우가 점점 증가함에 따라, 오픈소스 관리의 중요성도 함께 커지고 있습니다. 이 가이드에서는 오픈소스 관리를 위한 식별 도구의 주요 기능을 살펴봅니다. ",
+    "url": "/docs/use/verification/",
+    
+    "relUrl": "/docs/use/verification/"
+  },"178": {
+    "doc": "오픈소스 관리",
+    "title": "오픈소스 소프트웨어 개발 환경으로의 변화",
+    "content": "지난 10년 동안 대부분의 기업은 독점 소프트웨어에서 오픈소스 소프트웨어 개발 환경으로 변화해 왔습니다. 레드햇(RedHat) 오픈소스 현황 보고서 . 레드햇(RedHat) 2022 보고서 . 2022년 레드햇(RedHat)이 전 세계 IT 리더 1,296명을 대상으로 수행한 인터뷰 결과를 엔터프라이즈 오픈소스 현황 보고서(2022)로 발표했습니다. 이 보고서에 따르면 오픈소스 사용이 증가함에 따라, 엔터프라이즈 소프트웨어 시장에서 점차 독점 소프트웨어 사용이 감소하고 있다는 것을 확인할 수 있습니다. 또한, 앞으로 독점 소프트웨어 사용률이 향후 2년간, 45%에서 37%로 8%나 줄어들 것으로 전망하고 있으며, 같은 기간 동안 엔터프라이즈 오픈소스와 커뮤니티 기반 오픈소스는 각각 5%, 3% 증가할 것으로 예상했습니다. 세부적으로는 IT 리더의 80%가 조직에서 계속해서 새로운 기술을 도입하며, 엔터프라이즈 오픈소스 소프트웨어 사용이 지속적으로 증가할 것이라고 답했습니다. 레드햇(RedHat) 2020 보고서 . 레드햇의 2020년 엔터프라이즈 오픈소스 현황 보고서에 따르면, 조사 대상의 95%가 오픈소스가 중요하다고 답변하였으며, 가트너(Gartner) 조사에서는 주요 IT 조직의 95% 이상이 오픈소스를 사용하고 있다고 조사되었습니다. 다수의 기업이 오픈소스를 사용할 수밖에 없는 이유를 정리하면 아래와 같습니다. | 총 개발 비용 절감 | 최신 기술 확보 | 내부 기술 역량 강화 | 기술 경쟁력 강화 | 시장의 확대 | 우수한 개발 인재 확보 | . 오픈소스 생태계의 급격한 발전 . 개발 환경이 오픈소스 소프트웨어를 사용하는 방향으로 나아가며, 오픈소스 생태계는 해를 거듭할수록 급격히 발전하고 있습니다. 2022년 GitHub에 새로 가입한 개발자는 27%(2천만 명), 생성된 저장소는 20%(8천6백만 개) 그리고 기여 건수는 35억 건이 증가하였습니다. ",
+    "url": "/docs/use/verification/#%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD%EC%9C%BC%EB%A1%9C%EC%9D%98-%EB%B3%80%ED%99%94",
+    
+    "relUrl": "/docs/use/verification/#오픈소스-소프트웨어-개발-환경으로의-변화"
+  },"179": {
+    "doc": "오픈소스 관리",
+    "title": "라이선스 컴플라이언스를 위한 OSS(Open-source software) 식별 도구",
+    "content": "라이선스 컴플라이언스를 준수하기 위해 사용할 수 있는 OSS 식별 도구의 종류는 아래와 같습니다. 파일스캐너 . | 개발자가 놓칠 수 있는 라이선스, 컴포넌트 감지 | 모든 종류의 휴리스틱 포함 | 여러 형태의 출력 형식 제공 | . 코드 스캐너 . | 코드 스캔 | 주기적으로 동작 | 새로운 오픈 소스 컴포넌트 감지 | . 패키지 매니저 스캐너 . | 제품의 OSS 컴포넌트인 SBOM 생성 도움 | 프로그램 언어별 다양한 패키지 매니저 분석 | . 참고하기 보다 더 다양한 오픈SW 검사도구들은 오픈소스SW 라이선스 종합정보시스템(OLIS) - 그 외 오픈SW 검사도구에서 확인할 수 있습니다. ",
+    "url": "/docs/use/verification/#%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4-%EC%BB%B4%ED%94%8C%EB%9D%BC%EC%9D%B4%EC%96%B8%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-ossopen-source-software-%EC%8B%9D%EB%B3%84-%EB%8F%84%EA%B5%AC",
+    
+    "relUrl": "/docs/use/verification/#라이선스-컴플라이언스를-위한-ossopen-source-software-식별-도구"
+  }
+}
